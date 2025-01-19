@@ -86,8 +86,8 @@ const stories = [
   },
   {
     title: "The Last Train",
-    genre: "Cyberpunk",
-    url: "https://i.imgur.com/UoPpVKw.jpeg",
+    genre: "Mystery",
+    url: "https://i.imgur.com/OaZJmqt.png",
     story: `
       Lena had always been an early riser. The train station was mostly empty at 5:45 AM, with only a few commuters scattered around, staring blankly at the tracks. She sat on the bench, the quiet hum of the waiting train filling the air.
 
@@ -155,11 +155,27 @@ const stories = [
     `
   },
   {
-    title: "",
-    genre: "",
-    url: "",
+    title: "The Last Shimmer of Fur",
+    genre: "Fantasy/Adventure",
+    url: "https://i.imgur.com/7y4RHQA.jpeg",
     story: `
+      In the heart of a forgotten forest, where light struggled to break through the dense canopy, lived a peculiar creature named Flicker. Flicker was not just any ordinary inhabitant; he was a fluffy, blue-gray being with wild tufts of hair that danced in the breeze, and enormous, expressive eyes that held a spark of curiosity.
 
+      For many years, Flicker had watched the world from the shadows, captivated by tales whispered among the trees—stories of a magical place where all creatures lived in harmony. However, the forest surrounding him was losing its magic. The flowers wilted, the streams dried up, and his friends were disappearing one by one, turned to whispers on the wind.
+
+      One fateful day, as Flicker sulked beneath a gnarled oak tree, he overheard a group of forest sprites discussing a legendary artifact—a glowing crystal known as the Heart of Radiance, said to restore life and magic to the land. Flicker’s heart raced with hope; this was his chance!
+
+      With a newfound determination, Flicker packed some berries and set off on an adventure into the depths of the forest, navigating through tangled vines and over moss-covered stones. He encountered challenges along the way: a wise old owl who asked riddles, a brook that demanded a song, and a thicket of brambles that whispered his fears.
+
+      Despite feeling lost, every step he took was guided by an inner light—the belief that he could change not just his fate, but the fate of his home. Flicker’s spirit soared as he drew closer to the peak of the mountain where the crystal resided, the air thrumming with magic.
+
+      At the summit, surrounded by swirling clouds, Flicker finally spotted the Heart of Radiance. It pulsed with a vibrant glow, illuminating the shadows around him. With careful steps, he approached. As he reached out, the Heart resonated with Flicker’s essence, intertwining their energies.
+
+      In that moment, Flicker's wild fur shimmered with brightness, and he felt a rush of power. The forest below reacted instantly—the trees burst into bloom, the streams flowed again, and laughter echoed through the air as creatures emerged from their hiding. Flicker realized he wasn’t just restoring the forest; he had awakened its spirit.
+
+      Flicker returned home a hero, surrounded by friends old and new. With his heart now aglow with magical energy, he understood that even the smallest creature could lead to the greatest change. The whispers of the forest changed from sadness to joy, and Flicker—once a forgotten being—became the guardian of the Heart of Radiance, forever ensuring that the forest would flourish.
+
+      As the sun dipped low, Flicker gazed at the vibrant colors painting the sky, knowing that every shadow held the potential for light and every creature the possibility for greatness. And in the spirit of adventure, he knew his story had just begun.
     `
   },
   {
