@@ -266,10 +266,25 @@ With the orb’s echo still in her heart, Lena knew her journey was just beginni
     `
   },
   {
-    title: "",
-    genre: "",
-    url: "",
+    title: "Echoes of Silence",
+    genre: "Slice of Life / Coming-of-Age",
+    url: "https://i.imgur.com/R3saZ4k.jpeg",
     story: `
+As the sun dipped below the horizon, casting a warm glow through her bedroom window, Hana lay on her bed, enveloped in the soft embrace of her favorite oversized sweatshirt. It was an ordinary evening in the bustling heart of the city, yet for Hana, it felt like a moment suspended in time.
+
+With her headphones snug over her ears, she drifted into a world of sound. Each note from her carefully curated playlist resonated deep within her, telling stories that words alone could not. The soothing melodies spoke of dreams and adventures, drawing her into memories of laughter shared with friends and moments of solitude that shaped who she was becoming.
+
+Hana often found solace in music; it was her refuge from the pressures of school, expectations, and the hurried lifestyle of city life. She had recently navigated the labyrinth of high school, feeling both liberated and lost as she stood at the threshold of adulthood. It wasn't easy—it never was—but this peaceful cocoon of sound was a sweet reminder that she was not alone in her journey.
+
+Outside her window, the everyday life of the city continued. She could hear the faint hum of traffic, snippets of laughter from neighbors, and the occasional bark of a dog. But inside, it was a sanctuary, a space where she could dream about her future, where her heart raced with the thought of exploring distant lands, writing stories of her own, and finding her place in the vast tapestry of life.
+
+As she let the music wash over her, thoughts began to crystallize. In the back of her mind, a dream was forming—a dream of a small café tucked away in a quiet corner of the city, where she would write and share her creations with the world. She pictured the warm aroma of coffee, the laughter of friends, and the pages of her stories brought to life.
+
+In this moment, the weight of uncertainty lifted. She imagined herself sitting in that café, pen in hand, surrounded by people who were not just patrons but fellow dreamers. Voices melded with the soft jazz playing in the background, creating a beautiful symphony that mirrored her own.
+
+Hana took a deep breath, inhaling the familiar scent of her room mixed with the faint aroma of rain outside. Perhaps she couldn’t see the future yet, but with each beat of the music, she understood she was closer to discovering who she truly wanted to be. For now, she’d allow herself this moment—dreaming, creating, and soaking in the echoes of silence that filled her room.
+
+As night fully enveloped the city, Hana lingered in her reverie, fueled by the melodies that wrapped around her like a comforting blanket, promising that tomorrow would bring new chances and new stories to tell.
 
     `
   },
