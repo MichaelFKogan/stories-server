@@ -1,0 +1,23 @@
+const express = require('express');
+const app = express();
+const port = 3000;
+
+const stories = [
+    {
+        title: "AI Journey: The Girl Who Knew Too Much",
+        genre: "Cyberpunk",
+        url: "https://example.com/image.jpg",
+        story: `
+            In the neon-lit streets of Neo-Celeste...
+        `
+    },
+    // More stories here
+];
+
+app.get('/stories', (req, res) => {
+    res.json(stories);
+});
+
+app.listen(port, () => {
+    console.log(`Server is running at http://localhost:${port}`);
+});
