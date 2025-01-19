@@ -179,26 +179,89 @@ const stories = [
     `
   },
   {
-    title: "",
-    genre: "",
-    url: "",
+    title: "Whispers of the Night",
+    genre: "Horror/Fantasy",
+    url: "https://i.imgur.com/zZstOPn.jpeg",
     story: `
+      In the desolate village of Elmsworth, the crimson moon loomed over the ancient hills, casting eerie shadows that flickered like restless spirits. The townsfolk spoke in hushed tones of a curse that had befallen young Clara Hawthorne, a girl whose beauty was overshadowed by an abiding darkness. 
 
+      Clara had always been different, marked by a mysterious birthright whispered through generations. Her eyes glowed with an otherworldly luminescence, an unsettling trait that made the villagers wary. Cracks marred her porcelain skin, resembling fissures in the very fabric of reality. They said she was a harbinger of doom, and many believed it to be true as strange occurrences unraveled in Elmsworth.
+
+      It began with the dolls—the haunting porcelain faces that lined the shelves of her home. Each one was alive with a sinister enchantment, their eyes blinking with malevolence when Clara’s back was turned. At night, they whispered dark secrets, compelling her to act against her will, tugging at the edges of her mind.
+
+      One fateful evening, Clara ventured to the outskirts of the village, drawn by an insatiable urge. The wind howled like the damned, and a chilling fog enveloped her, revealing the twisted shapes of forgotten trees. Dread tainted the air as she stumbled upon an ancient graveyard, its headstones whispered long-lost names.
+
+      In the pale moonlight, she could see figures emerging from the shadows—wraiths of those wronged in life. Among them stood a grotesque puppet-like creature, adorned in tattered clothing. Its laugh—mechanical and hollow—sent shivers down her spine. Beside it loomed a shadowy figure, more monstrous than the last, its eyes glimmering like burning coals. Clara recognized the truth behind the curse: her connection to these spirits was inescapable.
+
+      “You’ve awakened us!” the doll-man rasped, his voice echoing back from the grave. “Join us, Clara. Embrace your legacy.”
+
+      With each word, Clara felt the tether to her memories fray, allowing the darkness to seep in. She resisted, but the whispers encircled her mind, promising power and acceptance in exchange for her soul. The line between right and wrong blurred in the face of temptation.
+
+      As she fought back against the looming shadows, the ground beneath them trembled. The wails of the villagers echoed in her ears—a cacophony of fear and betrayal. Realizing that the fate of Elmsworth rested upon her choices, Clara made her stand.
+
+      “No more!” she shouted, her voice breaking through the encroaching dark. Drawing upon the remnants of her will, she grasped the talisman hidden in her heart—a piece of light left behind by her ancestors. It glowed fiercely, illuminating the graveyard and dispelling the malice that engulfed her.
+
+      With a surge of energy, Clara unleashed the pulsing light upon her spectral captors. The wraiths shrieked, their forms dissolving into the ether, and the doll fell silent, its secrets vanishing with the night. They were free, and so was she.
+
+      As dawn broke over Elmsworth, the villagers gathered to find Clara standing in the center of the graveyard, her eyes reflecting the gold of the rising sun. She was transformed, free from the shadows that once clung to her. But the sacrifices made that night weighed heavy in her heart, a reminder that darkness is never truly vanquished; it lingers, waiting for the next unfortunate soul to beckon it forth.
+
+      Thus, Clara Hawthorne became a guardian of Elmsworth, a keeper of the whispers that haunted the night, ever vigilant against the encroaching shadows. For in her eyes, lingering amber flames told tales of the battles fought in the depths of the unknown.
     `
   },
    {
-    title: "",
-    genre: "",
-    url: "",
+    title: "Emergence",
+    genre: "Post-Apocalyptic Fantasy",
+    url: "https://i.imgur.com/I5QZAUX.jpeg",
     story: `
+In a world ravaged by war and environmental devastation, humanity’s folly had stirred something ancient, something primordial. In the ashes of civilization, where skyscrapers stood shattered and the ground was littered with remnants of the past, a lone figure appeared amidst the chaos. His name was Kael, a child of the old world, one of the few survivors who had witnessed the fall of the once-prosperous cities.
 
+Kael stood, facing the horizon where the sun dipped below a churning sky, darkened by smoke and debris. Clad in rags, his bare skin bore the marks of a struggle for survival, yet within him burned a flickering light of hope. Years had passed since the last remnants of society crumbled, but a deep-rooted feeling whispered of an awakening—a resurgence of what had been lost.
+
+As he ventured deeper into the wasteland, the ground trembled beneath him, sending tremors surging up his legs. Kael sensed a powerful energy rising from the earth, a heartbeat that resonated with his own. He approached the epicenter, an area scorched by a cataclysmic event long forgotten. There, amidst the charred remains, a massive figure began to materialize—a titan borne of fire and ash, a manifestation of nature's wrath and humanity's hubris.
+
+It loomed above Kael, crafted from the very elements that had wrought destruction—a colossal being of molten rock and ember, its form pulsating with an ethereal glow. The Titan's eyes shone like suns, reflecting pain, anger, and an indescribable wisdom. This was not just a harbinger of doom; it was a force of renewal, a guardian of the earth rising from the depths of despair.
+
+Kael felt drawn to it, an inexplicable connection coursing through his veins. He raised his arms, palms open, unafraid. In that moment, he understood—the Titan was not only a savior but a reflection of what humanity could become if it learned to respect and harmonize with nature. The ashes of the past gave birth to seeds of the future, and it was within him to change the narrative.
+
+As the Titan descended, flames swirling around them, Kael was enveloped by a gentle warmth rather than destruction. Instead of being consumed, he felt empowered, ignited by the Titan's essence. Visions flooded his mind—images of rebirth, greenery sprouting from the ruins, communities flourishing side by side with nature, a world united by understanding and care.
+
+“Together,” Kael whispered, his voice rising above the cacophony of the pyre. “Together, we can start anew.”
+
+In answer, the Titan roared, its voice echoing through the hollow canyons of the past. With a sweep of its arm, the earth began to tremble in a different way—as if responding to Kael's call. The fires receded, and before him, patches of green began to emerge, modest at first, but persistent and resolute. 
+
+With the Titan by his side, Kael knew he had become part of something greater—a movement not just for survival, but for revival. As the sun rose again, casting golden light over the forgotten land, he stepped forward, ready to lead others toward a new chapter—a testament to resilience, hope, and rebirth in the face of devastation.
+
+The Titan remained in the backdrop, a guardian watching over the resurrection of a world once lost. Together, they would reclaim the earth, transformed by the ashes of the past.
     `
   },
   {
-    title: "",
-    genre: "",
-    url: "",
+    title: "Emerald Shadows",
+    genre: "Post-Apocalyptic Sci-Fi",
+    url: "https://i.imgur.com/nFnyCMJ.jpeg",
     story: `
+In the year 2142, the world was a haunting landscape of crumbling skyscrapers and tangled underbrush, remnants of humanity's discarded dreams. Nature had reclaimed what technology had once dominated, intertwining concrete and steel with vibrant green life. Amid this overgrown chaos wandered Lena, a fierce young scavenger with striking red hair that flickered like flames against the muted backdrop of decay.
+
+Lena stood at the edge of what used to be downtown, her form silhouetted against a once-bustling skyline now reduced to ruin. Her emerald green eyes, vibrant and unnerving, were her most prized possession—an uncanny result of the genetic modifications that had kept her alive in this dystopian wilderness. She was one of the last of the "Renovators," a group born from the remaining pockets of advanced civilization trying to weave their essence into a reality so vastly changed. 
+
+Every day, Lena scoured the remnants of the past, searching for lost resources and technology, determined to find viable components to create a sustainable life in the wasteland. Her backpack was filled with forgotten gadgets, pieces of metal, and traces of old machinery, all infused with her hopes of restoring her world.
+
+On this particular day, as morning dew still clung to the tattered vines wrapping the remnants of civilization, Lena sensed a disturbance—a faint humming, buried deep beneath the layers of decay. Exhilaration coursed through her veins, battling the instinctual dread that often threaded its way through the lives of scavengers. This was no ordinary noise; it was a pulse, a heartbeat of technology yearning to be awakened.
+
+Venturing toward the sound, Lena pushed through the underbrush, her boots crunching over layers of fallen leaves and broken glass. She stumbled upon what seemed like the entrance to a hidden chamber, half-buried beneath an avalanche of vines and rusted beams. The low hum grew louder as she neared, drawing her in like a moth to a flickering flame.
+
+With fervent determination, Lena cleared away the debris, revealing an ancient elevator shaft that disappeared into darkness. After a moment of hesitation, she activated her handheld scanner, the screen flickering to life, illuminating the glyphs engraved around the entrance. They told stories of a forgotten society—one that had built wonders yet never envisaged their fall.
+
+Taking a deep breath, Lena descended into the depths, her heart pounding in time with the thrumming sound. If the source of the hum were what she suspected, it could change everything. What lay ahead could either be her salvation or her most significant failure.
+
+The darkness enveloped her as the shaft widened into a cavernous room, the source of the hum pulsating brighter now—a shimmering orb encased in a mesh of wires and glowing symbols, suspended in mid-air like a lost star. It radiated an energy that felt both ancient and new, inviting her forward.
+
+Lena stepped closer, her hand outstretched. The moment her fingers brushed against the orb, visions flooded her mind—memories of the world before, now tinged with faded glory. But there were snippets of something else too—a beacon of hope, a plan to restore the balance. Lena felt the weight of responsibility press upon her shoulders.
+
+As she pulled her hand back, the orb began to fade, leaving a lingering whisper of knowledge behind. If she could harness it, there might still be a chance to revive her world, to bring life back to the shadows of this ruin.
+
+Emerging from the depths, the sunlight kissed her skin once more as she climbed back to the surface. The lush green of the wilderness surrounded her, and she felt something shift within—a connection to the past and a renewed commitment to the future.
+
+With the orb’s echo still in her heart, Lena knew her journey was just beginning. The world had not yet lost its spark; it merely awaited a touch of humanity’s resilience. With determination igniting her spirit, she set off into the verdant expanse, ready to reclaim hope from the ruins.
 
     `
   },
