@@ -84,6 +84,848 @@ const stories = [
         In this world of wires and dreams, Kairo was more than a cat. He was the pulse of something greater, an agent in the quiet war between humanity and the machines that shaped their destiny. And he would continue to walk between the two worlds, his paws leaving no trace in the digital streets.
     `
   },
+  {
+    title: "The Last Train",
+    genre: "Cyberpunk",
+    url: "https://i.imgur.com/UoPpVKw.jpeg",
+    story: `
+      Lena had always been an early riser. The train station was mostly empty at 5:45 AM, with only a few commuters scattered around, staring blankly at the tracks. She sat on the bench, the quiet hum of the waiting train filling the air.
+
+      As the train approached, Lena noticed a man standing at the far end of the platform. He was wearing a long coat, the kind that looked too heavy for the mild autumn morning. His dark eyes flicked to her as the train slowed to a stop.
+
+      She didn’t think much of it. It was a Monday, and she was too tired to engage in any small talk.
+
+      As she boarded the train, she found an empty seat by the window and gazed out at the city as it passed by. The world outside was a blur of early morning fog and the faint glow of streetlights still flickering in the dim light.
+
+      The train jolted, and Lena looked up. The man from the platform had followed her into the car. He stood in the aisle, his eyes fixed on her.
+
+      "Excuse me," he said, his voice low and urgent. "Do you remember me?"
+
+      Lena stared at him, trying to place him. She didn't recognize him at all.
+
+      "I'm sorry, I don't think we’ve met," she replied, her heart starting to race.
+
+      The man hesitated for a moment, then sat down across from her. He leaned in slightly, his gaze never wavering.
+
+      "I know this is going to sound strange, but... you saved me once. You don't remember? It was years ago, at this very station."
+
+      Lena frowned. "I’ve never seen you before in my life."
+
+      The man’s face twitched as if fighting an emotion. “But you did. You helped me off the tracks. I was about to jump... you pulled me back. You said everything would be okay."
+
+      Lena felt a chill crawl up her spine. She had heard of people having near-death experiences, but this... this was something different. "I don’t—"
+
+      Before she could finish, the train shook violently, and the lights flickered. Then, as if a switch had been flipped, everything went black.
+
+      When Lena awoke, she was alone in the train car. The station outside the window looked eerily familiar, but... something was off. She stood up, feeling an overwhelming sense of deja vu.
+
+      She stepped off the train and looked around. It was 5:45 AM again. The station was just as empty as before. The man, the conversation... it was all gone, like it had never happened.
+
+      And yet, as she glanced down at the ground, she saw something that made her blood run cold: a small, crumpled photograph of herself, standing on the train platform, smiling. She didn’t remember taking it.
+
+      She turned, but there was no one there. The last train had already left.
+    `
+  },
+  {
+    title: "",
+    genre: "",
+    url: "",
+    story: `
+
+    `
+  },
+  {
+    title: "",
+    genre: "",
+    url: "",
+    story: `
+
+    `
+  },
+  {
+    title: "",
+    genre: "",
+    url: "",
+    story: `
+
+    `
+  },
+   {
+    title: "",
+    genre: "",
+    url: "",
+    story: `
+
+    `
+  },
+  {
+    title: "",
+    genre: "",
+    url: "",
+    story: `
+
+    `
+  },
+  {
+    title: "",
+    genre: "",
+    url: "",
+    story: `
+
+    `
+  },
+  {
+    title: "",
+    genre: "",
+    url: "",
+    story: `
+
+    `
+  },
+   {
+    title: "",
+    genre: "",
+    url: "",
+    story: `
+
+    `
+  },
+  {
+    title: "",
+    genre: "",
+    url: "",
+    story: `
+
+    `
+  },
+  {
+    title: "",
+    genre: "",
+    url: "",
+    story: `
+
+    `
+  },
+  {
+    title: "",
+    genre: "",
+    url: "",
+    story: `
+
+    `
+  },
+   {
+    title: "",
+    genre: "",
+    url: "",
+    story: `
+
+    `
+  },
+  {
+    title: "",
+    genre: "",
+    url: "",
+    story: `
+
+    `
+  },
+  {
+    title: "",
+    genre: "",
+    url: "",
+    story: `
+
+    `
+  },
+  {
+    title: "",
+    genre: "",
+    url: "",
+    story: `
+
+    `
+  },
+   {
+    title: "",
+    genre: "",
+    url: "",
+    story: `
+
+    `
+  },
+  {
+    title: "",
+    genre: "",
+    url: "",
+    story: `
+
+    `
+  },
+  {
+    title: "",
+    genre: "",
+    url: "",
+    story: `
+
+    `
+  },
+  {
+    title: "",
+    genre: "",
+    url: "",
+    story: `
+
+    `
+  },
+   {
+    title: "",
+    genre: "",
+    url: "",
+    story: `
+
+    `
+  },
+  {
+    title: "",
+    genre: "",
+    url: "",
+    story: `
+
+    `
+  },
+  {
+    title: "",
+    genre: "",
+    url: "",
+    story: `
+
+    `
+  },
+  {
+    title: "",
+    genre: "",
+    url: "",
+    story: `
+
+    `
+  },
+   {
+    title: "",
+    genre: "",
+    url: "",
+    story: `
+
+    `
+  },
+  {
+    title: "",
+    genre: "",
+    url: "",
+    story: `
+
+    `
+  },
+  {
+    title: "",
+    genre: "",
+    url: "",
+    story: `
+
+    `
+  },
+  {
+    title: "",
+    genre: "",
+    url: "",
+    story: `
+
+    `
+  },
+   {
+    title: "",
+    genre: "",
+    url: "",
+    story: `
+
+    `
+  },
+  {
+    title: "",
+    genre: "",
+    url: "",
+    story: `
+
+    `
+  },
+  {
+    title: "",
+    genre: "",
+    url: "",
+    story: `
+
+    `
+  },
+  {
+    title: "",
+    genre: "",
+    url: "",
+    story: `
+
+    `
+  },
+   {
+    title: "",
+    genre: "",
+    url: "",
+    story: `
+
+    `
+  },
+  {
+    title: "",
+    genre: "",
+    url: "",
+    story: `
+
+    `
+  },
+  {
+    title: "",
+    genre: "",
+    url: "",
+    story: `
+
+    `
+  },
+  {
+    title: "",
+    genre: "",
+    url: "",
+    story: `
+
+    `
+  },
+   {
+    title: "",
+    genre: "",
+    url: "",
+    story: `
+
+    `
+  },
+  {
+    title: "",
+    genre: "",
+    url: "",
+    story: `
+
+    `
+  },
+  {
+    title: "",
+    genre: "",
+    url: "",
+    story: `
+
+    `
+  },
+  {
+    title: "",
+    genre: "",
+    url: "",
+    story: `
+
+    `
+  },
+   {
+    title: "",
+    genre: "",
+    url: "",
+    story: `
+
+    `
+  },
+  {
+    title: "",
+    genre: "",
+    url: "",
+    story: `
+
+    `
+  },
+  {
+    title: "",
+    genre: "",
+    url: "",
+    story: `
+
+    `
+  },
+  {
+    title: "",
+    genre: "",
+    url: "",
+    story: `
+
+    `
+  },
+   {
+    title: "",
+    genre: "",
+    url: "",
+    story: `
+
+    `
+  },
+  {
+    title: "",
+    genre: "",
+    url: "",
+    story: `
+
+    `
+  },
+  {
+    title: "",
+    genre: "",
+    url: "",
+    story: `
+
+    `
+  },
+  {
+    title: "",
+    genre: "",
+    url: "",
+    story: `
+
+    `
+  },
+   {
+    title: "",
+    genre: "",
+    url: "",
+    story: `
+
+    `
+  },
+  {
+    title: "",
+    genre: "",
+    url: "",
+    story: `
+
+    `
+  },
+  {
+    title: "",
+    genre: "",
+    url: "",
+    story: `
+
+    `
+  },
+  {
+    title: "",
+    genre: "",
+    url: "",
+    story: `
+
+    `
+  },
+   {
+    title: "",
+    genre: "",
+    url: "",
+    story: `
+
+    `
+  },
+  {
+    title: "",
+    genre: "",
+    url: "",
+    story: `
+
+    `
+  },
+  {
+    title: "",
+    genre: "",
+    url: "",
+    story: `
+
+    `
+  },
+  {
+    title: "",
+    genre: "",
+    url: "",
+    story: `
+
+    `
+  },
+   {
+    title: "",
+    genre: "",
+    url: "",
+    story: `
+
+    `
+  },
+  {
+    title: "",
+    genre: "",
+    url: "",
+    story: `
+
+    `
+  },
+  {
+    title: "",
+    genre: "",
+    url: "",
+    story: `
+
+    `
+  },
+  {
+    title: "",
+    genre: "",
+    url: "",
+    story: `
+
+    `
+  },
+   {
+    title: "",
+    genre: "",
+    url: "",
+    story: `
+
+    `
+  },
+  {
+    title: "",
+    genre: "",
+    url: "",
+    story: `
+
+    `
+  },
+  {
+    title: "",
+    genre: "",
+    url: "",
+    story: `
+
+    `
+  },
+  {
+    title: "",
+    genre: "",
+    url: "",
+    story: `
+
+    `
+  },
+   {
+    title: "",
+    genre: "",
+    url: "",
+    story: `
+
+    `
+  },
+  {
+    title: "",
+    genre: "",
+    url: "",
+    story: `
+
+    `
+  },
+  {
+    title: "",
+    genre: "",
+    url: "",
+    story: `
+
+    `
+  },
+  {
+    title: "",
+    genre: "",
+    url: "",
+    story: `
+
+    `
+  },
+   {
+    title: "",
+    genre: "",
+    url: "",
+    story: `
+
+    `
+  },
+  {
+    title: "",
+    genre: "",
+    url: "",
+    story: `
+
+    `
+  },
+  {
+    title: "",
+    genre: "",
+    url: "",
+    story: `
+
+    `
+  },
+  {
+    title: "",
+    genre: "",
+    url: "",
+    story: `
+
+    `
+  },
+   {
+    title: "",
+    genre: "",
+    url: "",
+    story: `
+
+    `
+  },
+  {
+    title: "",
+    genre: "",
+    url: "",
+    story: `
+
+    `
+  },
+  {
+    title: "",
+    genre: "",
+    url: "",
+    story: `
+
+    `
+  },
+  {
+    title: "",
+    genre: "",
+    url: "",
+    story: `
+
+    `
+  },
+   {
+    title: "",
+    genre: "",
+    url: "",
+    story: `
+
+    `
+  },
+  {
+    title: "",
+    genre: "",
+    url: "",
+    story: `
+
+    `
+  },
+  {
+    title: "",
+    genre: "",
+    url: "",
+    story: `
+
+    `
+  },
+  {
+    title: "",
+    genre: "",
+    url: "",
+    story: `
+
+    `
+  },
+   {
+    title: "",
+    genre: "",
+    url: "",
+    story: `
+
+    `
+  },
+  {
+    title: "",
+    genre: "",
+    url: "",
+    story: `
+
+    `
+  },
+  {
+    title: "",
+    genre: "",
+    url: "",
+    story: `
+
+    `
+  },
+  {
+    title: "",
+    genre: "",
+    url: "",
+    story: `
+
+    `
+  },
+   {
+    title: "",
+    genre: "",
+    url: "",
+    story: `
+
+    `
+  },
+  {
+    title: "",
+    genre: "",
+    url: "",
+    story: `
+
+    `
+  },
+  {
+    title: "",
+    genre: "",
+    url: "",
+    story: `
+
+    `
+  },
+  {
+    title: "",
+    genre: "",
+    url: "",
+    story: `
+
+    `
+  },
+   {
+    title: "",
+    genre: "",
+    url: "",
+    story: `
+
+    `
+  },
+  {
+    title: "",
+    genre: "",
+    url: "",
+    story: `
+
+    `
+  },
+  {
+    title: "",
+    genre: "",
+    url: "",
+    story: `
+
+    `
+  },
+  {
+    title: "",
+    genre: "",
+    url: "",
+    story: `
+
+    `
+  },
+   {
+    title: "",
+    genre: "",
+    url: "",
+    story: `
+
+    `
+  },
+  {
+    title: "",
+    genre: "",
+    url: "",
+    story: `
+
+    `
+  },
+  {
+    title: "",
+    genre: "",
+    url: "",
+    story: `
+
+    `
+  },
+  {
+    title: "",
+    genre: "",
+    url: "",
+    story: `
+
+    `
+  },
+   {
+    title: "",
+    genre: "",
+    url: "",
+    story: `
+
+    `
+  },
+  {
+    title: "",
+    genre: "",
+    url: "",
+    story: `
+
+    `
+  },
+  {
+    title: "",
+    genre: "",
+    url: "",
+    story: `
+
+    `
+  },
+  {
+    title: "",
+    genre: "",
+    url: "",
+    story: `
+
+    `
+  },
+   {
+    title: "",
+    genre: "",
+    url: "",
+    story: `
+
+    `
+  },
 ];
 
 app.get('/stories', (req, res) => {
