@@ -36,7 +36,7 @@ In the neon glow of Neo-Tokyo, two hearts, artificial yet beating, had found eac
   {
     title: "Neon Shadows",
     genre: "Cyberpunk Sci-Fi",
-    url: "",
+    url: "https://i.imgur.com/e155H0j.jpeg",
     story: `
 In the neon-drenched alleys of Neo-Tokyo, where rain turned the streets into glimmering rivers of color, a new figure cut through the night. Kaia, a skilled data smuggler, had earned her reputation as the ghost who whispered secrets to the wind. With her electric-pink hair pulled back into a fierce ponytail and a sleek, armored jacket glistening under the city lights, she was a vision of rebellion amidst the chaos.
 
