@@ -3,6 +3,45 @@ const app = express();
 const port = process.env.PORT || 3000;
 
 const stories = [
+   {
+    title: "Artificial Hearts",
+    genre: "Cyberpunk Science Fiction",
+    url: "https://i.imgur.com/QZd7zHb.jpeg",
+    story: `
+In the neon-lit alleys of Neo-Tokyo, the air was thick with the hum of hover cars and the distant echoes of synthesized beats. Amidst the glimmering chaos, a lone figure stood out—Rina, a notorious mercenary known for her ruthlessness. With electric pink hair cascading in a ponytail and a sleek black jacket adorned with glimmering circuitry, she thrived in the shadows of a city powered by augmented reality and artificial enhancement.
+
+Her heart, however, was unlike any other; it was a state-of-the-art synthetic model, a pulsating core of vibrant light encased in metallic plating—a stark contrast to her human shell. It was a crucial piece of technology, capable of interfacing with the city’s mainframe, collecting secrets, and executing commands in the blink of an eye. Rina relied on it for work, but it left her with an unsettling distance from her own humanity.
+
+On this rainy night, the neon signs flickered ominously above her, bathing the slick pavement in vibrant pinks and blues. She revved her sleek hover bike, its engine roaring to life beneath her. As she accelerated down the streets, the world blurred into a kaleidoscope of color and sound. She was on a mission: recover stolen data that could topple the dominion of a powerful corporate overlord named ArcTech.
+
+The job was simple, but it thrummed with risks. With each turn, she felt the rush of adrenaline coursing through her, yet her mind drifted back to the hollow sensation within her synthetic heart—a heart that beat but offered no warmth, no connection. It was a reminder that in a world so entranced by technology, genuine emotion had become a luxury few could afford.
+
+Arriving at an abandoned warehouse, she dismounted her bike, the rain drumming against her armored leather attire. The glow of her heart flickered softly beneath the skin, a beacon in the dark. As she slipped inside, her sensors activated—information flooded her mind, allowing her to navigate the labyrinth of steel and shadows with ease.
+
+But something felt off. As she approached the core of the operation, her heart’s pulsation intensified. She stopped, eyes narrowing at a figure hunched over a terminal bathed in cold light. It was a boy, no older than sixteen, interfacing with the very data she sought. He had his own set of enhancements, but the warmth in his eyes sparked a flicker of recognition in Rina.
+
+“Stop!” she commanded, raising her weapon. But his hands raised in surrender, revealing a tattooed heart symbol on his wrist—a sign of rebellion against corporate servitude.
+
+“I’m not your enemy,” he breathed, his voice steady despite the looming threat. “I just wanted to free what you’ve come to steal. These data files can help everyone trapped in ArcTech’s grasp.”
+
+In that moment, an unexpected bond formed. Rina felt a flickering in her artificial heart, as if something deep within her had reignited. Memories of a life before enhancements flashed through her mind: laughter, love, and a world untainted by steel and wires.
+
+As they exchanged stories, she realized that her heart wasn’t just a tool—it was a choice. A choice to feel, to connect, even in a world designed to sever ties. They launched a plan, combining their skills to execute a digital rebellion against ArcTech.
+
+With every surge of her synthetic heart, Rina embraced her new path. As she turned her back on a life of solitude and vengeance, she rode into the night again, this time with a purpose. They were united in their defiance, humanity ignited by hope—a spark in a city shrouded in darkness.
+
+In the neon glow of Neo-Tokyo, two hearts, artificial yet beating, had found each other, rewriting the rules of existence in a world where true connection was once thought to be lost.
+
+    `
+  },
+  {
+    title: "",
+    genre: "",
+    url: "",
+    story: `
+
+    `
+  },
   {
     title: "The Lighthouse Keeper's Secret",
     genre: "Fiction",
@@ -89,41 +128,41 @@ In this world of wires and dreams, Kairo was more than a cat. He was the pulse o
     genre: "Mystery",
     url: "https://i.imgur.com/OaZJmqt.png",
     story: `
-      Lena had always been an early riser. The train station was mostly empty at 5:45 AM, with only a few commuters scattered around, staring blankly at the tracks. She sat on the bench, the quiet hum of the waiting train filling the air.
+Lena had always been an early riser. The train station was mostly empty at 5:45 AM, with only a few commuters scattered around, staring blankly at the tracks. She sat on the bench, the quiet hum of the waiting train filling the air.
 
-      As the train approached, Lena noticed a man standing at the far end of the platform. He was wearing a long coat, the kind that looked too heavy for the mild autumn morning. His dark eyes flicked to her as the train slowed to a stop.
+As the train approached, Lena noticed a man standing at the far end of the platform. He was wearing a long coat, the kind that looked too heavy for the mild autumn morning. His dark eyes flicked to her as the train slowed to a stop.
 
-      She didn’t think much of it. It was a Monday, and she was too tired to engage in any small talk.
+She didn’t think much of it. It was a Monday, and she was too tired to engage in any small talk.
 
-      As she boarded the train, she found an empty seat by the window and gazed out at the city as it passed by. The world outside was a blur of early morning fog and the faint glow of streetlights still flickering in the dim light.
+As she boarded the train, she found an empty seat by the window and gazed out at the city as it passed by. The world outside was a blur of early morning fog and the faint glow of streetlights still flickering in the dim light.
 
-      The train jolted, and Lena looked up. The man from the platform had followed her into the car. He stood in the aisle, his eyes fixed on her.
+The train jolted, and Lena looked up. The man from the platform had followed her into the car. He stood in the aisle, his eyes fixed on her.
 
-      "Excuse me," he said, his voice low and urgent. "Do you remember me?"
+"Excuse me," he said, his voice low and urgent. "Do you remember me?"
 
-      Lena stared at him, trying to place him. She didn't recognize him at all.
+Lena stared at him, trying to place him. She didn't recognize him at all.
 
-      "I'm sorry, I don't think we’ve met," she replied, her heart starting to race.
+"I'm sorry, I don't think we’ve met," she replied, her heart starting to race.
 
-      The man hesitated for a moment, then sat down across from her. He leaned in slightly, his gaze never wavering.
+The man hesitated for a moment, then sat down across from her. He leaned in slightly, his gaze never wavering.
 
-      "I know this is going to sound strange, but... you saved me once. You don't remember? It was years ago, at this very station."
+"I know this is going to sound strange, but... you saved me once. You don't remember? It was years ago, at this very station."
 
-      Lena frowned. "I’ve never seen you before in my life."
+Lena frowned. "I’ve never seen you before in my life."
 
-      The man’s face twitched as if fighting an emotion. “But you did. You helped me off the tracks. I was about to jump... you pulled me back. You said everything would be okay."
+The man’s face twitched as if fighting an emotion. “But you did. You helped me off the tracks. I was about to jump... you pulled me back. You said everything would be okay."
 
-      Lena felt a chill crawl up her spine. She had heard of people having near-death experiences, but this... this was something different. "I don’t—"
+Lena felt a chill crawl up her spine. She had heard of people having near-death experiences, but this... this was something different. "I don’t—"
 
-      Before she could finish, the train shook violently, and the lights flickered. Then, as if a switch had been flipped, everything went black.
+Before she could finish, the train shook violently, and the lights flickered. Then, as if a switch had been flipped, everything went black.
 
-      When Lena awoke, she was alone in the train car. The station outside the window looked eerily familiar, but... something was off. She stood up, feeling an overwhelming sense of deja vu.
+When Lena awoke, she was alone in the train car. The station outside the window looked eerily familiar, but... something was off. She stood up, feeling an overwhelming sense of deja vu.
 
-      She stepped off the train and looked around. It was 5:45 AM again. The station was just as empty as before. The man, the conversation... it was all gone, like it had never happened.
+She stepped off the train and looked around. It was 5:45 AM again. The station was just as empty as before. The man, the conversation... it was all gone, like it had never happened.
 
-      And yet, as she glanced down at the ground, she saw something that made her blood run cold: a small, crumpled photograph of herself, standing on the train platform, smiling. She didn’t remember taking it.
+And yet, as she glanced down at the ground, she saw something that made her blood run cold: a small, crumpled photograph of herself, standing on the train platform, smiling. She didn’t remember taking it.
 
-      She turned, but there was no one there. The last train had already left.
+She turned, but there was no one there. The last train had already left.
     `
   },
   {
@@ -131,27 +170,27 @@ In this world of wires and dreams, Kairo was more than a cat. He was the pulse o
     genre: "Fantasy/Adventure",
     url: "https://i.imgur.com/ALcFFaD.jpeg",
     story: `
-      In the heart of the enchanted Glimmer Grove, where sunlight danced through leaves like twinkling stars, lived a peculiar tribe of tiny creatures known as the Flibberwumps. Each Flibberwump was a burst of color and creativity, with hair that resembled vibrant, coral-like tendrils and eyes as wide as saucers, sparkling with curiosity.
+In the heart of the enchanted Glimmer Grove, where sunlight danced through leaves like twinkling stars, lived a peculiar tribe of tiny creatures known as the Flibberwumps. Each Flibberwump was a burst of color and creativity, with hair that resembled vibrant, coral-like tendrils and eyes as wide as saucers, sparkling with curiosity.
 
-      One serene afternoon, the leader of the Flibberwumps, a bright blue creature named Boggle, gathered the tribe for a crucial meeting. “Friends,” he began, his voice a melodious trill, “a shadow has fallen over our grove. The Great Oaks are withering, and the Grovespirits are losing their shimmer!”
+One serene afternoon, the leader of the Flibberwumps, a bright blue creature named Boggle, gathered the tribe for a crucial meeting. “Friends,” he began, his voice a melodious trill, “a shadow has fallen over our grove. The Great Oaks are withering, and the Grovespirits are losing their shimmer!”
 
-      The others gasped, their colors flickering nervously. “How can we help?” asked Rimbel, a fiery orange Flibberwump, his hair a flurry of flames.
+The others gasped, their colors flickering nervously. “How can we help?” asked Rimbel, a fiery orange Flibberwump, his hair a flurry of flames.
 
-      Boggle, with his deep-set eyes filled with determination, proposed a quest. “We must venture to the Cave of Echoes and ask the ancient Whispering Stone for guidance. Only it holds answers to restore our home.”
+Boggle, with his deep-set eyes filled with determination, proposed a quest. “We must venture to the Cave of Echoes and ask the ancient Whispering Stone for guidance. Only it holds answers to restore our home.”
 
-      With renewed spirit, Rimbel, the soft-spoken Noor, and the mischievous Dizzledorp eagerly joined Boggle on the journey. They ventured through lush moss, crossed babbling brooks, and climbed over fallen logs, their laughter harmonizing with the gentle breezes.
+With renewed spirit, Rimbel, the soft-spoken Noor, and the mischievous Dizzledorp eagerly joined Boggle on the journey. They ventured through lush moss, crossed babbling brooks, and climbed over fallen logs, their laughter harmonizing with the gentle breezes.
 
-      As dusk draped the forest, the friends reached the Cave of Echoes. A cool draft surrounded them as they stepped inside, the walls shimmering with mysterious symbols. Boggle approached the Whispering Stone—an opalescent gem pulsating with soft light.
+As dusk draped the forest, the friends reached the Cave of Echoes. A cool draft surrounded them as they stepped inside, the walls shimmering with mysterious symbols. Boggle approached the Whispering Stone—an opalescent gem pulsating with soft light.
 
-      “Great Whispering Stone,” he called, “we seek your wisdom!”
+“Great Whispering Stone,” he called, “we seek your wisdom!”
 
-      The stone glowed brighter, and a voice echoed through the cave. “To heal the grove, you must unite the colors of your hearts. Only through friendship can the magic be restored.”
+The stone glowed brighter, and a voice echoed through the cave. “To heal the grove, you must unite the colors of your hearts. Only through friendship can the magic be restored.”
 
-      Understanding dawned upon them. It was not just the magic of their colors but the strength of their bond that held the power to save Glimmer Grove. They joined hands, combining their vibrant hues into a dazzling display. A whirlwind of color swirled from them, filling the cave and emanating into the forest beyond.
+Understanding dawned upon them. It was not just the magic of their colors but the strength of their bond that held the power to save Glimmer Grove. They joined hands, combining their vibrant hues into a dazzling display. A whirlwind of color swirled from them, filling the cave and emanating into the forest beyond.
 
-      As they returned to their grove, a miracle unfolded. The Great Oaks burst forth with light and life, leaves shimmering with renewed vigor. The Grovespirits twirled joyfully, their laughter echoing like sweet melodies.
+As they returned to their grove, a miracle unfolded. The Great Oaks burst forth with light and life, leaves shimmering with renewed vigor. The Grovespirits twirled joyfully, their laughter echoing like sweet melodies.
 
-      From that day on, the Flibberwumps learned that true magic thrived not in isolation but in friendship. Together, they safeguarded their colorful realm, forever remembering that in unity, even the faintest spark could ignite the brightest of lights.
+From that day on, the Flibberwumps learned that true magic thrived not in isolation but in friendship. Together, they safeguarded their colorful realm, forever remembering that in unity, even the faintest spark could ignite the brightest of lights.
     `
   },
   {
@@ -159,23 +198,23 @@ In this world of wires and dreams, Kairo was more than a cat. He was the pulse o
     genre: "Fantasy/Adventure",
     url: "https://i.imgur.com/7y4RHQA.jpeg",
     story: `
-      In the heart of a forgotten forest, where light struggled to break through the dense canopy, lived a peculiar creature named Flicker. Flicker was not just any ordinary inhabitant; he was a fluffy, blue-gray being with wild tufts of hair that danced in the breeze, and enormous, expressive eyes that held a spark of curiosity.
+In the heart of a forgotten forest, where light struggled to break through the dense canopy, lived a peculiar creature named Flicker. Flicker was not just any ordinary inhabitant; he was a fluffy, blue-gray being with wild tufts of hair that danced in the breeze, and enormous, expressive eyes that held a spark of curiosity.
 
-      For many years, Flicker had watched the world from the shadows, captivated by tales whispered among the trees—stories of a magical place where all creatures lived in harmony. However, the forest surrounding him was losing its magic. The flowers wilted, the streams dried up, and his friends were disappearing one by one, turned to whispers on the wind.
+For many years, Flicker had watched the world from the shadows, captivated by tales whispered among the trees—stories of a magical place where all creatures lived in harmony. However, the forest surrounding him was losing its magic. The flowers wilted, the streams dried up, and his friends were disappearing one by one, turned to whispers on the wind.
 
-      One fateful day, as Flicker sulked beneath a gnarled oak tree, he overheard a group of forest sprites discussing a legendary artifact—a glowing crystal known as the Heart of Radiance, said to restore life and magic to the land. Flicker’s heart raced with hope; this was his chance!
+One fateful day, as Flicker sulked beneath a gnarled oak tree, he overheard a group of forest sprites discussing a legendary artifact—a glowing crystal known as the Heart of Radiance, said to restore life and magic to the land. Flicker’s heart raced with hope; this was his chance!
 
-      With a newfound determination, Flicker packed some berries and set off on an adventure into the depths of the forest, navigating through tangled vines and over moss-covered stones. He encountered challenges along the way: a wise old owl who asked riddles, a brook that demanded a song, and a thicket of brambles that whispered his fears.
+With a newfound determination, Flicker packed some berries and set off on an adventure into the depths of the forest, navigating through tangled vines and over moss-covered stones. He encountered challenges along the way: a wise old owl who asked riddles, a brook that demanded a song, and a thicket of brambles that whispered his fears.
 
-      Despite feeling lost, every step he took was guided by an inner light—the belief that he could change not just his fate, but the fate of his home. Flicker’s spirit soared as he drew closer to the peak of the mountain where the crystal resided, the air thrumming with magic.
+Despite feeling lost, every step he took was guided by an inner light—the belief that he could change not just his fate, but the fate of his home. Flicker’s spirit soared as he drew closer to the peak of the mountain where the crystal resided, the air thrumming with magic.
 
-      At the summit, surrounded by swirling clouds, Flicker finally spotted the Heart of Radiance. It pulsed with a vibrant glow, illuminating the shadows around him. With careful steps, he approached. As he reached out, the Heart resonated with Flicker’s essence, intertwining their energies.
+At the summit, surrounded by swirling clouds, Flicker finally spotted the Heart of Radiance. It pulsed with a vibrant glow, illuminating the shadows around him. With careful steps, he approached. As he reached out, the Heart resonated with Flicker’s essence, intertwining their energies.
 
-      In that moment, Flicker's wild fur shimmered with brightness, and he felt a rush of power. The forest below reacted instantly—the trees burst into bloom, the streams flowed again, and laughter echoed through the air as creatures emerged from their hiding. Flicker realized he wasn’t just restoring the forest; he had awakened its spirit.
+In that moment, Flicker's wild fur shimmered with brightness, and he felt a rush of power. The forest below reacted instantly—the trees burst into bloom, the streams flowed again, and laughter echoed through the air as creatures emerged from their hiding. Flicker realized he wasn’t just restoring the forest; he had awakened its spirit.
 
-      Flicker returned home a hero, surrounded by friends old and new. With his heart now aglow with magical energy, he understood that even the smallest creature could lead to the greatest change. The whispers of the forest changed from sadness to joy, and Flicker—once a forgotten being—became the guardian of the Heart of Radiance, forever ensuring that the forest would flourish.
+Flicker returned home a hero, surrounded by friends old and new. With his heart now aglow with magical energy, he understood that even the smallest creature could lead to the greatest change. The whispers of the forest changed from sadness to joy, and Flicker—once a forgotten being—became the guardian of the Heart of Radiance, forever ensuring that the forest would flourish.
 
-      As the sun dipped low, Flicker gazed at the vibrant colors painting the sky, knowing that every shadow held the potential for light and every creature the possibility for greatness. And in the spirit of adventure, he knew his story had just begun.
+As the sun dipped low, Flicker gazed at the vibrant colors painting the sky, knowing that every shadow held the potential for light and every creature the possibility for greatness. And in the spirit of adventure, he knew his story had just begun.
     `
   },
   {
@@ -183,29 +222,29 @@ In this world of wires and dreams, Kairo was more than a cat. He was the pulse o
     genre: "Horror/Fantasy",
     url: "https://i.imgur.com/zZstOPn.jpeg",
     story: `
-      In the desolate village of Elmsworth, the crimson moon loomed over the ancient hills, casting eerie shadows that flickered like restless spirits. The townsfolk spoke in hushed tones of a curse that had befallen young Clara Hawthorne, a girl whose beauty was overshadowed by an abiding darkness. 
+In the desolate village of Elmsworth, the crimson moon loomed over the ancient hills, casting eerie shadows that flickered like restless spirits. The townsfolk spoke in hushed tones of a curse that had befallen young Clara Hawthorne, a girl whose beauty was overshadowed by an abiding darkness. 
 
-      Clara had always been different, marked by a mysterious birthright whispered through generations. Her eyes glowed with an otherworldly luminescence, an unsettling trait that made the villagers wary. Cracks marred her porcelain skin, resembling fissures in the very fabric of reality. They said she was a harbinger of doom, and many believed it to be true as strange occurrences unraveled in Elmsworth.
+Clara had always been different, marked by a mysterious birthright whispered through generations. Her eyes glowed with an otherworldly luminescence, an unsettling trait that made the villagers wary. Cracks marred her porcelain skin, resembling fissures in the very fabric of reality. They said she was a harbinger of doom, and many believed it to be true as strange occurrences unraveled in Elmsworth.
 
-      It began with the dolls—the haunting porcelain faces that lined the shelves of her home. Each one was alive with a sinister enchantment, their eyes blinking with malevolence when Clara’s back was turned. At night, they whispered dark secrets, compelling her to act against her will, tugging at the edges of her mind.
+It began with the dolls—the haunting porcelain faces that lined the shelves of her home. Each one was alive with a sinister enchantment, their eyes blinking with malevolence when Clara’s back was turned. At night, they whispered dark secrets, compelling her to act against her will, tugging at the edges of her mind.
 
-      One fateful evening, Clara ventured to the outskirts of the village, drawn by an insatiable urge. The wind howled like the damned, and a chilling fog enveloped her, revealing the twisted shapes of forgotten trees. Dread tainted the air as she stumbled upon an ancient graveyard, its headstones whispered long-lost names.
+One fateful evening, Clara ventured to the outskirts of the village, drawn by an insatiable urge. The wind howled like the damned, and a chilling fog enveloped her, revealing the twisted shapes of forgotten trees. Dread tainted the air as she stumbled upon an ancient graveyard, its headstones whispered long-lost names.
 
-      In the pale moonlight, she could see figures emerging from the shadows—wraiths of those wronged in life. Among them stood a grotesque puppet-like creature, adorned in tattered clothing. Its laugh—mechanical and hollow—sent shivers down her spine. Beside it loomed a shadowy figure, more monstrous than the last, its eyes glimmering like burning coals. Clara recognized the truth behind the curse: her connection to these spirits was inescapable.
+In the pale moonlight, she could see figures emerging from the shadows—wraiths of those wronged in life. Among them stood a grotesque puppet-like creature, adorned in tattered clothing. Its laugh—mechanical and hollow—sent shivers down her spine. Beside it loomed a shadowy figure, more monstrous than the last, its eyes glimmering like burning coals. Clara recognized the truth behind the curse: her connection to these spirits was inescapable.
 
-      “You’ve awakened us!” the doll-man rasped, his voice echoing back from the grave. “Join us, Clara. Embrace your legacy.”
+“You’ve awakened us!” the doll-man rasped, his voice echoing back from the grave. “Join us, Clara. Embrace your legacy.”
 
-      With each word, Clara felt the tether to her memories fray, allowing the darkness to seep in. She resisted, but the whispers encircled her mind, promising power and acceptance in exchange for her soul. The line between right and wrong blurred in the face of temptation.
+With each word, Clara felt the tether to her memories fray, allowing the darkness to seep in. She resisted, but the whispers encircled her mind, promising power and acceptance in exchange for her soul. The line between right and wrong blurred in the face of temptation.
 
-      As she fought back against the looming shadows, the ground beneath them trembled. The wails of the villagers echoed in her ears—a cacophony of fear and betrayal. Realizing that the fate of Elmsworth rested upon her choices, Clara made her stand.
+As she fought back against the looming shadows, the ground beneath them trembled. The wails of the villagers echoed in her ears—a cacophony of fear and betrayal. Realizing that the fate of Elmsworth rested upon her choices, Clara made her stand.
 
-      “No more!” she shouted, her voice breaking through the encroaching dark. Drawing upon the remnants of her will, she grasped the talisman hidden in her heart—a piece of light left behind by her ancestors. It glowed fiercely, illuminating the graveyard and dispelling the malice that engulfed her.
+“No more!” she shouted, her voice breaking through the encroaching dark. Drawing upon the remnants of her will, she grasped the talisman hidden in her heart—a piece of light left behind by her ancestors. It glowed fiercely, illuminating the graveyard and dispelling the malice that engulfed her.
 
-      With a surge of energy, Clara unleashed the pulsing light upon her spectral captors. The wraiths shrieked, their forms dissolving into the ether, and the doll fell silent, its secrets vanishing with the night. They were free, and so was she.
+With a surge of energy, Clara unleashed the pulsing light upon her spectral captors. The wraiths shrieked, their forms dissolving into the ether, and the doll fell silent, its secrets vanishing with the night. They were free, and so was she.
 
-      As dawn broke over Elmsworth, the villagers gathered to find Clara standing in the center of the graveyard, her eyes reflecting the gold of the rising sun. She was transformed, free from the shadows that once clung to her. But the sacrifices made that night weighed heavy in her heart, a reminder that darkness is never truly vanquished; it lingers, waiting for the next unfortunate soul to beckon it forth.
+As dawn broke over Elmsworth, the villagers gathered to find Clara standing in the center of the graveyard, her eyes reflecting the gold of the rising sun. She was transformed, free from the shadows that once clung to her. But the sacrifices made that night weighed heavy in her heart, a reminder that darkness is never truly vanquished; it lingers, waiting for the next unfortunate soul to beckon it forth.
 
-      Thus, Clara Hawthorne became a guardian of Elmsworth, a keeper of the whispers that haunted the night, ever vigilant against the encroaching shadows. For in her eyes, lingering amber flames told tales of the battles fought in the depths of the unknown.
+Thus, Clara Hawthorne became a guardian of Elmsworth, a keeper of the whispers that haunted the night, ever vigilant against the encroaching shadows. For in her eyes, lingering amber flames told tales of the battles fought in the depths of the unknown.
     `
   },
    {
@@ -1277,406 +1316,406 @@ And so, with Pippin leading his fuzzy friends, the Spindleflakes journeyed into 
 
     `
   },
-  {
-    title: "",
-    genre: "",
-    url: "",
-    story: `
+  // {
+  //   title: "",
+  //   genre: "",
+  //   url: "",
+  //   story: `
 
-    `
-  },
-   {
-    title: "",
-    genre: "",
-    url: "",
-    story: `
+  //   `
+  // },
+  //  {
+  //   title: "",
+  //   genre: "",
+  //   url: "",
+  //   story: `
 
-    `
-  },
-  {
-    title: "",
-    genre: "",
-    url: "",
-    story: `
+  //   `
+  // },
+  // {
+  //   title: "",
+  //   genre: "",
+  //   url: "",
+  //   story: `
 
-    `
-  },
-  {
-    title: "",
-    genre: "",
-    url: "",
-    story: `
+  //   `
+  // },
+  // {
+  //   title: "",
+  //   genre: "",
+  //   url: "",
+  //   story: `
 
-    `
-  },
-  {
-    title: "",
-    genre: "",
-    url: "",
-    story: `
+  //   `
+  // },
+  // {
+  //   title: "",
+  //   genre: "",
+  //   url: "",
+  //   story: `
 
-    `
-  },
-   {
-    title: "",
-    genre: "",
-    url: "",
-    story: `
+  //   `
+  // },
+  //  {
+  //   title: "",
+  //   genre: "",
+  //   url: "",
+  //   story: `
 
-    `
-  },
-  {
-    title: "",
-    genre: "",
-    url: "",
-    story: `
+  //   `
+  // },
+  // {
+  //   title: "",
+  //   genre: "",
+  //   url: "",
+  //   story: `
 
-    `
-  },
-  {
-    title: "",
-    genre: "",
-    url: "",
-    story: `
+  //   `
+  // },
+  // {
+  //   title: "",
+  //   genre: "",
+  //   url: "",
+  //   story: `
 
-    `
-  },
-  {
-    title: "",
-    genre: "",
-    url: "",
-    story: `
+  //   `
+  // },
+  // {
+  //   title: "",
+  //   genre: "",
+  //   url: "",
+  //   story: `
 
-    `
-  },
-   {
-    title: "",
-    genre: "",
-    url: "",
-    story: `
+  //   `
+  // },
+  //  {
+  //   title: "",
+  //   genre: "",
+  //   url: "",
+  //   story: `
 
-    `
-  },
-  {
-    title: "",
-    genre: "",
-    url: "",
-    story: `
+  //   `
+  // },
+  // {
+  //   title: "",
+  //   genre: "",
+  //   url: "",
+  //   story: `
 
-    `
-  },
-  {
-    title: "",
-    genre: "",
-    url: "",
-    story: `
+  //   `
+  // },
+  // {
+  //   title: "",
+  //   genre: "",
+  //   url: "",
+  //   story: `
 
-    `
-  },
-  {
-    title: "",
-    genre: "",
-    url: "",
-    story: `
+  //   `
+  // },
+  // {
+  //   title: "",
+  //   genre: "",
+  //   url: "",
+  //   story: `
 
-    `
-  },
-   {
-    title: "",
-    genre: "",
-    url: "",
-    story: `
+  //   `
+  // },
+  //  {
+  //   title: "",
+  //   genre: "",
+  //   url: "",
+  //   story: `
 
-    `
-  },
-  {
-    title: "",
-    genre: "",
-    url: "",
-    story: `
+  //   `
+  // },
+  // {
+  //   title: "",
+  //   genre: "",
+  //   url: "",
+  //   story: `
 
-    `
-  },
-  {
-    title: "",
-    genre: "",
-    url: "",
-    story: `
+  //   `
+  // },
+  // {
+  //   title: "",
+  //   genre: "",
+  //   url: "",
+  //   story: `
 
-    `
-  },
-  {
-    title: "",
-    genre: "",
-    url: "",
-    story: `
+  //   `
+  // },
+  // {
+  //   title: "",
+  //   genre: "",
+  //   url: "",
+  //   story: `
 
-    `
-  },
-   {
-    title: "",
-    genre: "",
-    url: "",
-    story: `
+  //   `
+  // },
+  //  {
+  //   title: "",
+  //   genre: "",
+  //   url: "",
+  //   story: `
 
-    `
-  },
-  {
-    title: "",
-    genre: "",
-    url: "",
-    story: `
+  //   `
+  // },
+  // {
+  //   title: "",
+  //   genre: "",
+  //   url: "",
+  //   story: `
 
-    `
-  },
-  {
-    title: "",
-    genre: "",
-    url: "",
-    story: `
+  //   `
+  // },
+  // {
+  //   title: "",
+  //   genre: "",
+  //   url: "",
+  //   story: `
 
-    `
-  },
-  {
-    title: "",
-    genre: "",
-    url: "",
-    story: `
+  //   `
+  // },
+  // {
+  //   title: "",
+  //   genre: "",
+  //   url: "",
+  //   story: `
 
-    `
-  },
-   {
-    title: "",
-    genre: "",
-    url: "",
-    story: `
+  //   `
+  // },
+  //  {
+  //   title: "",
+  //   genre: "",
+  //   url: "",
+  //   story: `
 
-    `
-  },
-  {
-    title: "",
-    genre: "",
-    url: "",
-    story: `
+  //   `
+  // },
+  // {
+  //   title: "",
+  //   genre: "",
+  //   url: "",
+  //   story: `
 
-    `
-  },
-  {
-    title: "",
-    genre: "",
-    url: "",
-    story: `
+  //   `
+  // },
+  // {
+  //   title: "",
+  //   genre: "",
+  //   url: "",
+  //   story: `
 
-    `
-  },
-  {
-    title: "",
-    genre: "",
-    url: "",
-    story: `
+  //   `
+  // },
+  // {
+  //   title: "",
+  //   genre: "",
+  //   url: "",
+  //   story: `
 
-    `
-  },
-   {
-    title: "",
-    genre: "",
-    url: "",
-    story: `
+  //   `
+  // },
+  //  {
+  //   title: "",
+  //   genre: "",
+  //   url: "",
+  //   story: `
 
-    `
-  },
-  {
-    title: "",
-    genre: "",
-    url: "",
-    story: `
+  //   `
+  // },
+  // {
+  //   title: "",
+  //   genre: "",
+  //   url: "",
+  //   story: `
 
-    `
-  },
-  {
-    title: "",
-    genre: "",
-    url: "",
-    story: `
+  //   `
+  // },
+  // {
+  //   title: "",
+  //   genre: "",
+  //   url: "",
+  //   story: `
 
-    `
-  },
-  {
-    title: "",
-    genre: "",
-    url: "",
-    story: `
+  //   `
+  // },
+  // {
+  //   title: "",
+  //   genre: "",
+  //   url: "",
+  //   story: `
 
-    `
-  },
-   {
-    title: "",
-    genre: "",
-    url: "",
-    story: `
+  //   `
+  // },
+  //  {
+  //   title: "",
+  //   genre: "",
+  //   url: "",
+  //   story: `
 
-    `
-  },
-  {
-    title: "",
-    genre: "",
-    url: "",
-    story: `
+  //   `
+  // },
+  // {
+  //   title: "",
+  //   genre: "",
+  //   url: "",
+  //   story: `
 
-    `
-  },
-  {
-    title: "",
-    genre: "",
-    url: "",
-    story: `
+  //   `
+  // },
+  // {
+  //   title: "",
+  //   genre: "",
+  //   url: "",
+  //   story: `
 
-    `
-  },
-  {
-    title: "",
-    genre: "",
-    url: "",
-    story: `
+  //   `
+  // },
+  // {
+  //   title: "",
+  //   genre: "",
+  //   url: "",
+  //   story: `
 
-    `
-  },
-   {
-    title: "",
-    genre: "",
-    url: "",
-    story: `
+  //   `
+  // },
+  //  {
+  //   title: "",
+  //   genre: "",
+  //   url: "",
+  //   story: `
 
-    `
-  },
-  {
-    title: "",
-    genre: "",
-    url: "",
-    story: `
+  //   `
+  // },
+  // {
+  //   title: "",
+  //   genre: "",
+  //   url: "",
+  //   story: `
 
-    `
-  },
-  {
-    title: "",
-    genre: "",
-    url: "",
-    story: `
+  //   `
+  // },
+  // {
+  //   title: "",
+  //   genre: "",
+  //   url: "",
+  //   story: `
 
-    `
-  },
-  {
-    title: "",
-    genre: "",
-    url: "",
-    story: `
+  //   `
+  // },
+  // {
+  //   title: "",
+  //   genre: "",
+  //   url: "",
+  //   story: `
 
-    `
-  },
-   {
-    title: "",
-    genre: "",
-    url: "",
-    story: `
+  //   `
+  // },
+  //  {
+  //   title: "",
+  //   genre: "",
+  //   url: "",
+  //   story: `
 
-    `
-  },
-  {
-    title: "",
-    genre: "",
-    url: "",
-    story: `
+  //   `
+  // },
+  // {
+  //   title: "",
+  //   genre: "",
+  //   url: "",
+  //   story: `
 
-    `
-  },
-  {
-    title: "",
-    genre: "",
-    url: "",
-    story: `
+  //   `
+  // },
+  // {
+  //   title: "",
+  //   genre: "",
+  //   url: "",
+  //   story: `
 
-    `
-  },
-  {
-    title: "",
-    genre: "",
-    url: "",
-    story: `
+  //   `
+  // },
+  // {
+  //   title: "",
+  //   genre: "",
+  //   url: "",
+  //   story: `
 
-    `
-  },
-   {
-    title: "",
-    genre: "",
-    url: "",
-    story: `
+  //   `
+  // },
+  //  {
+  //   title: "",
+  //   genre: "",
+  //   url: "",
+  //   story: `
 
-    `
-  },
-  {
-    title: "",
-    genre: "",
-    url: "",
-    story: `
+  //   `
+  // },
+  // {
+  //   title: "",
+  //   genre: "",
+  //   url: "",
+  //   story: `
 
-    `
-  },
-  {
-    title: "",
-    genre: "",
-    url: "",
-    story: `
+  //   `
+  // },
+  // {
+  //   title: "",
+  //   genre: "",
+  //   url: "",
+  //   story: `
 
-    `
-  },
-  {
-    title: "",
-    genre: "",
-    url: "",
-    story: `
+  //   `
+  // },
+  // {
+  //   title: "",
+  //   genre: "",
+  //   url: "",
+  //   story: `
 
-    `
-  },
-   {
-    title: "",
-    genre: "",
-    url: "",
-    story: `
+  //   `
+  // },
+  //  {
+  //   title: "",
+  //   genre: "",
+  //   url: "",
+  //   story: `
 
-    `
-  },
-  {
-    title: "",
-    genre: "",
-    url: "",
-    story: `
+  //   `
+  // },
+  // {
+  //   title: "",
+  //   genre: "",
+  //   url: "",
+  //   story: `
 
-    `
-  },
-  {
-    title: "",
-    genre: "",
-    url: "",
-    story: `
+  //   `
+  // },
+  // {
+  //   title: "",
+  //   genre: "",
+  //   url: "",
+  //   story: `
 
-    `
-  },
-  {
-    title: "",
-    genre: "",
-    url: "",
-    story: `
+  //   `
+  // },
+  // {
+  //   title: "",
+  //   genre: "",
+  //   url: "",
+  //   story: `
 
-    `
-  },
-   {
-    title: "",
-    genre: "",
-    url: "",
-    story: `
+  //   `
+  // },
+  //  {
+  //   title: "",
+  //   genre: "",
+  //   url: "",
+  //   story: `
 
-    `
-  },
+  //   `
+  // },
 ];
 
 app.get('/stories', (req, res) => {
