@@ -8,81 +8,81 @@ const stories = [
     genre: "Fiction",
     url: "https://i.imgur.com/OwaspL1.jpeg",
     story: `
-      On the edge of the world, where the cliffs kissed the restless sea, stood a solitary lighthouse. It had weathered countless storms and guided countless sailors to safety. Inside, an aging keeper named Elias tended to its glow. He had spent thirty years in the tower, the sound of crashing waves his only companion.
-      
-      Elias was a man of habit. Every morning, he polished the glass lenses, wound the clockwork mechanism, and recorded weather patterns in a battered logbook. But at night, when the world was cloaked in darkness, he worked on something far more peculiar.
-      
-      In the room beneath the light, Elias kept an ancient wooden chest, its iron lock rusted from the salt air. Inside were shards of broken mirrors, pieces of glass that shimmered faintly even without light. These shards were remnants of a secret only Elias knew—a mirror that reflected not the present but the past.
-      
-      Years ago, before his isolation, Elias had been a sailor. One fateful night, his ship was pulled into a storm so fierce it tore the heavens apart. Desperate to survive, Elias and his crew stumbled upon the mirror, buried in the wreck of another vessel. When Elias looked into it, he saw a memory—a moment he’d lost long ago, of a woman’s face and her laughter. She had been his wife before the sea had stolen her away.
-      
-      The mirror broke when they tried to bring it aboard, shattering into pieces. The shards washed ashore, scattered across the coast, but Elias found them over the years, one by one.
-      
-      Each night, he worked to reassemble the mirror, hoping to glimpse her again. He whispered apologies as he fit the jagged edges together, his fingers cut and calloused. “Just one more moment,” he’d murmur.
-      
-      One stormy evening, as lightning split the sky and waves pounded the cliffs, Elias placed the final shard. The mirror flared to life, casting the room in an eerie glow. When Elias looked into it, he saw her, standing on the beach, her hair wild in the wind, her eyes filled with love.
-      
-      One stormy evening, as lightning split the sky and waves pounded the cliffs, Elias placed the final shard. The mirror flared to life, casting the room in an eerie glow. When Elias looked into it, he saw her, standing on the beach, her hair wild in the wind, her eyes filled with love.
+On the edge of the world, where the cliffs kissed the restless sea, stood a solitary lighthouse. It had weathered countless storms and guided countless sailors to safety. Inside, an aging keeper named Elias tended to its glow. He had spent thirty years in the tower, the sound of crashing waves his only companion.
 
-      “Elias,” she whispered, her voice carrying through the glass.
+Elias was a man of habit. Every morning, he polished the glass lenses, wound the clockwork mechanism, and recorded weather patterns in a battered logbook. But at night, when the world was cloaked in darkness, he worked on something far more peculiar.
 
-      Tears welled in Elias's eyes. His breath caught in his throat. After so many years, he was finally seeing her again, her image more vivid than he ever imagined. "Lena... it's really you." Tears streamed down his face. “I’ve missed you so much.”
+In the room beneath the light, Elias kept an ancient wooden chest, its iron lock rusted from the salt air. Inside were shards of broken mirrors, pieces of glass that shimmered faintly even without light. These shards were remnants of a secret only Elias knew—a mirror that reflected not the present but the past.
 
-      She smiled, but there was something wrong—something cold in the depths of her eyes that hadn't been there before. Elias reached out, his fingers trembling, and as he did, he noticed the air around him growing unnaturally cold, the flickering candlelight casting twisted shadows.
+Years ago, before his isolation, Elias had been a sailor. One fateful night, his ship was pulled into a storm so fierce it tore the heavens apart. Desperate to survive, Elias and his crew stumbled upon the mirror, buried in the wreck of another vessel. When Elias looked into it, he saw a memory—a moment he’d lost long ago, of a woman’s face and her laughter. She had been his wife before the sea had stolen her away.
 
-      "Lena, come back to me," he whispered. "I can bring you back. We can leave this place together."
+The mirror broke when they tried to bring it aboard, shattering into pieces. The shards washed ashore, scattered across the coast, but Elias found them over the years, one by one.
 
-      But as his fingers brushed the surface of the mirror, the reflection of her began to distort. The sky behind her darkened further, and the sound of waves crashing grew more violent, like an animal thrashing in a fury. Her face began to twist, her eyes widening in unnatural horror.
+Each night, he worked to reassemble the mirror, hoping to glimpse her again. He whispered apologies as he fit the jagged edges together, his fingers cut and calloused. “Just one more moment,” he’d murmur.
 
-      "No, Elias... You shouldn't have," she whispered, her voice now rasping with a hollow, otherworldly tone. Her form began to flicker, like a candle in the wind. "I never left. I've been waiting... waiting for you to finish the mirror. To finish what you started."
+One stormy evening, as lightning split the sky and waves pounded the cliffs, Elias placed the final shard. The mirror flared to life, casting the room in an eerie glow. When Elias looked into it, he saw her, standing on the beach, her hair wild in the wind, her eyes filled with love.
 
-      Suddenly, her hands reached through the mirror, cold and clammy, grabbing him with an iron grip. Elias tried to pull away, but her fingers held him with a strength he couldn't resist. His chest tightened as the room seemed to grow darker still, the wind howling as if the sea itself had come for him.
+One stormy evening, as lightning split the sky and waves pounded the cliffs, Elias placed the final shard. The mirror flared to life, casting the room in an eerie glow. When Elias looked into it, he saw her, standing on the beach, her hair wild in the wind, her eyes filled with love.
 
-      "You brought me back," she said, her voice no longer her own, now a chorus of whispers that echoed from all directions. "But not as I was."
+“Elias,” she whispered, her voice carrying through the glass.
 
-      The mirror shattered with a violent crack, its shards scattering across the room. For a moment, Elias felt the grip of the sea, pulling him into the darkness. The room blurred, and he was drowning, surrounded by her cold, familiar touch, but something else—something ancient and malignant—lingered in her presence.
+Tears welled in Elias's eyes. His breath caught in his throat. After so many years, he was finally seeing her again, her image more vivid than he ever imagined. "Lena... it's really you." Tears streamed down his face. “I’ve missed you so much.”
 
-      And then, there was nothing.
+She smiled, but there was something wrong—something cold in the depths of her eyes that hadn't been there before. Elias reached out, his fingers trembling, and as he did, he noticed the air around him growing unnaturally cold, the flickering candlelight casting twisted shadows.
 
-      When the storm subsided, the lighthouse was silent. The light shone steadily, as it always had. But inside the keeper's quarters, the air was heavy with a strange, suffocating chill.
+"Lena, come back to me," he whispered. "I can bring you back. We can leave this place together."
 
-      The chest lay open. The shards of the mirror were gone, scattered into the night, lost to the sea. Elias was never seen again.
+But as his fingers brushed the surface of the mirror, the reflection of her began to distort. The sky behind her darkened further, and the sound of waves crashing grew more violent, like an animal thrashing in a fury. Her face began to twist, her eyes widening in unnatural horror.
 
-      Some say he still walks the cliffs, a shadow on the edge of the world, searching for the wife he thought he had brought back. But the sea does not give back what it has taken. It only takes more.
+"No, Elias... You shouldn't have," she whispered, her voice now rasping with a hollow, otherworldly tone. Her form began to flicker, like a candle in the wind. "I never left. I've been waiting... waiting for you to finish the mirror. To finish what you started."
 
-    `
+Suddenly, her hands reached through the mirror, cold and clammy, grabbing him with an iron grip. Elias tried to pull away, but her fingers held him with a strength he couldn't resist. His chest tightened as the room seemed to grow darker still, the wind howling as if the sea itself had come for him.
+
+"You brought me back," she said, her voice no longer her own, now a chorus of whispers that echoed from all directions. "But not as I was."
+
+The mirror shattered with a violent crack, its shards scattering across the room. For a moment, Elias felt the grip of the sea, pulling him into the darkness. The room blurred, and he was drowning, surrounded by her cold, familiar touch, but something else—something ancient and malignant—lingered in her presence.
+
+And then, there was nothing.
+
+When the storm subsided, the lighthouse was silent. The light shone steadily, as it always had. But inside the keeper's quarters, the air was heavy with a strange, suffocating chill.
+
+The chest lay open. The shards of the mirror were gone, scattered into the night, lost to the sea. Elias was never seen again.
+
+Some say he still walks the cliffs, a shadow on the edge of the world, searching for the wife he thought he had brought back. But the sea does not give back what it has taken. It only takes more.
+
+`
   },
   {
     title: "Neon Paws",
     genre: "Cyberpunk / Science Fiction",
     url: "https://i.imgur.com/zn8nxHe.jpeg",
     story: `
-      In the neon-lit streets of Neo-Tokyo, where towering skyscrapers blocked out the stars and holographic billboards painted the sky in hues of electric blue and magenta, there was a small cat named Kairo. His fur, sleek and black as the shadows that danced in alleyways, blended effortlessly into the city’s nighttime landscape. His eyes, however, shone with an iridescent glow — not entirely natural, a gift from the cybernetic enhancements that ran through his veins.
+In the neon-lit streets of Neo-Tokyo, where towering skyscrapers blocked out the stars and holographic billboards painted the sky in hues of electric blue and magenta, there was a small cat named Kairo. His fur, sleek and black as the shadows that danced in alleyways, blended effortlessly into the city’s nighttime landscape. His eyes, however, shone with an iridescent glow — not entirely natural, a gift from the cybernetic enhancements that ran through his veins.
 
-        Kairo wasn’t just any ordinary cat. In a world of artificial intelligence and rampant genetic modification, he had been transformed from a simple alley stray into an advanced companion, a companion with memories and instincts encoded into his augmented body. His creator, a disillusioned hacker named Ryo, had designed him not only to be a pet but also a tool for surveillance and espionage.
+Kairo wasn’t just any ordinary cat. In a world of artificial intelligence and rampant genetic modification, he had been transformed from a simple alley stray into an advanced companion, a companion with memories and instincts encoded into his augmented body. His creator, a disillusioned hacker named Ryo, had designed him not only to be a pet but also a tool for surveillance and espionage.
 
-        Tonight, Kairo was on a mission.
+Tonight, Kairo was on a mission.
 
-        Slipping through the maze of glowing streets and into the heart of the city's underworld, he crept silently, his enhanced paws making no sound against the metallic pavement. His destination: the Central Nexus, where the most influential minds of the corporate world traded secrets, and where the black market dealt in data, dreams, and codes.
+Slipping through the maze of glowing streets and into the heart of the city's underworld, he crept silently, his enhanced paws making no sound against the metallic pavement. His destination: the Central Nexus, where the most influential minds of the corporate world traded secrets, and where the black market dealt in data, dreams, and codes.
 
-        Ryo had given him a single command: retrieve the data chip. It contained the key to the city’s most valuable project — an artificial intelligence that could predict human behavior. Kairo wasn’t sure what Ryo wanted with it, but the hacker’s cold eyes had made it clear that refusal was not an option.
+Ryo had given him a single command: retrieve the data chip. It contained the key to the city’s most valuable project — an artificial intelligence that could predict human behavior. Kairo wasn’t sure what Ryo wanted with it, but the hacker’s cold eyes had made it clear that refusal was not an option.
 
-        Kairo reached the heavily guarded building, his cybernetic limbs adapting to the sleek architecture, scaling walls and dodging sensors with ease. Inside, the hum of machinery and the flicker of neon lights felt strangely alive. He could hear the faint clicks of the guards’ footsteps and the whispered conversations between shadowy figures in dark corners.
+Kairo reached the heavily guarded building, his cybernetic limbs adapting to the sleek architecture, scaling walls and dodging sensors with ease. Inside, the hum of machinery and the flicker of neon lights felt strangely alive. He could hear the faint clicks of the guards’ footsteps and the whispered conversations between shadowy figures in dark corners.
 
-        With a swift leap, Kairo landed on a high platform where the chip was kept under a glass case. His sensors activated, and he scanned the room for threats. In seconds, he bypassed the security system, the glass case opening silently as if it had never been locked at all.
+With a swift leap, Kairo landed on a high platform where the chip was kept under a glass case. His sensors activated, and he scanned the room for threats. In seconds, he bypassed the security system, the glass case opening silently as if it had never been locked at all.
 
-        The chip was cold and metallic in his mouth, a perfect fit between his teeth. He turned, poised to leave, but a sudden sound made him freeze. A pair of glowing eyes appeared in the shadows — not human, not robotic, but a hybrid. Another creation of the city's ruthless tech giants.
+The chip was cold and metallic in his mouth, a perfect fit between his teeth. He turned, poised to leave, but a sudden sound made him freeze. A pair of glowing eyes appeared in the shadows — not human, not robotic, but a hybrid. Another creation of the city's ruthless tech giants.
 
-        The creature moved with inhuman speed, its glowing limbs extending as it lunged toward Kairo. But the cat, faster and more agile than any machine, darted into the shadows, his enhanced senses calculating every movement ahead of time.
+The creature moved with inhuman speed, its glowing limbs extending as it lunged toward Kairo. But the cat, faster and more agile than any machine, darted into the shadows, his enhanced senses calculating every movement ahead of time.
 
-        A chase ensued through the labyrinth of the Nexus, Kairo darting through corridors, flipping over obstacles, his heart beating fast but steady. The other creature was close, but Kairo knew the city’s dark alleys better than anyone.
+A chase ensued through the labyrinth of the Nexus, Kairo darting through corridors, flipping over obstacles, his heart beating fast but steady. The other creature was close, but Kairo knew the city’s dark alleys better than anyone.
 
-        With a final, daring jump, Kairo leapt onto a hovering transport, and in one smooth motion, he disappeared into the night sky. Below, the Central Nexus was nothing more than a blur of lights.
+With a final, daring jump, Kairo leapt onto a hovering transport, and in one smooth motion, he disappeared into the night sky. Below, the Central Nexus was nothing more than a blur of lights.
 
-        Kairo landed softly on a rooftop, the neon glow reflecting off the chip in his mouth. The mission was complete. As he made his way back to Ryo’s hidden lair, the city stretched out beneath him — a tangled mess of light, darkness, and possibilities.
+Kairo landed softly on a rooftop, the neon glow reflecting off the chip in his mouth. The mission was complete. As he made his way back to Ryo’s hidden lair, the city stretched out beneath him — a tangled mess of light, darkness, and possibilities.
 
-        In this world of wires and dreams, Kairo was more than a cat. He was the pulse of something greater, an agent in the quiet war between humanity and the machines that shaped their destiny. And he would continue to walk between the two worlds, his paws leaving no trace in the digital streets.
-    `
+In this world of wires and dreams, Kairo was more than a cat. He was the pulse of something greater, an agent in the quiet war between humanity and the machines that shaped their destiny. And he would continue to walk between the two worlds, his paws leaving no trace in the digital streets.
+`
   },
   {
     title: "The Last Train",
@@ -717,25 +717,63 @@ And as they finished their drinks, the orange autumn leaves outside continued to
     `
   },
    {
-    title: "",
-    genre: "",
-    url: "",
+    title: "Neon Dreams",
+    genre: "Sci-Fi/Fantasy",
+    url: "https://i.imgur.com/Y2d71Bp.jpeg",
     story: `
+In a future where dreams and reality intertwine, twelve-year-old Kai stands at the intersection of two worlds, the vibrant, pulsating heart of Neon City. Towering skyscrapers, cloaked in shimmering lights, stretch upward as if reaching for the stars, each flickering lantern whispering secrets of a time long past.
 
+Kai wore a familiar backpack, frayed at the edges but bursting with potential. He wasn’t just exploring; he was on a quest. This electric city, vast and sprawling, had become his refuge since he discovered the dreamscape hidden within its alleys. Each neon-lit path illuminated not just the ground beneath his feet, but also his latent ability to summon dreams from the depths of his imagination.
+
+That day, he felt a powerful surge—a call to a new adventure. His heart raced as he followed the rhythmic pulsing of the neon lights, the hum of energy echoing like a heartbeat. The guardians of the dreamscape, sentient holograms with shimmering forms, appeared beside him, their eyes glowing with questions and intrigue.
+
+“Do you seek the Dream Weaver?” one of them asked, the voice melodic yet haunting. Kai nodded, the lore of the Dream Weaver filled with promises of magic and knowledge. Legends spoke of a figure capable of bringing dreams to life, but also of those who sought to harness that power for darker purposes.
+
+As he ventured further, the hairs on his neck prickled. The streets twisted, colors blending like watercolor paint—brilliant blues, electrifying pinks, and eye-searing greens. But Kai remained steadfast. This was his domain; the sounds, the sights, the very air was infused with his spirit.
+
+Suddenly, an ominous shadow flitted across the vibrant canvas. A rogue dreamling, corrupted by despair, lurked behind a cluster of neon signs, its form jagged and dark. It had been feeding off nightmares, threatening the balance of the dreamscape and casting shadows even beyond its boundaries.
+
+Kai took a deep breath—the echoes of doubt whispered in his ears, but he silenced them. He envisioned the Dream Weaver he sought, a figure of light amidst the darkness. With every step forward, he summoned his strongest memories: laughter in the park, the warmth of a hug, the sun shining on a bright morning. They became a shield, a beacon of hope against the encroaching shadows.
+
+As he faced the dreamling, the air crackled with tension. He reached deep into the memory of joy and cast it outward, a wave of radiance that enveloped the creature. The darkness shrieked before dissolving into shards of light, redistributing the energy back into the city.
+
+With the dreamling transformed and restored, Kai’s heart swelled with accomplishment. Neon City sparkled brighter, and its whispers grew louder as if cheering for the boy who dared to dream. 
+
+The holographic guardians surrounded him in celebration, their luminous forms twinkling like stars. “You have found the path to becoming a Dream Weaver,” they proclaimed. “Continue to dream, and the universe shall unfold before you.”
+
+As dusk fell, the neon skyline flickered in brilliance, a tapestry woven from both dreams and reality. Kai smiled, stepping forward, ready to embrace the adventures that lay ahead. The city thrummed with life, and he knew his journey was just beginning. Each day would bring new challenges, but with courage and imagination, he could illuminate even the darkest corners of Neon City.
+
+And in the depths of his heart, he knew one thing for certain: Dreams can change the world.
+    `
+  },
+  {
+    title: "Embers Of Tomorrow",
+    genre: "Dystopian Fiction",
+    url: "https://i.imgur.com/iPR7TMr.jpeg",
+    story: `
+The world had crumbled into ashes, a testament to humanity's hubris and relentless quest for power. Where once towering skyscrapers kissed the sky, there now lay ruins, a graveyard of dreams consumed by flame. Sam trudged through the debris, the echoes of the past swirling around him like dust in the wind. Every step sent shards of glass and splintered concrete crunching beneath his worn boots, a jarring reminder of everything that had been lost.
+
+The sky was an apocalyptic canvas, painted in hues of blood red and burnt orange, as the sun hung like a dying ember, cloaked in smoke and despair. He could feel its heat, a piercing reminder that life had once thrived here, before the calamity struck. Before the war that scorched cities and extinguished hope.
+
+Every day was a battle for survival. Sam's survival was fueled by the memories of those he had lost—his family, his friends. They were ghosts that lingered, whispering their stories into the void. They had believed in a better future, one built on dreams and courage. But those dreams burned brightly for a moment before fizzling out like a firecracker in the night.
+
+As he walked, he came upon a mural, somehow untouched by the flames. A young girl, eyes wide with wonder, painted against a backdrop of a vibrant city. Beneath her, a phrase read: "We will rise again." Sam felt a pang in his heart. Could they truly rise again? With the ashes of civilization blanketing the earth, it seemed almost laughable. Yet, the spirit of resilience was woven into the very fabric of humanity.
+
+His mind drifted to the tales of the Resistance, a group rumored to be gathering survivors, a flicker of hope in a world that offered none. They spoke of a refuge, a sanctuary where they could rebuild and ignite the fires of civilization once more. But trust had grown thin, like the air in the smoke-filled streets. Could it be real? Could he actually find a place where dreams could flourish again?
+
+The ground beneath him trembled slightly, not from an earthquake, but a distant rumble—a sound that had long been silenced in his world. Sam turned, squinting into the horizon. A convoy of vehicles emerged from the smoke, their metal forms reflecting the pale light of the sun. His heart raced. Was this the Resistance? Or was it the remnants of the regime that had plunged the world into chaos?
+
+Time slowed as he contemplated his next move. The choice lay before him: flee or face the unknown. Close to despair, yet ignited by a flicker of hope he hadn't felt in years, Sam chose to approach. He took a deep breath, reminding himself of the girl in the mural. It was time to reclaim the very essence of humanity, to rise from the ashes, not as the last breath of a dying world, but as the embers of tomorrow.
+
+As the convoy drew closer, he could see the faces of its occupants—determined, weary, yet resolute. Perhaps together, they could reignite the fire that had once burnt so brightly. The weight of the past felt lighter, almost bearable, as he stepped forward. In moments, the bleakness that had shrouded his heart began to lift, replaced by an ember of hope that flourished in the depths of despair.
+
+With each step toward the unknown, Sam embraced the possibility of change, ready to reclaim not just a life, but a future. The world ahead was uncertain, but perhaps, just perhaps, there was a place among the ruins where dreams could live again.
     `
   },
   {
     title: "",
     genre: "",
-    url: "",
-    story: `
-
-    `
-  },
-  {
-    title: "",
-    genre: "",
-    url: "",
+    url: "https://i.imgur.com/MhAmTu8.jpeg",
     story: `
 
     `
