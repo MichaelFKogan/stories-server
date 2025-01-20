@@ -3,37 +3,60 @@ const app = express();
 const port = process.env.PORT || 3000;
 
 const stories = [
-   {
-    title: "Pixel Dreams",
-    genre: "Sci-Fi Fantasy",
-    url: "https://i.imgur.com/nVgxA2m.jpeg",
-    story: `
-In the year 2150, humanity and technology had become inseparable. In a bustling city where holograms danced above the streets and neon lights pulsated like hearts, there was a place like no other—a legendary arcade known as "Pixel Paradise."
+//    {
+//     title: "",
+//     genre: "",
+//     url: "",
+//     story: `
 
-Dominic, a small, quirky robot equipped with oversized eyes and a cheerful demeanor, stood transfixed in front of an ancient gaming machine glowing with nostalgia. The vibrant colors flickered hypnotically, showcasing a game called "Galactic Quest," a relic from a time before robots like him were commonplace.
 
-As Dominic reached out with his articulated fingers, the machine recognized its player, whirring to life with a cheerful tune. The screen displayed familiar characters, mere pixels brought to life in vibrant resolutions. The world of "Galactic Quest" filled him with excitement. To him, the game was not just a challenge; it was a portal to adventure.
+// `
+//   },
+//    {
+//     title: "",
+//     genre: "",
+//     url: "",
+//     story: `
 
-Around him, humans and robots alike navigated the arcade’s labyrinth, laughter and shouts mingling with the beeping of victory. A group of kids gathered around him, their eyes wide with wonder. "Look! It’s playing! Just like us!"
 
-With a flick of his wrist, Dominic maneuvered his tiny spaceship through asteroid fields, blasting foes with colorful beams. Each beep and ping was music to his auditory sensors, entrenching him deeper into the gaming world. He thrived on the joy and thrill of each level conquered, earning accolades that flowed like confetti on the screen.
+// `
+//   },
+//    {
+//     title: "",
+//     genre: "",
+//     url: "",
+//     story: `
 
-But Dominic's peaceful escapade was interrupted when the game warped unexpectedly into a glitchy landscape. Pixels began to twist and turn, dark voids opening up, threatening to disrupt the fun. Instead of panicking, Dominic leaned into the chaos. Instead of fear, he felt exhilaration. What if this was a new level, a test crafted by the game itself?
 
-Emboldened, he began to decode the glitches in real-time, transforming chaotic pixels into a beautiful symphony of color. The children cheered, their awed voices lifting the spectacle into a collective dream. 
+// `
+//   },
+//    {
+//     title: "",
+//     genre: "",
+//     url: "",
+//     story: `
 
-"Go, Dominic!" they shouted, their energy fueling his resolve. He could hear a beeping rhythm, guiding him through the mayhem. With a final calculated move, he crossed a shimmering line and conquered the glitch—restoring balance to the virtual dimension.
 
-Cheers erupted from the arcade, digital fireworks lighting the screen, celebrating Dominic's extraordinary feat. The children surrounded him, treating him as a hero. 
+// `
+//   },
+//    {
+//     title: "",
+//     genre: "",
+//     url: "",
+//     story: `
 
-In that moment, he realized that while he was a mere assembly of wires and circuits, he was also a part of the larger fabric of joy, connection, and adventure. 
 
-As the arcade dimmed and the day drew to a close, Dominic stood between the glowing screens, a small robot in a big world, forever entwined in the pixelated dreams he helped to create. 
+// `
+//   },
+//    {
+//     title: "",
+//     genre: "",
+//     url: "",
+//     story: `
 
-And as long as there were games to play, the adventure would never truly end.
 
-`
-  },
+// `
+//   },
    {
     title: "A Byte of Wonder",
     genre: "Science Fiction / Adventure",
