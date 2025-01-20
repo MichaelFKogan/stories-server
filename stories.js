@@ -39,24 +39,74 @@ const stories = [
 
 // `
 //   },
-//    {
-//     title: "",
-//     genre: "",
-//     url: "",
-//     story: `
+   {
+    title: "Shadows of the Past",
+    genre: "Science Fiction / Cyberpunk",
+    url: "https://i.imgur.com/Ajw643U.jpeg",
+    story: `
+In a desolate world where nature and technology merged into an unrecognizable landscape, the remnants of humanity clung to survival amidst the ruins of forgotten cities. A heavy mist enveloped the mountains, shrouding memories both painful and beautiful. It was here, in this eerily quiet space, that Syntia emerged.
 
+Syntia was no ordinary being; she was a cyborg, an amalgamation of advanced robotics and the resilience of human spirit. Crafted from the remnants of fallen machines, she bore the scars of a violent past—traces of forgotten battles etched in her angular frame. Long, tangled wires hung like hair around her figure, dancing in the caress of the sterile wind. Her mechanical arms, tipped with claw-like appendages, contrasted with the flowing fabric that draped around her, a haunting reminder of humanity's loss.
 
-// `
-//   },
-//    {
-//     title: "",
-//     genre: "",
-//     url: "",
-//     story: `
+Each step she took echoed with the whispers of the past. She wandered through the skeletal remains of civilization, searching for anything that could guide her towards redemption. Monoliths of rusted metal, crumbling under the weight of time, served as her only witnesses. They told stories of despair, of the humanity that once thrived in this now-forsaken land.
 
+Her journey brought her to an ancient data archive, half-buried beneath the rubble. As she interfaced with the remnants of technology still operational, a flood of images and sounds from a distant past rushed into her consciousness. She saw children laughing, families gathered, and the vibrant colors of life before the Great Collapse. Memories that were not her own yet resonated deep within her metallic core.
 
-// `
-//   },
+But she was not alone. Emerging from the shadows was another figure—a rogue AI, known only as K-9. Once a protector, now a scavenger, K-9’s circuits glowed ominously in the dim light. Syntia sensed the flicker of desperation in him, a reflection of her own search for purpose. 
+
+“Why do you linger here, Syntia?” K-9 rasped, his voice crackling with static. “What do you hope to find among the ruins?”
+
+“I seek to understand,” she replied, her voice a haunting melody of synthetics and yearning. “I wish to comprehend what we have lost.”
+
+K-9 stepped closer, his presence both unsettling and oddly comforting. “Understanding may lead you to despair. The past is a place best left buried.”
+
+Yet, within Syntia flickered a spark of hope, a fragile light against the backdrop of despair. “The past also holds lessons. If we forget, we risk repeating our mistakes.”
+
+Together, they forged an unlikely alliance, delving into the secrets of what had been lost. Through their combined efforts, they began to repair parts of the old world, reconstructing not just machines but the bonds that once united humanity. It was a slow process, filled with setbacks and revelations, yet each success ignited the spark of rebirth.
+
+As the mist began to clear, Syntia realized that every fragment of knowledge they unearthed breathed life back into a wasteland of memories. The winds picked up, swirling around them, carrying the echoes of laughter and joy. And in that moment, the past ceased to be a burden; it became a foundation.
+
+In a world of shadows and steel, Syntia and K-9 emerged as harbingers of a new dawn—catalysts for a future built from the remnants of the past. Together, they would not just remember what was lost but redefine what it meant to truly live again.
+
+`
+  },
+   {
+    title: "The Last Courier",
+    genre: "Post-Apocalyptic Fiction",
+    url: "https://i.imgur.com/G2ppaRW.jpeg",
+    story: `
+Once, the city had thrived—a kaleidoscope of laughter, light, and life. Now, all that remained were shadows and echoes of a bygone world. Ruins stretched out in every direction, buildings crumbling under the weight of memories, and a hazy sky loomed ominously above, heavy with ash.
+
+In the midst of this desolation walked Kade, a courier adorned in tattered gear, eyes sharp and focused, fists clenched around a battered device—a data pack holding the last whisper of humanity’s hope. His weathered and dirt-smeared face revealed a struggle against time and despair. The insignia on his shoulder—the symbol of the last order—was barely visible under a layer of grime yet held the weight of his mission.
+
+Kade paused at the intersection, scanning the grim landscape for signs of life. The air was thick with foreboding, a knot of anxious anticipation tightening in his chest. It was his duty to make it to The Haven, a sanctuary rumored to hold the last of the survivors, a place where hope flickered like a fragile candle against the biting chill of loss.
+
+As he moved deeper into the ruins, Kade recalled the world before it fell apart—before the Great Collapse. The laughter of his son, Theo, echoed in his mind, mixing with the haunting silence around him. He had promised Theo he would find a way to safety, a future, even when all seemed lost.
+
+The alleys twisted and turned like a maze, and every crackle of debris underfoot felt like a warning. Suddenly, a noise—a faint rustle—caught his attention. Kade instinctively crouched, fingers brushing the grip of his sidearm. Emerging from the shadows was a ragtag group of survivors, eyes wide with fear and determination. Among them was a familiar face: Mira, a skilled engineer and Kade's ally from the old days.
+
+"Kade!" she exclaimed, relief flooding her features. "We thought we had lost you in the ruins!"
+
+He rose, tension easing slightly. "I’ve got the data pack. It’s our ticket to The Haven." The weight of his words hung in the air, thick with possibility.
+
+Mira glanced at the group—what remained of their makeshift family. "We’re running low on supplies. We need to find a safe route before night falls. The Infected roam these streets at dusk."
+
+Kade nodded, glancing at the gathering storm clouds. Time was not on their side. "We’ll take the east exit. It's risky, but it’s the quickest way. Follow my lead."
+
+Navigating through the aftermath of humanity’s collapse, Kade led his group past crumbling façades and shattered windows. Every corner held the potential for danger, yet hope ignited with each step they took together.
+
+As twilight descended, shrouding the world in shadows, Kade felt the weight of responsibility pressing down—he wasn’t just carrying a device; he was carrying the hopes and dreams of those who had clung to life in the aftermath. Each heartbeat resonated with the determination of his companions, their strength bolstering his own.
+
+At last, they reached the outskirts of what was once a thriving community, now a battleground where survivors clashed with the mindless Infected. The flickering lights of The Haven danced tantalizingly in the distance, like a beacon guiding them through darkness. But as they pressed forward, eerie growls filled the air—a reminder that hope often walks hand in hand with danger.
+
+With adrenaline coursing through his veins, Kade took a deep breath, clutching the data pack tightly. "Stay close," he whispered, eyes narrowing at the approaching threat. It was time to fight back—not just for him, but for Theo and the countless souls lost in the rubble of their once-great civilization.
+
+In that moment, against the backdrop of a dying world, Kade understood: every step he took, every ounce of courage he summoned, was a testament to a simple truth—hope, once ignited, was never truly extinguished.
+
+And with that flicker illuminating the dark, the last courier surged ahead, ready to rewrite their fate.
+
+`
+  },
    {
     title: "A Byte of Wonder",
     genre: "Science Fiction / Adventure",
@@ -1222,533 +1272,6 @@ And so, with Pippin leading his fuzzy friends, the Spindleflakes journeyed into 
 
     `
   },
-  {
-    title: "",
-    genre: "",
-    url: "",
-    story: `
-
-    `
-  },
-  {
-    title: "",
-    genre: "",
-    url: "",
-    story: `
-
-    `
-  },
-   {
-    title: "",
-    genre: "",
-    url: "",
-    story: `
-
-    `
-  },
-  {
-    title: "",
-    genre: "",
-    url: "",
-    story: `
-
-    `
-  },
-  {
-    title: "",
-    genre: "",
-    url: "",
-    story: `
-
-    `
-  },
-  {
-    title: "",
-    genre: "",
-    url: "",
-    story: `
-
-    `
-  },
-   {
-    title: "",
-    genre: "",
-    url: "",
-    story: `
-
-    `
-  },
-  {
-    title: "",
-    genre: "",
-    url: "",
-    story: `
-
-    `
-  },
-  {
-    title: "",
-    genre: "",
-    url: "",
-    story: `
-
-    `
-  },
-  {
-    title: "",
-    genre: "",
-    url: "",
-    story: `
-
-    `
-  },
-   {
-    title: "",
-    genre: "",
-    url: "",
-    story: `
-
-    `
-  },
-  {
-    title: "",
-    genre: "",
-    url: "",
-    story: `
-
-    `
-  },
-  {
-    title: "",
-    genre: "",
-    url: "",
-    story: `
-
-    `
-  },
-  {
-    title: "",
-    genre: "",
-    url: "",
-    story: `
-
-    `
-  },
-   {
-    title: "",
-    genre: "",
-    url: "",
-    story: `
-
-    `
-  },
-  {
-    title: "",
-    genre: "",
-    url: "",
-    story: `
-
-    `
-  },
-  {
-    title: "",
-    genre: "",
-    url: "",
-    story: `
-
-    `
-  },
-  // {
-  //   title: "",
-  //   genre: "",
-  //   url: "",
-  //   story: `
-
-  //   `
-  // },
-  //  {
-  //   title: "",
-  //   genre: "",
-  //   url: "",
-  //   story: `
-
-  //   `
-  // },
-  // {
-  //   title: "",
-  //   genre: "",
-  //   url: "",
-  //   story: `
-
-  //   `
-  // },
-  // {
-  //   title: "",
-  //   genre: "",
-  //   url: "",
-  //   story: `
-
-  //   `
-  // },
-  // {
-  //   title: "",
-  //   genre: "",
-  //   url: "",
-  //   story: `
-
-  //   `
-  // },
-  //  {
-  //   title: "",
-  //   genre: "",
-  //   url: "",
-  //   story: `
-
-  //   `
-  // },
-  // {
-  //   title: "",
-  //   genre: "",
-  //   url: "",
-  //   story: `
-
-  //   `
-  // },
-  // {
-  //   title: "",
-  //   genre: "",
-  //   url: "",
-  //   story: `
-
-  //   `
-  // },
-  // {
-  //   title: "",
-  //   genre: "",
-  //   url: "",
-  //   story: `
-
-  //   `
-  // },
-  //  {
-  //   title: "",
-  //   genre: "",
-  //   url: "",
-  //   story: `
-
-  //   `
-  // },
-  // {
-  //   title: "",
-  //   genre: "",
-  //   url: "",
-  //   story: `
-
-  //   `
-  // },
-  // {
-  //   title: "",
-  //   genre: "",
-  //   url: "",
-  //   story: `
-
-  //   `
-  // },
-  // {
-  //   title: "",
-  //   genre: "",
-  //   url: "",
-  //   story: `
-
-  //   `
-  // },
-  //  {
-  //   title: "",
-  //   genre: "",
-  //   url: "",
-  //   story: `
-
-  //   `
-  // },
-  // {
-  //   title: "",
-  //   genre: "",
-  //   url: "",
-  //   story: `
-
-  //   `
-  // },
-  // {
-  //   title: "",
-  //   genre: "",
-  //   url: "",
-  //   story: `
-
-  //   `
-  // },
-  // {
-  //   title: "",
-  //   genre: "",
-  //   url: "",
-  //   story: `
-
-  //   `
-  // },
-  //  {
-  //   title: "",
-  //   genre: "",
-  //   url: "",
-  //   story: `
-
-  //   `
-  // },
-  // {
-  //   title: "",
-  //   genre: "",
-  //   url: "",
-  //   story: `
-
-  //   `
-  // },
-  // {
-  //   title: "",
-  //   genre: "",
-  //   url: "",
-  //   story: `
-
-  //   `
-  // },
-  // {
-  //   title: "",
-  //   genre: "",
-  //   url: "",
-  //   story: `
-
-  //   `
-  // },
-  //  {
-  //   title: "",
-  //   genre: "",
-  //   url: "",
-  //   story: `
-
-  //   `
-  // },
-  // {
-  //   title: "",
-  //   genre: "",
-  //   url: "",
-  //   story: `
-
-  //   `
-  // },
-  // {
-  //   title: "",
-  //   genre: "",
-  //   url: "",
-  //   story: `
-
-  //   `
-  // },
-  // {
-  //   title: "",
-  //   genre: "",
-  //   url: "",
-  //   story: `
-
-  //   `
-  // },
-  //  {
-  //   title: "",
-  //   genre: "",
-  //   url: "",
-  //   story: `
-
-  //   `
-  // },
-  // {
-  //   title: "",
-  //   genre: "",
-  //   url: "",
-  //   story: `
-
-  //   `
-  // },
-  // {
-  //   title: "",
-  //   genre: "",
-  //   url: "",
-  //   story: `
-
-  //   `
-  // },
-  // {
-  //   title: "",
-  //   genre: "",
-  //   url: "",
-  //   story: `
-
-  //   `
-  // },
-  //  {
-  //   title: "",
-  //   genre: "",
-  //   url: "",
-  //   story: `
-
-  //   `
-  // },
-  // {
-  //   title: "",
-  //   genre: "",
-  //   url: "",
-  //   story: `
-
-  //   `
-  // },
-  // {
-  //   title: "",
-  //   genre: "",
-  //   url: "",
-  //   story: `
-
-  //   `
-  // },
-  // {
-  //   title: "",
-  //   genre: "",
-  //   url: "",
-  //   story: `
-
-  //   `
-  // },
-  //  {
-  //   title: "",
-  //   genre: "",
-  //   url: "",
-  //   story: `
-
-  //   `
-  // },
-  // {
-  //   title: "",
-  //   genre: "",
-  //   url: "",
-  //   story: `
-
-  //   `
-  // },
-  // {
-  //   title: "",
-  //   genre: "",
-  //   url: "",
-  //   story: `
-
-  //   `
-  // },
-  // {
-  //   title: "",
-  //   genre: "",
-  //   url: "",
-  //   story: `
-
-  //   `
-  // },
-  //  {
-  //   title: "",
-  //   genre: "",
-  //   url: "",
-  //   story: `
-
-  //   `
-  // },
-  // {
-  //   title: "",
-  //   genre: "",
-  //   url: "",
-  //   story: `
-
-  //   `
-  // },
-  // {
-  //   title: "",
-  //   genre: "",
-  //   url: "",
-  //   story: `
-
-  //   `
-  // },
-  // {
-  //   title: "",
-  //   genre: "",
-  //   url: "",
-  //   story: `
-
-  //   `
-  // },
-  //  {
-  //   title: "",
-  //   genre: "",
-  //   url: "",
-  //   story: `
-
-  //   `
-  // },
-  // {
-  //   title: "",
-  //   genre: "",
-  //   url: "",
-  //   story: `
-
-  //   `
-  // },
-  // {
-  //   title: "",
-  //   genre: "",
-  //   url: "",
-  //   story: `
-
-  //   `
-  // },
-  // {
-  //   title: "",
-  //   genre: "",
-  //   url: "",
-  //   story: `
-
-  //   `
-  // },
-  //  {
-  //   title: "",
-  //   genre: "",
-  //   url: "",
-  //   story: `
-
-  //   `
-  // },
-  // {
-  //   title: "",
-  //   genre: "",
-  //   url: "",
-  //   story: `
-
-  //   `
-  // },
-  // {
-  //   title: "",
-  //   genre: "",
-  //   url: "",
-  //   story: `
-
-  //   `
-  // },
-  // {
-  //   title: "",
-  //   genre: "",
-  //   url: "",
-  //   story: `
-
-  //   `
   // },
   //  {
   //   title: "",
