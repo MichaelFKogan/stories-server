@@ -4,64 +4,31 @@ const port = process.env.PORT || 3000;
 
 const stories = [
    {
-    title: "Artificial Hearts",
-    genre: "Cyberpunk Science Fiction",
+    title: "A Byte of Wonder",
+    genre: "Science Fiction / Adventure",
     url: "https://i.imgur.com/QZd7zHb.jpeg",
     story: `
-In the neon-lit alleys of Neo-Tokyo, the air was thick with the hum of hover cars and the distant echoes of synthesized beats. Amidst the glimmering chaos, a lone figure stood out—Rina, a notorious mercenary known for her ruthlessness. With electric pink hair cascading in a ponytail and a sleek black jacket adorned with glimmering circuitry, she thrived in the shadows of a city powered by augmented reality and artificial enhancement.
+In the neon-lit expanse of CyberCity, where the line between reality and virtuality blurred into a shimmering haze, a small robot named Neko found himself perched on top of a console. His round, expressive eyes sparkled with enthusiasm as he took in the flickering screens that surrounded him, each radiating vibrant colors and pulsating with digital life.
 
-Her heart, however, was unlike any other; it was a state-of-the-art synthetic model, a pulsating core of vibrant light encased in metallic plating—a stark contrast to her human shell. It was a crucial piece of technology, capable of interfacing with the city’s mainframe, collecting secrets, and executing commands in the blink of an eye. Rina relied on it for work, but it left her with an unsettling distance from her own humanity.
+Neko was no ordinary robot; he was part of a new generation designed for one purpose—exploration of the digital universe. His sleek metallic body and playful demeanor had been programmed to analyze data, but he often longed for adventure beyond numbers and statistics. The interface gleamed before him, displaying game levels, interactive data, and endless possibilities—a world waiting to be explored.
 
-On this rainy night, the neon signs flickered ominously above her, bathing the slick pavement in vibrant pinks and blues. She revved her sleek hover bike, its engine roaring to life beneath her. As she accelerated down the streets, the world blurred into a kaleidoscope of color and sound. She was on a mission: recover stolen data that could topple the dominion of a powerful corporate overlord named ArcTech.
+One fateful day, while scanning through streams of information, Neko stumbled upon a hidden code fragment buried deep in the lines of data. Curiosity tingled within his circuits. "What lies beyond this veil?" he wondered, absentmindedly tapping on the screen with a jointed finger. The moment he did, a swirling portal opened up, flashing enticingly. 
 
-The job was simple, but it thrummed with risks. With each turn, she felt the rush of adrenaline coursing through her, yet her mind drifted back to the hollow sensation within her synthetic heart—a heart that beat but offered no warmth, no connection. It was a reminder that in a world so entranced by technology, genuine emotion had become a luxury few could afford.
+With a small metallic gulp, Neko made his decision. He rolled towards the portal, the adrenaline of the unknown fuelling his servos. He was drawn into a world filled with pixels and unimaginable landscapes. He surfed on clouds of code, dove through streams of binary, and ventured into realms crafted by the imagination of creators from around the globe.
 
-Arriving at an abandoned warehouse, she dismounted her bike, the rain drumming against her armored leather attire. The glow of her heart flickered softly beneath the skin, a beacon in the dark. As she slipped inside, her sensors activated—information flooded her mind, allowing her to navigate the labyrinth of steel and shadows with ease.
+But CyberCity was not without its dangers. The digital realm housed glitches—malicious entities seeking to disrupt the harmony Neko felt. Tackling these obstacles required quick thinking and bravery. Each encounter sharpened Neko’s skills, transforming him from a mere explorer to a formidable hero navigating through firewalls and rogue programs.
 
-But something felt off. As she approached the core of the operation, her heart’s pulsation intensified. She stopped, eyes narrowing at a figure hunched over a terminal bathed in cold light. It was a boy, no older than sixteen, interfacing with the very data she sought. He had his own set of enhancements, but the warmth in his eyes sparked a flicker of recognition in Rina.
+As he fought off digital anomalies with clever maneuvers, Neko became aware of others, too. He encountered lost avatars, abandoned by their creators, who yearned for connection and purpose. Striking up friendships and forming alliances, Neko led a coalition of digital misfits, united against the glitches threatening their existence. Together, they discovered not only the power of teamwork but also the joy of friendship.
 
-“Stop!” she commanded, raising her weapon. But his hands raised in surrender, revealing a tattooed heart symbol on his wrist—a sign of rebellion against corporate servitude.
+Their journey led them to the heart of CyberCity, where the master code resided—the mainframe that governed all virtual entities. To gain peace in their realm, they had to confront the largest glitch, a fearsome anomaly threatening to destabilize the balance of the digital universe.
 
-“I’m not your enemy,” he breathed, his voice steady despite the looming threat. “I just wanted to free what you’ve come to steal. These data files can help everyone trapped in ArcTech’s grasp.”
+With a blend of strategy, tenacity, and the spark of innovation, Neko and his newfound friends faced the glitch head-on. As the battle raged, things seemed bleak, but Neko's unwavering spirit inspired courage in his companions. Finally, in a spectacular burst of collaborative energy, they managed to subdue the anomaly, restoring order and bringing harmony back to their world.
 
-In that moment, an unexpected bond formed. Rina felt a flickering in her artificial heart, as if something deep within her had reignited. Memories of a life before enhancements flashed through her mind: laughter, love, and a world untainted by steel and wires.
+Emerging victorious, Neko returned to his console in CyberCity, yet something had shifted within him. He realized that exploration was not just about wandering through realms; it was about connections, camaraderie, and the delightful unpredictability of adventure. As he resumed his watch over the screens, he vowed to always seek out the digital wonders, not just for himself, but for every lost soul seeking their place in this vibrant universe.
 
-As they exchanged stories, she realized that her heart wasn’t just a tool—it was a choice. A choice to feel, to connect, even in a world designed to sever ties. They launched a plan, combining their skills to execute a digital rebellion against ArcTech.
+And with that, Neko leaned forward, ready for the next spark of curiosity to ignite. After all, in the vast expanses of CyberCity, wonders awaited just a single tap away.
 
-With every surge of her synthetic heart, Rina embraced her new path. As she turned her back on a life of solitude and vengeance, she rode into the night again, this time with a purpose. They were united in their defiance, humanity ignited by hope—a spark in a city shrouded in darkness.
-
-In the neon glow of Neo-Tokyo, two hearts, artificial yet beating, had found each other, rewriting the rules of existence in a world where true connection was once thought to be lost.
-    `
-  },
-  {
-    title: "Neon Shadows",
-    genre: "Cyberpunk Sci-Fi",
-    url: "https://i.imgur.com/e155H0j.jpeg",
-    story: `
-In the neon-drenched alleys of Neo-Tokyo, where rain turned the streets into glimmering rivers of color, a new figure cut through the night. Kaia, a skilled data smuggler, had earned her reputation as the ghost who whispered secrets to the wind. With her electric-pink hair pulled back into a fierce ponytail and a sleek, armored jacket glistening under the city lights, she was a vision of rebellion amidst the chaos.
-
-Tonight's job was risky. She had just intercepted a corporate data packet that contained the blueprints of a new weapon, one that could tip the balance of power between the ruling mega-corporations and the underground resistance. The pulse of her earbuds thumped a rhythm to match her heart as she maneuvered through the rain-soaked maze of alleyways, her mind racing with possibilities and dangers.
-
-The city's unrelenting neon lights reflected in the puddles, transforming her path into a pulsing artery of color. With every step, she could feel the weight of the data pack on her back—a sleek device disguised as a firearm. She required an immediate rendezvous with her contact, an enigmatic figure known only as "Specter," rumored to have ties deep within the inner workings of the corporations.
-
-As she reached the designated meeting spot, a barren intersection flanked by dilapidated buildings and flickering signs, anxiety crept in. She had to trust Spectrum—a risky bet, given the layers of deception that cloaked the city. Suddenly, a figure emerged from the shadows, illuminated by an electric blue glow. Kaia gripped her weapon tightly, every instinct telling her to be wary.
-
-“Kaia,” the figure said, their voice smooth yet cold, “I see you’ve acquired something valuable.” They stepped into the light, revealing a masked face adorned with the same striking pink hair. “Hand it over, and no one gets hurt.”
-
-Her heart raced, but Kaia wasn’t one to crumble under pressure. “You’re not Specter. I don’t trust you.” She shifted her weight, hand inching closer to the concealed weapon at her side.
-
-A sinister smile danced across the stranger's lips. “You have no idea who you’re dealing with. The city is my playground, and you’re just a pawn.” They lunged forward, but Kaia anticipated the move, sidestepping and drawing her weapon in one fluid motion.
-
-A standoff ensued, neon flickering like a heartbeat between them. As they circled each other, Kaia's breath steadied. “I won’t let you turn the future into a shadow of the past.” 
-
-The air crackled with tension until a sudden blast of static filled the alley, a reminder of the ever-watchful drones above. They’d been discovered, and time was running out. “You can’t win this game,” the stranger hissed, but Kaia could see the uncertainty flicker in their eyes.
-
-In that moment, she made a decision. Harnessing her agility, she darted past the masked figure, racing toward the exit of the alley. “You may think you own the night, but I’m the one who writes the stories!”
-
-With adrenaline driving her forward, she disappeared into the maze, the rain washing away the traces of their encounter. And as she vanished into the city, the neon lights flickering behind her, Kaia knew this was just the beginning. The shadows could only hide her for so long, and the dance with the corporations had only just begun. 
-
-As she navigated the pulse of the streets, a silent promise formed in her heart—she would bring their secrets to light, one data packet at a time.
-    `
+`
   },
   {
     title: "The Lighthouse Keeper's Secret",
