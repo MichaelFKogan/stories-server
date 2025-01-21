@@ -71,7 +71,7 @@ const openai = new OpenAI({
             ` },
             {
               type: "image_url",
-              image_url: { url: "https://i.imgur.com/pNTKPHM.jpg" },
+              image_url: { url: "https://i.imgur.com/ygFdEOY.jpg" },
             },
           ],
         },
