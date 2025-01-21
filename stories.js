@@ -4,12 +4,14 @@ const express = require('express');
 const app = express();
 const port = process.env.PORT || 3000;
 
+// const top = require('./stories/top');
 const storiesOne = require('./stories/storiesOne');
 const storiesTwo = require('./stories/storiesTwo');
 
 const stories = [
-  ...storiesTwo,
+  // ...top,
   ...storiesOne,
+  ...storiesTwo,
 ];
 
 app.get('/stories', (req, res) => {
