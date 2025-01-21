@@ -35,22 +35,16 @@ const removeMarkdown = (text) => {
 };
 
 const imageUrls = [
-      // "https://i.imgur.com/K6Zvirj.jpeg",
-      // "https://i.imgur.com/aFOZDP4.jpeg",
-      // "https://i.imgur.com/K9U2cKA.jpeg",
-      // "https://i.imgur.com/PFVMk9Z.jpeg",
-      // "https://i.imgur.com/iVZ266v.jpeg",
-      // "https://i.imgur.com/mUhjtdK.jpeg",
-      // "https://i.imgur.com/Et4kIXH.jpeg",
-      "https://i.imgur.com/VTtQ8FU.jpeg",
-      // "https://i.imgur.com/9Bvt3tq.jpeg",
-      // "https://i.imgur.com/qMscW16.jpeg",
-      // "https://i.imgur.com/97IQ0ji.jpeg",
-      // "https://i.imgur.com/VHJwcw0.jpeg",
-      // "https://i.imgur.com/nLvsh2A.jpeg",
-      // "https://i.imgur.com/7Jid0uJ.jpeg",
-      // "https://i.imgur.com/MoIifIU.jpeg",
-      // "https://i.imgur.com/4IKTpMh.jpeg",
+    // "https://i.imgur.com/BfKQqR3.jpeg",
+    // "https://i.imgur.com/QBkL8BH.jpeg",
+    // "https://i.imgur.com/8DQEufG.jpeg",
+    // "https://i.imgur.com/XZpfyYq.jpeg",
+    // "https://i.imgur.com/M8YIkpH.jpeg",
+    // "https://i.imgur.com/UiLKjyI.jpeg",
+    // "https://i.imgur.com/3tlP5YL.jpeg",
+    // "https://i.imgur.com/dC8jwb8.jpeg",
+    // "https://i.imgur.com/8pmG0WG.jpeg",
+    "https://i.imgur.com/jchfhjI.jpeg",
 ];
 
 const sleep = (ms) => new Promise(resolve => setTimeout(resolve, ms));
