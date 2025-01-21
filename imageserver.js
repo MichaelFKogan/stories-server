@@ -35,17 +35,25 @@ const removeMarkdown = (text) => {
 };
 
 const imageUrls = [
-        // "https://i.imgur.com/kNtOQcF.jpg",
-        // "https://i.imgur.com/hjP0jAf.jpg",
-        "https://i.imgur.com/d4QPWlu.jpg",
-        // "https://i.imgur.com/v0Vrww7.jpg",
-        // "https://i.imgur.com/zRbKVX9.jpg",
-        // "https://i.imgur.com/DKv5lsN.jpg",
-        // "https://i.imgur.com/rpGXXvi.jpg",
-        // "https://i.imgur.com/ebUhLET.jpg",
-        "https://i.imgur.com/elsDDuO.jpg",
+      // "https://i.imgur.com/K6Zvirj.jpeg",
+      // "https://i.imgur.com/aFOZDP4.jpeg",
+      // "https://i.imgur.com/K9U2cKA.jpeg",
+      // "https://i.imgur.com/PFVMk9Z.jpeg",
+      // "https://i.imgur.com/iVZ266v.jpeg",
+      // "https://i.imgur.com/mUhjtdK.jpeg",
+      // "https://i.imgur.com/Et4kIXH.jpeg",
+      "https://i.imgur.com/VTtQ8FU.jpeg",
+      // "https://i.imgur.com/9Bvt3tq.jpeg",
+      // "https://i.imgur.com/qMscW16.jpeg",
+      // "https://i.imgur.com/97IQ0ji.jpeg",
+      // "https://i.imgur.com/VHJwcw0.jpeg",
+      // "https://i.imgur.com/nLvsh2A.jpeg",
+      // "https://i.imgur.com/7Jid0uJ.jpeg",
+      // "https://i.imgur.com/MoIifIU.jpeg",
+      // "https://i.imgur.com/4IKTpMh.jpeg",
 ];
 
+const sleep = (ms) => new Promise(resolve => setTimeout(resolve, ms));
 
 const processImage = async (imageUrl) => {
             try {
@@ -138,7 +146,8 @@ const processImage = async (imageUrl) => {
             // Loop through the image URLs
             (async () => {
                 for (const imageUrl of imageUrls) {
-                    await processImage(imageUrl); // Wait for the API call to finish before moving to the next image
+                    await processImage(imageUrl);
+                    await sleep(5000); // Wait for the API call to finish before moving to the next image
                 }
             console.log("PROCESS COMPLETE");
             })();
