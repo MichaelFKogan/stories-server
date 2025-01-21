@@ -1,18 +1,43 @@
 
 
-const express = require('express');
+// const express = require('express');
+// const app = express();
+// const port = process.env.PORT || 3000;
+
+// const storiesOne = require('./stories/storiesOne');
+// const storiesTwo = require('./stories/storiesTwo');
+
+// const stories = [
+//   // ...storiesTwo,
+//   ...storiesOne
+// ];
+
+// app.get('/stories', (req, res) => {
+//   res.json(stories);
+// });
+
+// app.listen(port, () => {
+//   console.log(`Server is running on port ${port}`);
+// });
+
+
+
+// // Express server setup
+import express from "express";
 const app = express();
 const port = process.env.PORT || 3000;
 
-const storiesOne = require('./stories/storiesOne');
-const storiesTwo = require('./stories/storiesTwo');
+import { storiesOne } from './stories/storiesOne.js'; // Assuming you're using ES module import syntax
 
 const stories = [
-  // ...storiesTwo,
-  ...storiesOne
+  ...storiesOne,
 ];
 
-app.get('/stories', (req, res) => {
+app.get('/stories', async (req, res) => {
+  const storyData = await generateStory();
+  if (storyData) {
+    await saveStoryToFile(storyData); // Wait until the story is saved before responding
+  }
   res.json(stories);
 });
 
