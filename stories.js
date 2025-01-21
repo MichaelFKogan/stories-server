@@ -8,8 +8,8 @@ const storiesOne = require('./stories/storiesOne');
 const storiesTwo = require('./stories/storiesTwo');
 
 const stories = [
-  ...storiesTwo,
-  ...storiesOne,
+  // ...storiesTwo,
+  ...storiesOne
 ];
 
 app.get('/stories', (req, res) => {
