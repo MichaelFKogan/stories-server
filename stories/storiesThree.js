@@ -1,4 +1,4 @@
-const storiesTwo = [
+const storiesThree = [
 
    {
     title: "",
@@ -11,4 +11,4 @@ const storiesTwo = [
   },
   ];
 
-module.exports = storiesTwo;
+module.exports = storiesThree;

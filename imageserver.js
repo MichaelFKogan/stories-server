@@ -35,10 +35,15 @@ const removeMarkdown = (text) => {
 };
 
 const imageUrls = [
-    "https://i.imgur.com/mzDkLo2.jpg", 
-    "https://i.imgur.com/Y1BgzFk.jpg",
-    "https://i.imgur.com/EFf7VKe.jpg",
-    "https://i.imgur.com/es23f4m.jpg",
+        // "https://i.imgur.com/kNtOQcF.jpg",
+        // "https://i.imgur.com/hjP0jAf.jpg",
+        "https://i.imgur.com/d4QPWlu.jpg",
+        // "https://i.imgur.com/v0Vrww7.jpg",
+        // "https://i.imgur.com/zRbKVX9.jpg",
+        // "https://i.imgur.com/DKv5lsN.jpg",
+        // "https://i.imgur.com/rpGXXvi.jpg",
+        // "https://i.imgur.com/ebUhLET.jpg",
+        "https://i.imgur.com/elsDDuO.jpg",
 ];
 
 
