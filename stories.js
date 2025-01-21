@@ -2,13 +2,13 @@
 
 import express from 'express';
 import storiesOne from './stories/storiesOne.js';
-import storiesTwo from './stories/storiesTwo.js';
+// import storiesTwo from './stories/storiesTwo.js';
 
 const app = express();
 const port = process.env.PORT || 3000;
 
 const stories = [
-  ...storiesTwo,
+  // ...storiesTwo,
   ...storiesOne,
 ];
 
