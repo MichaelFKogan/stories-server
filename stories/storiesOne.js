@@ -98,6 +98,7 @@ And with that, Neko leaned forward, ready for the next spark of curiosity to ign
   {
     title: "The Lighthouse Keeper's Secret",
     genre: "Fiction",
+    synopsis: "After years of solitude as a lighthouse keeper, Elias discovers a shattered mirror with the power to reveal the past. Consumed by grief for his lost wife, he works to restore the mirror—unleashing a dark and haunting secret that should have stayed buried."
     url: "https://i.imgur.com/OwaspL1.jpeg",
     story: `
 On the edge of the world, where the cliffs kissed the restless sea, stood a solitary lighthouse. It had weathered countless storms and guided countless sailors to safety. Inside, an aging keeper named Elias tended to its glow. He had spent thirty years in the tower, the sound of crashing waves his only companion.

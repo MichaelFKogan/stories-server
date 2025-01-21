@@ -3,11 +3,11 @@ const app = express();
 const port = process.env.PORT || 3000;
 
 const storiesOne = require('./stories/storiesOne');
-// const fantasyStories = require('./stories/fantasy');
+// const storiesTwo = require('./stories/storiesTwo');
 
 const stories = [
   ...storiesOne,
-  // ...fantasyStories
+  // ...storiesTwo
 ];
 
 app.get('/stories', (req, res) => {
