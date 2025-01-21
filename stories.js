@@ -6,7 +6,7 @@ const storiesOne = require('./stories/storiesOne');
 // const fantasyStories = require('./stories/fantasy');
 
 const stories = [
-  ...shadowsStories,
+  ...storiesOne,
   // ...fantasyStories
 ];
 
