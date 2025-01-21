@@ -35,14 +35,17 @@ const removeMarkdown = (text) => {
 };
 
 const imageUrls = [
-    "https://i.imgur.com/ZCrcA5b.jpg", // Add more image URLs as needed
-    "https://i.imgur.com/RCaXPPE.jpg", // Example of a second URL
+    "https://i.imgur.com/mzDkLo2.jpg", 
+    "https://i.imgur.com/Y1BgzFk.jpg",
+    "https://i.imgur.com/EFf7VKe.jpg",
+    "https://i.imgur.com/es23f4m.jpg",
 ];
 
 
 const processImage = async (imageUrl) => {
             try {
                 // const imageUrl = "https://i.imgur.com/BlgKiqz.jpg";
+                console.log(`Running Image ${imageUrl}`); 
 
                 const response = await openai.chat.completions.create({
                     model: "gpt-4o-mini", // Replace with the correct model name
@@ -64,11 +67,11 @@ const processImage = async (imageUrl) => {
                     }, ],
                 });
 
-                console.log("Full API response:", response);
+                // console.log("Full API response:", response);
 
                 const newResponse = response.choices[0].message.content;
                 const cleanedResponse = removeMarkdown(newResponse);
-                console.log("Cleaned Response:", cleanedResponse);
+                // console.log("Cleaned Response:", cleanedResponse);
 
                 if (!cleanedResponse || !cleanedResponse.trim()) {
                     console.error("Empty response received from the API.");
@@ -87,21 +90,23 @@ const processImage = async (imageUrl) => {
                     // Clean the title (remove quotes and markdown)
                     const cleanedTitle = title.trim().replace(/^"|"$/g, '').replace(/[*_~`]/g, '');
 
+                    // Log the title completion
+                    console.log(`Title Complete: ${cleanedTitle}`);
 
                     // Format the result
                     const formattedResult = `
-    {
-      title: "${cleanedTitle.trim()}",
-      genre: "${genre.trim()}",
-      synopsis: "${synopsis.trim()}",
-      url: "${imageUrl}",
-      story: \`
-${story.trim()}
-      \`,
-    },`;
+                        {
+                          title: "${cleanedTitle.trim()}",
+                          genre: "${genre.trim()}",
+                          synopsis: "${synopsis.trim()}",
+                          url: "${imageUrl}",
+                          story: \`
+                    ${story.trim()}
+                          \`,
+                        },`;
 
 
-                    console.log("Formatted Result:", formattedResult);
+                    // console.log("Formatted Result:", formattedResult);
 
 
 
@@ -130,6 +135,7 @@ ${story.trim()}
                 for (const imageUrl of imageUrls) {
                     await processImage(imageUrl); // Wait for the API call to finish before moving to the next image
                 }
+            console.log("PROCESS COMPLETE");
             })();
 
 
