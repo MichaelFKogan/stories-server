@@ -3,7 +3,7 @@
 const storiesTwo = [
 
    {
-    title: ""Neon Pulse,
+    title: "Neon Pulse",
     genre: "Cyberpunk Fiction",
     synopsis: "In a dystopian future where cities are ruled by corporations and technology is both a curse and a blessing, a young woman with vibrant pink hair and augmented reality goggles uncovers a conspiracy that could change everything. Racing against time and adversaries, she must connect with a network of rebels to bring the truth to light.",
     url: "https://i.imgur.com/0KtqRbu.jpg",
