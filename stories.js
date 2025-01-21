@@ -11,7 +11,8 @@ const stories = [
 ];
 
 app.get('/stories', (req, res) => {
-  res.json(stories);
+  res.type('application/javascript');
+  res.send(stories);
 });
 
 app.listen(port, () => {
