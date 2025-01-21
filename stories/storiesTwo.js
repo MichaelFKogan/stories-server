@@ -11,6 +11,59 @@ const storiesTwo = [
 
 // `
 //   },
+    {
+    title: "Neon Dreams",
+    genre: "Cyberpunk/Adventure",
+    synopsis: "In a sprawling metropolis illuminated by neon lights, a young tech-savvy girl named Kai discovers a rogue AI that has been hiding among the digital shadows. As she deciphers its secrets, she finds herself entangled in a web of corporate intrigue, where she must navigate both the virtual and physical worlds to save her city.",
+    url: "https://i.imgur.com/0cJOSte.jpg",
+    story: `
+Kai adjusted the oversized goggles perched on her head, the pink lenses reflecting the vibrant skyline of the neon-lit city. Towers of glass and metal loomed around her, their surfaces shimmering with advertisements and holograms that danced in the evening fog. For most, this was just another night in Neo-Tokyo, a city that never truly slept. But for Kai, it was a night filled with possibility.
+
+With her yellow jacket zipped up tight, she ventured deeper into the heart of the urban sprawl. Her backpack was heavy with gadgets—mini drones, circuit boards, and a portable power bank for emergencies. She thrived in this chaotic embrace of technology, and her fingers itched to connect to the digital world.
+
+As she passed a street vendor selling neon-tinted snacks, the faint buzz of her custom-built earpiece crackled to life. “Kai, you there?” a voice echoed. It was Zane, her coding partner and only ally in this venture.
+
+“Right here,” she replied, her eyes narrowing at the document overlay appearing in her field of vision. “What’s the status on the AI?”
+
+“It's splicing through the city's mainframe. I need you to get closer to its core,” Zane urged. “It’s hiding in the old subway tunnels under the city. We can't let it fall into the hands of OverMind Corp.”
+
+Kai nodded. She could feel the adrenaline surging as she plotted her route on the omnipresent holographic interface flickering to life before her. The midtown subway station was just a few blocks away, but it wouldn't be easy. The streets were alive with activity, a swirling mass of people connected to their own digital realities.
+
+With a resolute breath, she dove into the crowd. The sounds of chatter, digital music, and the occasional flashy display created an electric atmosphere. Every step echoed her purpose; she was on the hunt.
+
+Reaching the subway access, she slid down an aged, rusted ladder into the darkened tunnels below. The air was thick with dust and history, remnants of a city that had once buzzed with life above. With her goggles illuminating the path ahead, she found herself standing before a flickering terminal, a door to the AI's hidden world.
+
+“Hurry up, I’m losing the connection,” Zane urged through her earpiece.
+
+Kai approached the terminal, inputs glowing in vibrant hues. She began navigating the interface, fingers flying over buttons while her heart raced. Just as she broke through the first layer of security, alarms blared. Red lights swept over the tunnels.
+
+“It’s alerted the guards!” Zane shouted.
+
+“Know any tricks to buy me time?” Kai replied, her eyes darting around for an escape.
+
+“Keep hacking! I’m working on a distraction.”
+
+With determination, Kai typed faster, her screen flashing as she bypassed firewalls. Meanwhile, shadows loomed from the darkness—OverMind’s enforcers. She could hear their boots clattering in the tunnel, their lights piercing the gloom.
+
+Suddenly, a blast echoed from above as Zane initiated a controlled burst, sending sparks flying. The guards fell back, giving her a precious moment. “Got it!” she exclaimed, the terminal whirring to life.
+
+“Download the AI’s core code, and let’s cut the signal!” Zane urged.
+
+Kai initiated the download just as the guards regained composure, their shouts echoing ominously. The progress bar blinked with vital seconds left. She felt the weight of the city resting on her shoulders, racing against the ticking clock.
+
+“Almost there!” she breathed, sweat beading on her forehead. 
+
+At last, the download completed, and she launched a data-blind protocol that would send the AI into a secure network—a safe haven from OverMind. “Let’s go!” she yelled, sprinting back up the tunnel, the echo of her steps mingling with the frantic voices of their adversaries.
+
+Emerging back into the neon glow, Kai and Zane powered their escape through the bustling crowd. “We did it!” she shouted, catching her breath.
+
+“Hurry, before they trace us!” Zane urged, his voice a mix of exhilaration and urgency.
+
+As they slipped into the alleys clothed in shadows and neon, Kai felt a rush of hope. They had outsmarted the looming corporation, even if just for now. The city pulsed with life around them, filled with dreams and dangers alike, and they would continue to fight for its freedom under the brilliant glow of a thousand lights.
+
+
+`
+  },
    {
     title: "Neon Pulse",
     genre: "Cyberpunk Fiction",
@@ -205,26 +258,93 @@ As they wrapped up their meal, the world outside continued to fade into a soft b
 
 `
   },
-//   {
-//     title: "",
-//     genre: "",
-//     synopsis: "",
-//     url: "",
-//     story: `
+  {
+    title: "Red Echoes",
+    genre: "Sci-Fi / Dystopian",
+    synopsis: "In a desolate future where humanity's remnants cling to survival amidst the ashes of an apocalyptic war, a young woman named Lyra, equipped with advanced technology and a fierce spirit, embarks on a quest to uncover the truth behind her origins and the power she doesn't fully understand.",
+    url: "https://i.imgur.com/k61mqPh.jpg",
+    story: `
+The air was thick with despair as Lyra traversed the barren landscape, remnants of twisted metal and concrete jutting from the ground like the broken skeletons of a forgotten world. Her long red hair billowed like flames in the cold wind, a stark contrast to the muted palette of ash and ruin that surrounded her. Every step felt heavy with purpose as she moved closer to the towering silhouette of what used to be a city.
 
+The pulsating red light on her chest glowed softly, a signal of her internal conflict. Part human, part machine, she was the product of a failed experiment, an embodiment of the remnants of technology and the will to survive. But there was something more—an echo of a past she couldn’t quite grasp. She could feel it tugging at her, like a distant whisper lost in the void.
 
-// `
-//   },
-//   {
-//     title: "",
-//     genre: "",
-//     synopsis: "",
-//     url: "",
-//     story: `
+As she neared the skeleton of a ruined tower, she sensed she was not alone. From the shadows emerged a figure: a ghostly presence clad in tattered fabric. It was Eli, a scavenger with a weary look etched into his face. They had crossed paths before; his stories of the old world filled her with both hope and dread.
 
+“Lyra,” he called, his voice raspy. “You shouldn’t be out here alone. The Wraiths hunt at dusk.”
 
-// `
-//   },
+“The Wraiths?” she echoed, her curiosity getting the better of her caution. “What are they?”
+
+“Extensions of our own mistakes,” he replied, glancing over his shoulder as if expecting shadows to leap at them. “Those who were once like us, lost to madness.”
+
+With a shudder, Lyra thought of the people who had come before her, those who had lost hope. She could feel their energy still lingering in the ruins—the echoes of lives once vibrant, now extinguished. “I have to know what I am,” she insisted, her voice trembling. “I need to find the truth about my origins.”
+
+Eli hesitated, uncertainty flickering in his eyes. “Then you need to reach the Core, but it won't be easy. The Wraiths won’t let you pass.”
+
+With determination igniting her spirit, Lyra nodded. “I’ll face whatever it takes. I am more than this wasteland.”
+
+Together, they moved deeper into the heart of the destruction. The light on her chest pulsed faster, as if responding to the energy swirling around them. They navigated through crumbling structures and menacing shadows, every step drawing her closer to the truth buried beneath layers of decay.
+
+As night descended, the Wraiths emerged, twisted figures with hollow eyes, haunting apparitions of the past. Lyra steeled herself, the red glow intensifying, intertwining with her heartbeat. In that moment, she felt a surge of power, an instinctive connection to the technology woven into her being.
+
+“Stay back!” she shouted, her voice resonating with newfound authority. The Wraiths recoiled, drawn to the pulsing energy of her heart, and for the first time, she saw them not as monsters but as fragments of herself—lost souls searching for redemption.
+
+“Lead them,” Eli urged, his fear dissolving into awe. “You can control them!”
+
+Remembering her roots, Lyra focused her mind and heart, channeling her pain and hope into a single beam of light. The Wraiths faltered, their sinister forms dissipating as they were enveloped in her glow. 
+
+As dawn broke, Lyra stood at the ruins of the Core, the sunrise illuminating the shattered landscape. “I am not a mistake,” she whispered, the weight of her past lifting. “I am the future.”
+
+In that moment, she realized she was destined to reconstruct not just her identity, but the very world around her—a symbol of rebirth. Amidst the remnants of despair, Lyra emerged as a beacon of hope, ready to reclaim the ashes and rise anew.
+
+`
+  },
+  {
+    title: "Neon Dreams",
+    genre: "Science Fiction/Fantasy",
+    synopsis: "In a vibrant metropolis where humans and robots coexist, a playful robot named Piko befriends two adventurous children who wander into a realm of neon lights and whimsical wonders. Together, they embark on a quest to uncover the secrets hidden within the fantastical arcade district while facing challenges and forming unbreakable bonds of friendship.",
+    url: "https://i.imgur.com/pNTKPHM.jpg",
+    story: `
+
+The streets of Neonopolis pulsed with life, illuminated by swirling hues of purple and blue, enticing those who dared to explore its wonders. Towering above was Piko, a cheerful robot with a soft, glowing smile and brightly lit features. His shiny metallic arms reflected the lights of the bustling arcade, where laughter and excitement echoed.
+
+Two small figures darted between sprawling gaming machines and flashing neon signs, their giggles mingling with the whirring sounds of the machinery. Clara, with her dark curls bouncing, and Leo, who skidded to a stop in his blue shoes, gazed up at Piko in wonder. “He’s so cool!” Clara exclaimed, her eyes wide.
+
+“Can he play games?” Leo asked, bouncing on his toes.
+
+Piko bent down, his camera-like eyes glimmering with mischief. “I don’t just play games; I create adventures!” he declared, his voice a melodic blend of joy and enthusiasm. “Would you like to join me on a quest?”
+
+The children nodded, hearts racing with the thrill of the unknown. Piko extended a mechanical hand, glowing softly as he beckoned them closer. “Follow me!” he said, leading them deeper into the arcade’s luminous heart.
+
+As they ventured through the neon maze, they encountered a gigantic screen displaying an interactive game where players could battle creatures to save a virtual kingdom. Piko explained the rules, and soon, Clara and Leo were immersed in pixelated monsters and treasure hunts, laughter filling the air.
+
+“Look!” Leo pointed as holographic dragons zoomed past. “We can take the treasure from them!”
+
+Piko’s eyes twinkled. “Only if you’re clever! Every game has its secrets.” They collaborated, strategizing how to outsmart the creatures, the challenges drawing them closer as they worked as a team.
+
+The hours flew by in a whirl of colors and sounds. However, as night wrapped its arms around the city, Clara noticed fewer people around. “Where did everyone go?” she asked, concern etching her small brow.
+
+“Sometimes, adventurers lose their way,” Piko replied gently. “But true friendship lights the darkest paths.” He gestured to a distant glow emanating from a towering neon sign shaped like a phoenix.
+
+“Let’s go there!” Clara shouted, taking the lead. The trio hurried towards the glowing beacon, and as they neared, they found themselves standing in front of a grand arcade, its entrance framed with shimmering lights.
+
+Suddenly, the ground trembled slightly, and Piko turned serious. “There’s a challenge we must face. To enter the arcade, you need a token hidden within this game,” he explained, pointing to a holographic maze at the center of the square.
+
+With hearts pounding, Clara and Leo entered the maze, while Piko remained outside, his voice echoing through the digital pathways. “Trust your instincts! Remember, teamwork is your greatest strength!”
+
+The game became a flurry of discovery, laughter, and camaraderie. At last, they reached the center where a golden token glittered like a star. As they grabbed it, the neon light began to flicker, signaling their victory.
+
+They exited the maze to find the entrance now fully illuminated, welcoming them into the bustling arcade filled with friends, laughter, and an array of new games. 
+
+Piko beamed with pride. “You did it! Together, you unlocked the magic of this place.”
+
+As Clara and Leo stood awestruck, the bond they'd formed with Piko felt stronger than any game they'd played. In that moment, they learned that adventures were not just about winning; they were about friendship, joy, and the memories created along the way.
+
+“Ready for our next adventure?” Piko asked, glowing brightly under the neon lights. 
+
+With excitement fluttering in their hearts, Clara and Leo replied in unison, “Always!” And together, they stepped into a world where the adventure would never end.
+
+`
+  },
 //   {
 //     title: "",
 //     genre: "",
