@@ -1237,4 +1237,6 @@ And so, with Pippin leading his fuzzy friends, the Spindleflakes journeyed into 
 
 ];
 
-export { storiesOne }
+
+module.exports = storiesOne;
+// export { storiesOne }
