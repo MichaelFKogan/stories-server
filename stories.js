@@ -1,25 +1,20 @@
 
 
-const express = require('express');
+import express from 'express';
+import storiesOne from './stories/storiesOne.js';
+import storiesTwo from './stories/storiesTwo.js';
+
 const app = express();
 const port = process.env.PORT || 3000;
 
-const storiesOne = require('./stories/storiesOne');
-// const storiesTwo = require('./stories/storiesTwo');
-
 const stories = [
-  // ...storiesTwo,
-  ...storiesOne
+  ...storiesTwo,
+  ...storiesOne,
 ];
 
 app.get('/stories', (req, res) => {
-  res.json(stories);
+  res.json(stories);  // Respond with the combined stories array
 });
-
-app.listen(port, () => {
-  console.log(`Server is running on port ${port}`);
-});
-
 
 
 // // Express server setup
