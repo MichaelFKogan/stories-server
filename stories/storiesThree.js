@@ -372,7 +372,7 @@ But first, he needed to survive the night.
 {
 title: "Echoes of the Neon City",
 genre: "Cyberpunk/Futuristic Thriller",
-synopsis: "In a sprawling megacity drenched in neon and automation, a group of elite hackers known as the "Phantoms" gathers to execute their most audacious heist yet. As they navigate the digital and physical realms, they confront their pasts amidst high-stakes tension, revealing dark secrets that threaten to tear them apart.",
+synopsis: "In a sprawling megacity drenched in neon and automation, a group of elite hackers known as the \"Phantoms\" gathers to execute their most audacious heist yet. As they navigate the digital and physical realms, they confront their pasts amidst high-stakes tension, revealing dark secrets that threaten to tear them apart.",
 url: "https://i.imgur.com/C0TnQVy.jpeg",
 story: `
 In the depths of Neon City, where the skyline reached into the clouds and shadows danced to the pulse of electric lights, a hushed anticipation filled the air. Streets pulsed with the rhythmic thrum of drones overhead, while holographic advertisements flickered against the sleek, steel architecture. Amongst the hustle, a formidable figure emerged from the mist—a girl clad in a luminescent hooded cloak.
