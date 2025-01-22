@@ -1,18 +1,6 @@
 // storiesTwo.js
 
 const storiesTwo = [
-//   {
-//     title: "",
-//     genre: "",
-//     synopsis: "",
-//     url: "",
-//     story: `
-
-
-// `
-//   },
-  
-
 
 {
 title: "The Whisper of Destiny",

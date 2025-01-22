@@ -13,6 +13,7 @@ const stories = [
   // ...top,
   // ...storiesOne,
   // ...storiesThree,
+  date: "Jan, 22 2025",
   ...storiesTwo,
 ];
 
