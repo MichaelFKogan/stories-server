@@ -9,16 +9,15 @@ const port = process.env.PORT || 3000;
 // const storiesThree = require('./stories/storiesThree');
 const storiesTwo = require('./stories/storiesTwo');
 
-const stories = [
-  // ...top,
-  // ...storiesOne,
-  // ...storiesThree,
+const data = {
   date: "Jan, 22 2025",
-  ...storiesTwo,
-];
+  stories: [
+    ...storiesTwo,
+  ],
+};
 
 app.get('/date', (req, res) => {
-  res.json(stories);
+  res.json(data);
 });
 
 app.listen(port, () => {
