@@ -1,4 +1,4 @@
-// stories.js
+// date.js
 
 const express = require('express');
 const app = express();

@@ -4,9 +4,21 @@
     {
       "src": "stories.js",
       "use": "@vercel/node"
+    },
+    {
+      "src": "date.js",
+      "use": "@vercel/node"
     }
   ],
   "routes": [
+    {
+      "src": "/stories",
+      "dest": "stories.js"
+    },
+    {
+      "src": "/date",
+      "dest": "date.js"
+    },
     {
       "src": "/(.*)",
       "dest": "stories.js"
