@@ -61,7 +61,7 @@ const imageUrls = [
 // "https://i.imgur.com/HwP8pQa.jpeg",
 // "https://i.imgur.com/VqXCG8z.jpeg",
 // "https://i.imgur.com/L7h1mMu.jpeg",
-"https://i.imgur.com/f7ByqPP.jpeg",
+// "https://i.imgur.com/f7ByqPP.jpeg",
 
 ];
 
