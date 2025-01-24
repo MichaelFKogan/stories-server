@@ -12,15 +12,15 @@ const storiesTwo = require('./stories/storiesTwo');
 const data = [
   {
     date: "Jan, 23 2025",
-    stories: [...storiesOne],
-  },
-  {
-    date: "Jan, 22 2025",
     stories: [...storiesThree],
   },
   {
-    date: "Jan, 21 2025",
+    date: "Jan, 22 2025",
     stories: [...storiesTwo],
+  },
+  {
+    date: "Jan, 21 2025",
+    stories: [...storiesOne],
   },
 ];
 
