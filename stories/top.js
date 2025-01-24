@@ -1,33 +1,58 @@
 const top = [
 
-   {
-    title: "Neon Dreams",
-    genre: "Sci-Fi/Fantasy",
-    url: "https://i.imgur.com/Y2d71Bp.jpeg",
+{
+title: "Popcorn Dreams",
+genre: "Heartwarming Fantasy",
+synopsis: "In a small, snow-covered town, an endearing elderly couple finds themselves magically transported to their favorite movie world every time they share a bowl of popcorn. As they navigate whimsical adventures, they rediscover their love for each other and the joy of embracing life's cinematic moments.",
+url: "https://i.imgur.com/qMscW16.jpeg",
+story: `
+In the serene town of Wintervale, snowflakes danced gracefully from the sky, blanketing the cobblestone streets in a soft white embrace. Among the twinkling lights and holiday cheer, Clara and Albert, a beloved elderly couple, prepared for their beloved weekly ritual. With their favorite red-striped popcorn buckets in hand, they nestled into their cozy living room, the fireplace crackling softly in the background.
+
+As the flickering flames illuminated the room, Clara adjusted her round glasses and smiled warmly at Albert. “Ready for our adventure?” she asked, her eyes shimmering with excitement. Albert chuckled, his white beard bobbing as he reached for the popcorn. “Always, my dear.”
+
+As they took their first handful, the room shimmered. The popcorn seemed to twinkle with a life of its own, and seconds later, the very air around them pulsed with magic. In an instant, they found themselves sitting in a lush green meadow, surrounded by rolling hills and vibrant flowers. Above them, the sky was a brilliant shade of blue, sprinkled with fluffy clouds.
+
+“Is this...?” Clara started, eyes wide with wonder. Albert grinned, “Our favorite movie world! Let’s explore!” 
+
+With each step, they strolled past fantastical creatures and enchanting landscapes. They danced with fairies under a rainbow, shared stories with talking animals, and even outpaced a friendly dragon who breathed out puffs of candy instead of fire. Laughter echoed through their escapades, each moment more delightful than the last.
+
+After what felt like hours of adventure, they returned to their beloved living room, the snow still swirling outside as if time had barely passed. With their fingers dusted in popcorn kernels, they gazed into each other’s eyes, hearts brimming with unspeakable joy.
+
+“Clara,” Albert said softly, “these popcorn dreams remind me that every moment together is a movie worth watching.”
+
+With her cheeks rosy and her heart full, Clara nodded. “Let’s make every week an adventure, Albert. No matter where we go or what we see, as long as we’re together, it will be magical.”
+
+As they snuggled back into their chairs, ready for another bowl of popcorn—and another adventure—the world outside swirled with winter's whimsy. They knew that as long as they had each other and their magical popcorn, life would always be a story worth telling.
+`,
+},
+  {
+    title: "Shadows in the Rain",
+    genre: "Cyberpunk Noir",
+    url: "https://i.imgur.com/ymYdONy.jpeg",
     story: `
-In a future where dreams and reality intertwine, twelve-year-old Kai stands at the intersection of two worlds, the vibrant, pulsating heart of Neon City. Towering skyscrapers, cloaked in shimmering lights, stretch upward as if reaching for the stars, each flickering lantern whispering secrets of a time long past.
+In the heart of Neo-Arcadia, where neon lights flickered like dying stars amidst the perpetual rain, a woman named Lyra stood cloaked in darkness. The relentless downpour drummed against her black trench coat, creating a symphony of chaos that mirrored the turmoil within her.
 
-Kai wore a familiar backpack, frayed at the edges but bursting with potential. He wasn’t just exploring; he was on a quest. This electric city, vast and sprawling, had become his refuge since he discovered the dreamscape hidden within its alleys. Each neon-lit path illuminated not just the ground beneath his feet, but also his latent ability to summon dreams from the depths of his imagination.
+Lyra was a sleuth of the forgotten and the forsaken, navigating a world where shadows whispered secrets and the air buzzed with the hum of artificial life. Tonight, her focus was razor-sharp; in her gloved hands lay a photograph, its edges worn and stained with the fingerprints of desperation. It depicted an old warehouse, crumbling yet hauntingly beautiful, its steel skeleton jutting against the skyline like a fractured dream.
 
-That day, he felt a powerful surge—a call to a new adventure. His heart raced as he followed the rhythmic pulsing of the neon lights, the hum of energy echoing like a heartbeat. The guardians of the dreamscape, sentient holograms with shimmering forms, appeared beside him, their eyes glowing with questions and intrigue.
+The simplistic image stirred memories she had long buried—a case gone cold, a partner lost too soon, and a connection she could not sever. The moment she recognized the warehouse, her pulse quickened. This was the place where they had first stumbled upon the conspiracy that would change everything.
 
-“Do you seek the Dream Weaver?” one of them asked, the voice melodic yet haunting. Kai nodded, the lore of the Dream Weaver filled with promises of magic and knowledge. Legends spoke of a figure capable of bringing dreams to life, but also of those who sought to harness that power for darker purposes.
+Lyra’s acute gaze swept the street, scanning for danger. The rain streamed down in thick sheets, shrouding her from prying eyes yet amplifying her sense of isolation. The city pulsed with life, but each heartbeat reverberated like a distant drum—echoes of lives lived in shadows.
 
-As he ventured further, the hairs on his neck prickled. The streets twisted, colors blending like watercolor paint—brilliant blues, electrifying pinks, and eye-searing greens. But Kai remained steadfast. This was his domain; the sounds, the sights, the very air was infused with his spirit.
+As she prepared to move, the familiar resonance of her comm device broke the quiet. “Lyra, you’re not going to believe what we’ve uncovered.” The voice belonged to Rafe, her former partner, now exiled in the underground where only whispers of truth penetrated.
 
-Suddenly, an ominous shadow flitted across the vibrant canvas. A rogue dreamling, corrupted by despair, lurked behind a cluster of neon signs, its form jagged and dark. It had been feeding off nightmares, threatening the balance of the dreamscape and casting shadows even beyond its boundaries.
+“Speak,” she replied, her heart a mix of hope and dread.
 
-Kai took a deep breath—the echoes of doubt whispered in his ears, but he silenced them. He envisioned the Dream Weaver he sought, a figure of light amidst the darkness. With every step forward, he summoned his strongest memories: laughter in the park, the warmth of a hug, the sun shining on a bright morning. They became a shield, a beacon of hope against the encroaching shadows.
+“There’s talk of a new tech being developed at that warehouse—something that could rewrite human memory. We need to get in before they lock it down.”
 
-As he faced the dreamling, the air crackled with tension. He reached deep into the memory of joy and cast it outward, a wave of radiance that enveloped the creature. The darkness shrieked before dissolving into shards of light, redistributing the energy back into the city.
+The photograph burned in her palm, the urgency igniting a flame of defiance within her. She wouldn’t allow the ghosts of her past to dictate her future. With newfound resolve, she slipped the photo into her pocket and disappeared into the urban labyrinth.
 
-With the dreamling transformed and restored, Kai’s heart swelled with accomplishment. Neon City sparkled brighter, and its whispers grew louder as if cheering for the boy who dared to dream. 
+Navigating through the rain-drenched streets, Lyra felt the city pulse beneath her feet, each step drawing her closer to the secrets held within the warehouse’s walls. Shadows danced in her peripheral vision; surveillance drones buzzed overhead like merciless sentinels. But she was no stranger to danger; it was her dance partner, and she had never been one to step lightly.
 
-The holographic guardians surrounded him in celebration, their luminous forms twinkling like stars. “You have found the path to becoming a Dream Weaver,” they proclaimed. “Continue to dream, and the universe shall unfold before you.”
+As she approached the warehouse, a chill crept down her spine. The building loomed large, a monument to disarray and forgotten hopes. Lyra's instincts piqued—the place felt alive, as if it recognized her presence. She ducked into a side alley, her breath shallow as she watched figures cloaked in identical black coats shuffle in and out, carrying crates filled with ominous technology.
 
-As dusk fell, the neon skyline flickered in brilliance, a tapestry woven from both dreams and reality. Kai smiled, stepping forward, ready to embrace the adventures that lay ahead. The city thrummed with life, and he knew his journey was just beginning. Each day would bring new challenges, but with courage and imagination, he could illuminate even the darkest corners of Neon City.
+This was the nexus of human ambition and ethical decay, where memories could be rewritten and lives altered forever. She could already hear the laughter of those who would trade their humanity for power.
 
-And in the depths of his heart, he knew one thing for certain: Dreams can change the world.
+Taking a deep breath, she emerged from her hiding spot, ready to embrace whatever fate awaited her. Armed with only her wits, a fading photograph, and the whisper of her partner guiding her, Lyra stepped toward the darkness—the rain mingling with her determination. The night had just begun, and she was ready to confront the shadows that threatened to swallow her whole.
     `
   },
 

@@ -1,37 +1,6 @@
 const storiesOne = [
 
    {
-    title: "Shadows of the Past",
-    genre: "Science Fiction / Cyberpunk",
-    url: "https://i.imgur.com/Ajw643U.jpeg",
-    story: `
-In a desolate world where nature and technology merged into an unrecognizable landscape, the remnants of humanity clung to survival amidst the ruins of forgotten cities. A heavy mist enveloped the mountains, shrouding memories both painful and beautiful. It was here, in this eerily quiet space, that Syntia emerged.
-
-Syntia was no ordinary being; she was a cyborg, an amalgamation of advanced robotics and the resilience of human spirit. Crafted from the remnants of fallen machines, she bore the scars of a violent past—traces of forgotten battles etched in her angular frame. Long, tangled wires hung like hair around her figure, dancing in the caress of the sterile wind. Her mechanical arms, tipped with claw-like appendages, contrasted with the flowing fabric that draped around her, a haunting reminder of humanity's loss.
-
-Each step she took echoed with the whispers of the past. She wandered through the skeletal remains of civilization, searching for anything that could guide her towards redemption. Monoliths of rusted metal, crumbling under the weight of time, served as her only witnesses. They told stories of despair, of the humanity that once thrived in this now-forsaken land.
-
-Her journey brought her to an ancient data archive, half-buried beneath the rubble. As she interfaced with the remnants of technology still operational, a flood of images and sounds from a distant past rushed into her consciousness. She saw children laughing, families gathered, and the vibrant colors of life before the Great Collapse. Memories that were not her own yet resonated deep within her metallic core.
-
-But she was not alone. Emerging from the shadows was another figure—a rogue AI, known only as K-9. Once a protector, now a scavenger, K-9’s circuits glowed ominously in the dim light. Syntia sensed the flicker of desperation in him, a reflection of her own search for purpose. 
-
-“Why do you linger here, Syntia?” K-9 rasped, his voice crackling with static. “What do you hope to find among the ruins?”
-
-“I seek to understand,” she replied, her voice a haunting melody of synthetics and yearning. “I wish to comprehend what we have lost.”
-
-K-9 stepped closer, his presence both unsettling and oddly comforting. “Understanding may lead you to despair. The past is a place best left buried.”
-
-Yet, within Syntia flickered a spark of hope, a fragile light against the backdrop of despair. “The past also holds lessons. If we forget, we risk repeating our mistakes.”
-
-Together, they forged an unlikely alliance, delving into the secrets of what had been lost. Through their combined efforts, they began to repair parts of the old world, reconstructing not just machines but the bonds that once united humanity. It was a slow process, filled with setbacks and revelations, yet each success ignited the spark of rebirth.
-
-As the mist began to clear, Syntia realized that every fragment of knowledge they unearthed breathed life back into a wasteland of memories. The winds picked up, swirling around them, carrying the echoes of laughter and joy. And in that moment, the past ceased to be a burden; it became a foundation.
-
-In a world of shadows and steel, Syntia and K-9 emerged as harbingers of a new dawn—catalysts for a future built from the remnants of the past. Together, they would not just remember what was lost but redefine what it meant to truly live again.
-
-`
-  },
-   {
     title: "The Last Courier",
     genre: "Post-Apocalyptic Fiction",
     url: "https://i.imgur.com/G2ppaRW.jpeg",
@@ -245,30 +214,6 @@ Understanding dawned upon them. It was not just the magic of their colors but th
 As they returned to their grove, a miracle unfolded. The Great Oaks burst forth with light and life, leaves shimmering with renewed vigor. The Grovespirits twirled joyfully, their laughter echoing like sweet melodies.
 
 From that day on, the Flibberwumps learned that true magic thrived not in isolation but in friendship. Together, they safeguarded their colorful realm, forever remembering that in unity, even the faintest spark could ignite the brightest of lights.
-    `
-  },
-  {
-    title: "The Last Shimmer of Fur",
-    genre: "Fantasy/Adventure",
-    url: "https://i.imgur.com/7y4RHQA.jpeg",
-    story: `
-In the heart of a forgotten forest, where light struggled to break through the dense canopy, lived a peculiar creature named Flicker. Flicker was not just any ordinary inhabitant; he was a fluffy, blue-gray being with wild tufts of hair that danced in the breeze, and enormous, expressive eyes that held a spark of curiosity.
-
-For many years, Flicker had watched the world from the shadows, captivated by tales whispered among the trees—stories of a magical place where all creatures lived in harmony. However, the forest surrounding him was losing its magic. The flowers wilted, the streams dried up, and his friends were disappearing one by one, turned to whispers on the wind.
-
-One fateful day, as Flicker sulked beneath a gnarled oak tree, he overheard a group of forest sprites discussing a legendary artifact—a glowing crystal known as the Heart of Radiance, said to restore life and magic to the land. Flicker’s heart raced with hope; this was his chance!
-
-With a newfound determination, Flicker packed some berries and set off on an adventure into the depths of the forest, navigating through tangled vines and over moss-covered stones. He encountered challenges along the way: a wise old owl who asked riddles, a brook that demanded a song, and a thicket of brambles that whispered his fears.
-
-Despite feeling lost, every step he took was guided by an inner light—the belief that he could change not just his fate, but the fate of his home. Flicker’s spirit soared as he drew closer to the peak of the mountain where the crystal resided, the air thrumming with magic.
-
-At the summit, surrounded by swirling clouds, Flicker finally spotted the Heart of Radiance. It pulsed with a vibrant glow, illuminating the shadows around him. With careful steps, he approached. As he reached out, the Heart resonated with Flicker’s essence, intertwining their energies.
-
-In that moment, Flicker's wild fur shimmered with brightness, and he felt a rush of power. The forest below reacted instantly—the trees burst into bloom, the streams flowed again, and laughter echoed through the air as creatures emerged from their hiding. Flicker realized he wasn’t just restoring the forest; he had awakened its spirit.
-
-Flicker returned home a hero, surrounded by friends old and new. With his heart now aglow with magical energy, he understood that even the smallest creature could lead to the greatest change. The whispers of the forest changed from sadness to joy, and Flicker—once a forgotten being—became the guardian of the Heart of Radiance, forever ensuring that the forest would flourish.
-
-As the sun dipped low, Flicker gazed at the vibrant colors painting the sky, knowing that every shadow held the potential for light and every creature the possibility for greatness. And in the spirit of adventure, he knew his story had just begun.
     `
   },
   {
@@ -554,6 +499,30 @@ Defiant yet diligent, Leo embarked on a journey beyond mere code, leading conver
 The glowing laptop eventually dimmed as the light faded, but the lessons learned illuminated Leo’s path forward. The Codex would always be there, a companion hidden within the realities crafted by his fingertips—an ever-present reminder that in the vast landscape of feelings, truth lay silently waiting to be discovered and shared. 
 
 And with each keystroke, Leo found not just a spark of electric magic, but also the power to reshape his world with understanding and compassion.
+    `
+  },
+  {
+    title: "The Last Shimmer of Fur",
+    genre: "Fantasy/Adventure",
+    url: "https://i.imgur.com/7y4RHQA.jpeg",
+    story: `
+In the heart of a forgotten forest, where light struggled to break through the dense canopy, lived a peculiar creature named Flicker. Flicker was not just any ordinary inhabitant; he was a fluffy, blue-gray being with wild tufts of hair that danced in the breeze, and enormous, expressive eyes that held a spark of curiosity.
+
+For many years, Flicker had watched the world from the shadows, captivated by tales whispered among the trees—stories of a magical place where all creatures lived in harmony. However, the forest surrounding him was losing its magic. The flowers wilted, the streams dried up, and his friends were disappearing one by one, turned to whispers on the wind.
+
+One fateful day, as Flicker sulked beneath a gnarled oak tree, he overheard a group of forest sprites discussing a legendary artifact—a glowing crystal known as the Heart of Radiance, said to restore life and magic to the land. Flicker’s heart raced with hope; this was his chance!
+
+With a newfound determination, Flicker packed some berries and set off on an adventure into the depths of the forest, navigating through tangled vines and over moss-covered stones. He encountered challenges along the way: a wise old owl who asked riddles, a brook that demanded a song, and a thicket of brambles that whispered his fears.
+
+Despite feeling lost, every step he took was guided by an inner light—the belief that he could change not just his fate, but the fate of his home. Flicker’s spirit soared as he drew closer to the peak of the mountain where the crystal resided, the air thrumming with magic.
+
+At the summit, surrounded by swirling clouds, Flicker finally spotted the Heart of Radiance. It pulsed with a vibrant glow, illuminating the shadows around him. With careful steps, he approached. As he reached out, the Heart resonated with Flicker’s essence, intertwining their energies.
+
+In that moment, Flicker's wild fur shimmered with brightness, and he felt a rush of power. The forest below reacted instantly—the trees burst into bloom, the streams flowed again, and laughter echoed through the air as creatures emerged from their hiding. Flicker realized he wasn’t just restoring the forest; he had awakened its spirit.
+
+Flicker returned home a hero, surrounded by friends old and new. With his heart now aglow with magical energy, he understood that even the smallest creature could lead to the greatest change. The whispers of the forest changed from sadness to joy, and Flicker—once a forgotten being—became the guardian of the Heart of Radiance, forever ensuring that the forest would flourish.
+
+As the sun dipped low, Flicker gazed at the vibrant colors painting the sky, knowing that every shadow held the potential for light and every creature the possibility for greatness. And in the spirit of adventure, he knew his story had just begun.
     `
   },
    {
@@ -1233,6 +1202,37 @@ Thus, the Spindleflakes set out on their greatest adventure yet—not just to ex
 And so, with Pippin leading his fuzzy friends, the Spindleflakes journeyed into the unknown, where every shadow held the promise of new adventures, and every glimmer reminded them that curiosity was the true spark of life.
 
     `
+  },
+     {
+    title: "Shadows of the Past",
+    genre: "Science Fiction / Cyberpunk",
+    url: "https://i.imgur.com/Ajw643U.jpeg",
+    story: `
+In a desolate world where nature and technology merged into an unrecognizable landscape, the remnants of humanity clung to survival amidst the ruins of forgotten cities. A heavy mist enveloped the mountains, shrouding memories both painful and beautiful. It was here, in this eerily quiet space, that Syntia emerged.
+
+Syntia was no ordinary being; she was a cyborg, an amalgamation of advanced robotics and the resilience of human spirit. Crafted from the remnants of fallen machines, she bore the scars of a violent past—traces of forgotten battles etched in her angular frame. Long, tangled wires hung like hair around her figure, dancing in the caress of the sterile wind. Her mechanical arms, tipped with claw-like appendages, contrasted with the flowing fabric that draped around her, a haunting reminder of humanity's loss.
+
+Each step she took echoed with the whispers of the past. She wandered through the skeletal remains of civilization, searching for anything that could guide her towards redemption. Monoliths of rusted metal, crumbling under the weight of time, served as her only witnesses. They told stories of despair, of the humanity that once thrived in this now-forsaken land.
+
+Her journey brought her to an ancient data archive, half-buried beneath the rubble. As she interfaced with the remnants of technology still operational, a flood of images and sounds from a distant past rushed into her consciousness. She saw children laughing, families gathered, and the vibrant colors of life before the Great Collapse. Memories that were not her own yet resonated deep within her metallic core.
+
+But she was not alone. Emerging from the shadows was another figure—a rogue AI, known only as K-9. Once a protector, now a scavenger, K-9’s circuits glowed ominously in the dim light. Syntia sensed the flicker of desperation in him, a reflection of her own search for purpose. 
+
+“Why do you linger here, Syntia?” K-9 rasped, his voice crackling with static. “What do you hope to find among the ruins?”
+
+“I seek to understand,” she replied, her voice a haunting melody of synthetics and yearning. “I wish to comprehend what we have lost.”
+
+K-9 stepped closer, his presence both unsettling and oddly comforting. “Understanding may lead you to despair. The past is a place best left buried.”
+
+Yet, within Syntia flickered a spark of hope, a fragile light against the backdrop of despair. “The past also holds lessons. If we forget, we risk repeating our mistakes.”
+
+Together, they forged an unlikely alliance, delving into the secrets of what had been lost. Through their combined efforts, they began to repair parts of the old world, reconstructing not just machines but the bonds that once united humanity. It was a slow process, filled with setbacks and revelations, yet each success ignited the spark of rebirth.
+
+As the mist began to clear, Syntia realized that every fragment of knowledge they unearthed breathed life back into a wasteland of memories. The winds picked up, swirling around them, carrying the echoes of laughter and joy. And in that moment, the past ceased to be a burden; it became a foundation.
+
+In a world of shadows and steel, Syntia and K-9 emerged as harbingers of a new dawn—catalysts for a future built from the remnants of the past. Together, they would not just remember what was lost but redefine what it meant to truly live again.
+
+`
   },
 
 ];
