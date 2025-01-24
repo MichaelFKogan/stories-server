@@ -2,6 +2,40 @@
 
 const storiesTwo = [
 
+
+{
+title: "Neon Shadows",
+genre: "Cyberpunk Thriller",
+synopsis: "In a vibrant, neon-lit metropolis teeming with secrets, a skilled hacker named Kyra uncovers a conspiracy that threatens the balance of power. As she delves deeper into the darker alleyways of her city, she must navigate a web of cybernetic espionage, with her own fate hanging in the balance.",
+url: "https://i.imgur.com/rpGXXvi.jpg",
+story: `
+The neon lights pulsed rhythmically, casting a kaleidoscope of colors across the rain-soaked pavement of Nexus City. Kyra adjusted the collar of her intricate hooded jacket, its fabric shimmering with embedded circuitry. Glancing over her shoulder, she caught a glimpse of shadowy figures slipping through the multihued fog. This was the underbelly of the city—the domain of whispers and hidden truths.
+
+She moved with purpose, each footfall echoing against the steel walls coated in vibrant advertisements screaming for attention. Her sapphire-blue eyes, alive with curiosity and caution, scanned the surroundings. She had long mastered the art of stealth, but tonight felt different. The air crackled with tension as if the city itself held its breath.
+
+Kyra had just intercepted a faceless message—an anomaly in the digital flow that suggested a powerful corporation was developing a new tech that could manipulate consciousness itself. The ramifications were terrifying, and her instincts warned her that if she didn’t act fast, freedom as she knew it would dissolve into a mere illusion.
+
+As she turned down an alleyway adorned with neon graffiti, she spotted her contact, a wiry figure known only as "Ghost." His gaunt face was partially obscured beneath a hood, but when he spoke, his voice was steady, almost melodic. “You’re in over your head, Kyra. This isn’t just corporate greed; it’s something much darker.”
+
+“What do you mean?” She felt adrenaline surge through her veins as she stepped closer.
+
+“They’re playing god. With this tech, they’ll hold the power of choice in their hands. We need to expose them before it's too late.” Ghost paused, scanning the entrance of the alley for any signs of danger. "I found the location of their prototype. We can hack in and steal the data."
+
+Kyra hesitated, the weight of the decision pressing down on her. Yet, buried deep within her was a burning desire for justice. She nodded, determination alight in her eyes. “Let’s do it.”
+
+With Ghost leading the way, they weaved through the crowded marketplaces, their breaths synchronized as they calculated every move. Each turn brought them closer to the heart of the corporation’s labyrinthine headquarters, a building renowned for its impregnable security.
+
+Upon arrival, Kyra’s fingers flew over her wrist-mounted interface. Streams of code materialized, the pulse of her heartbeat echoing in her ears. “Give me cover,” she whispered, feeling the digital realm open up around her.
+
+As they infiltrated the system, screens flickered to life, revealing secrets buried in the code. “There it is!” Kyra exclaimed, staring at the data stream detailing the consciousness-manipulation project.
+
+But just then, alarms blared. “We’ve been spotted!” Ghost shouted, pulling Kyra back into the shadows. With instincts honed from years of survival in this cyberworld, she navigated to a hidden exit, her heart racing.
+
+Emerging into the night, Kyra felt the weight of her actions. They had barely escaped, but now, the truth was in hand. Nexus City crackled with neon energy around them. Beneath its vibrant exterior lay secrets that needed to be unveiled.
+
+Together, they emerged from the depths of the shadows. Tonight was just the beginning—a spark ignited within the city, the fight for freedom fueled by the very colors that illuminated their path. In the glow of the neon lights, their rebellion surged, promising a future where choice and autonomy would shine brighter than the city itself.
+`
+},
 {
 title: "Beneath the Sunset",
 genre: "Contemporary Romance",
@@ -49,6 +83,49 @@ Lina’s breath hitched at his sincere gaze. “What if I said yes?”
 Kai’s smile widened, hope flickering in his eyes. “Then I’d say it’s a start to something incredible.”
 
 As they stood amidst the glow of twilight, they both knew this was just the beginning. Beneath the vast expanse of the sky, in a city full of faces, they had found each other—a moment destined to unfold into many more.
+`,
+},
+{
+title: "The Friendship We Never Knew",
+genre: "Fantasy/Children's Adventure",
+synopsis: "In a dusty old attic, a curious boy stumbles upon a friendly ghost named Boo. Together, they explore the hidden wonders of the spirit world, discovering the true meaning of friendship and bravery.",
+url: "https://i.imgur.com/97IQ0ji.jpeg",
+story: `
+On a sunny Saturday afternoon, Timmy discovered the hidden door to the attic while searching for his favorite toy. He had always been eager for adventures, but he never expected this one to involve a glowing, friendly ghost named Boo.
+
+Boo floated in the corner, his round body shimmering with a gentle light that illuminated the dimly lit room. "Hi there!" he squeaked, his wide eyes sparkling with excitement. Timmy blinked in surprise but quickly grinned back, intrigued rather than frightened.
+
+“What are you doing here?” Timmy asked, stepping closer, his little hands reaching out toward the friendly spirit.
+
+“I’ve been waiting for someone to play with!” Boo replied, swirling around with joy. “It can get lonely up here, you know. Would you like to see something magical?”
+
+Timmy nodded eagerly. As the ghost led him deeper into the attic, he saw forgotten treasures: old toys, colorful books, and even a dusty piano. With a flick of Boo’s translucent hand, the piano began to play a merry tune all on its own.
+
+Together, they danced and laughed, hopping around piles of boxes like they were castles, weaving in and out of the shadows. Time slipped away unnoticed, with the attic becoming their enchanted kingdom.
+
+Suddenly, Boo paused, his expression shifting to something more serious. “There’s something I need your help with,” he said, his voice lowering. 
+
+“What is it?” Timmy asked, his heart racing with curiosity.
+
+“I need to find my lost moonstone. It was hidden in the attic long ago, and without it, I can't return to the spirit world.” Boo’s eyes drooped with sadness.
+
+Timmy felt a pang in his chest. He had never met a ghost before, and now he understood the importance of Boo’s quest. “Let’s find it together!” he proclaimed, determination filling his small frame.
+
+They searched every nook and cranny of the attic, climbing on stacked boxes and peeking behind old furniture. They laughed, shared stories, and grew closer with each moment. Finally, after what felt like hours, Timmy spotted a glimmer beneath the floorboards.
+
+“Is that it?” he shouted, pointing excitedly.
+
+Boo floated over, his eyes widening. “Yes! That’s it!” With Timmy’s help, they pried open a loose board, revealing the sparkling moonstone at last. 
+
+With the moonstone reunited, Boo twinkled with joy. “Thank you, Timmy! You helped me find my way home.” He hugged the boy gently, his form becoming even brighter.
+
+Timmy felt a twinge in his heart. “Will I ever see you again?”
+
+Boo smiled, his eyes twinkling. “Our friendship will always be here, even when you can’t see me. Whenever you need adventure, just look to the attic!” 
+
+With that, Boo began to fade, his laughter echoing in the attic before he vanished completely, leaving behind a warmth that filled Timmy’s soul.
+
+From that day on, the attic held a special magic for Timmy. He knew that whether in the spirit world or the one he lived in, friendship could spark in the most unexpected places, reminding him that together, they could create lasting memories even beyond the wall between their worlds.
 `,
 },
 
@@ -119,50 +196,6 @@ The cosmos beckoned, vast and wild, and Elara Tan knew that the journey had only
 },
 
 {
-title: "The Friendship We Never Knew",
-genre: "Fantasy/Children's Adventure",
-synopsis: "In a dusty old attic, a curious boy stumbles upon a friendly ghost named Boo. Together, they explore the hidden wonders of the spirit world, discovering the true meaning of friendship and bravery.",
-url: "https://i.imgur.com/97IQ0ji.jpeg",
-story: `
-On a sunny Saturday afternoon, Timmy discovered the hidden door to the attic while searching for his favorite toy. He had always been eager for adventures, but he never expected this one to involve a glowing, friendly ghost named Boo.
-
-Boo floated in the corner, his round body shimmering with a gentle light that illuminated the dimly lit room. "Hi there!" he squeaked, his wide eyes sparkling with excitement. Timmy blinked in surprise but quickly grinned back, intrigued rather than frightened.
-
-“What are you doing here?” Timmy asked, stepping closer, his little hands reaching out toward the friendly spirit.
-
-“I’ve been waiting for someone to play with!” Boo replied, swirling around with joy. “It can get lonely up here, you know. Would you like to see something magical?”
-
-Timmy nodded eagerly. As the ghost led him deeper into the attic, he saw forgotten treasures: old toys, colorful books, and even a dusty piano. With a flick of Boo’s translucent hand, the piano began to play a merry tune all on its own.
-
-Together, they danced and laughed, hopping around piles of boxes like they were castles, weaving in and out of the shadows. Time slipped away unnoticed, with the attic becoming their enchanted kingdom.
-
-Suddenly, Boo paused, his expression shifting to something more serious. “There’s something I need your help with,” he said, his voice lowering. 
-
-“What is it?” Timmy asked, his heart racing with curiosity.
-
-“I need to find my lost moonstone. It was hidden in the attic long ago, and without it, I can't return to the spirit world.” Boo’s eyes drooped with sadness.
-
-Timmy felt a pang in his chest. He had never met a ghost before, and now he understood the importance of Boo’s quest. “Let’s find it together!” he proclaimed, determination filling his small frame.
-
-They searched every nook and cranny of the attic, climbing on stacked boxes and peeking behind old furniture. They laughed, shared stories, and grew closer with each moment. Finally, after what felt like hours, Timmy spotted a glimmer beneath the floorboards.
-
-“Is that it?” he shouted, pointing excitedly.
-
-Boo floated over, his eyes widening. “Yes! That’s it!” With Timmy’s help, they pried open a loose board, revealing the sparkling moonstone at last. 
-
-With the moonstone reunited, Boo twinkled with joy. “Thank you, Timmy! You helped me find my way home.” He hugged the boy gently, his form becoming even brighter.
-
-Timmy felt a twinge in his heart. “Will I ever see you again?”
-
-Boo smiled, his eyes twinkling. “Our friendship will always be here, even when you can’t see me. Whenever you need adventure, just look to the attic!” 
-
-With that, Boo began to fade, his laughter echoing in the attic before he vanished completely, leaving behind a warmth that filled Timmy’s soul.
-
-From that day on, the attic held a special magic for Timmy. He knew that whether in the spirit world or the one he lived in, friendship could spark in the most unexpected places, reminding him that together, they could create lasting memories even beyond the wall between their worlds.
-`,
-},
-
-{
 title: "Popcorn Dreams",
 genre: "Heartwarming Fantasy",
 synopsis: "In a small, snow-covered town, an endearing elderly couple finds themselves magically transported to their favorite movie world every time they share a bowl of popcorn. As they navigate whimsical adventures, they rediscover their love for each other and the joy of embracing life's cinematic moments.",
@@ -185,42 +218,6 @@ After what felt like hours of adventure, they returned to their beloved living r
 With her cheeks rosy and her heart full, Clara nodded. “Let’s make every week an adventure, Albert. No matter where we go or what we see, as long as we’re together, it will be magical.”
 
 As they snuggled back into their chairs, ready for another bowl of popcorn—and another adventure—the world outside swirled with winter's whimsy. They knew that as long as they had each other and their magical popcorn, life would always be a story worth telling.
-`,
-},
-
-{
-title: "The Dragon's Embrace",
-genre: "Dark Fantasy",
-synopsis: "In a world where dragons are feared and revered, a fearless sorceress named Kaela forms an unbreakable bond with a dragon named Tharok. As darkness looms, threatening to shatter their realm, Kaela must harness their combined strength to confront an ancient evil that threatens to consume everything they hold dear.",
-url: "https://i.imgur.com/9Bvt3tq.jpeg",
-story: `
-As the first rays of dawn broke through the mist-laden trees, the forest seemed to come alive with whispers of ancient magic. Kaela stood poised, her dark hair cascading like a midnight waterfall around her shoulders. Her emerald eyes gleamed with determination, reflecting the fiery core of her companion nestled protectively behind her. Tharok, the bronze-scaled dragon, exuded a majestic yet fearsome aura, his golden eyes glowing with a quiet intensity.
-
-Together, they had traversed treacherous lands and battled relentless foes, their spirits intertwined in a dance of fate. The villagers spoke of them in hushed tones—two souls tethered by trust, an unlikely alliance that transcended fear.
-
-"Kaela," Tharok's voice rumbled softly, resonating in her mind, "the shadows draw near. We must venture to the Abyssal Crags before the sun sinks, or we risk losing the Heartstone forever."
-
-Kaela nodded, her fingers brushing against the intricate necklace she wore—a charmed talisman forged from the essence of their lives together. It pulsed gently, a reminder of the bond that shielded them from the encroaching darkness.
-
-As they made their way through the dense underbrush, illusions of a past life filled Kaela's thoughts. Once an outcast in her own village, she was shunned for her lineage—a family rumored to have summoned dragons in ages past. And yet, Tharok had shown her a purpose beyond mere survival.
-
-A howl pierced the air, reverberating through the forest, sending a shiver down her spine. Creatures of the night stirred, calling upon the dark forces that sought to tear apart the fabric of their world. Sensing danger, Tharok’s scales rattled as he unfurled his massive wings, casting a shadow that shielded Kaela from the chill.
-
-Suddenly, a figure emerged from the woods. It was a dark sorcerer, cloaked in shadows, eyes burning with malevolent glee. "You think you can stop the awakening, Wielder of the Dragon’s Heart? This realm will be mine!" He thrust his hand forward, summoning tendrils of darkness that swirled like smoke, seeking to trap Kaela.
-
-With a fierce roar, Tharok sprang forward, flames igniting the forest in a blaze of gold and crimson. The glow illuminated Kaela’s face, a fierce determination washing over her as she channeled her energy into an incantation whispered in the sacred tongue of the ancients.
-
-"By the bond we share, I summon the force of our hearts! Dragon and sorceress, unite!"
-
-A brilliant light erupted from their combined magic, banishing the darkness and carving a path toward the sorcerer. The tendrils recoiled, and in that moment of vulnerability, Kaela felt the true strength of their connection.
-
-Rallying her courage, she unleashed her magic, intertwining it with Tharok’s fire. The sorcerer stumbled back, fear flashing across his twisted face as their combined might surged forward. In a blinding explosion, the shadows retreated, and the sorcerer disintegrated into a cloud of ash, banished back to the void from which he came.
-
-Breathless, Kaela leaned against Tharok, their breaths mingling as they savored the victory. "We did it," she murmured, her voice trembling with emotion.
-
-Tharok nuzzled her gently, the warmth of his scales grounding her. "Together, we can face anything. The darkness will always attempt to rise, but as long as we stand united, it shall be defeated."
-
-As the sun dipped below the horizon, painting the sky in hues of gold and violet, Kaela realized the true meaning of their bond. In a world filled with shadows, they had forged a light—one that would guide them through even the darkest of times. And so they stood, a phoenix rising from the ashes of fear, ready to embrace whatever lay ahead.
 `,
 },
 
@@ -672,40 +669,6 @@ In a flash, the darkness was repelled, Kael's furious roar echoing through the v
 As they began to leave the Dark Spire, Kazuki looked around at his companions. Each had played a role in this victory, and together, they had forged a bond stronger than any magic. They were no longer just guardians; they were friends, warriors, and family—ready for whatever adventure awaited them next in the celestial realms.
 
 And as the first light of dawn broke across the horizon, they set forth into the unknown, their hearts filled with hope and courage.
-`
-},
-
-{
-title: "Neon Shadows",
-genre: "Cyberpunk Thriller",
-synopsis: "In a vibrant, neon-lit metropolis teeming with secrets, a skilled hacker named Kyra uncovers a conspiracy that threatens the balance of power. As she delves deeper into the darker alleyways of her city, she must navigate a web of cybernetic espionage, with her own fate hanging in the balance.",
-url: "https://i.imgur.com/rpGXXvi.jpg",
-story: `
-The neon lights pulsed rhythmically, casting a kaleidoscope of colors across the rain-soaked pavement of Nexus City. Kyra adjusted the collar of her intricate hooded jacket, its fabric shimmering with embedded circuitry. Glancing over her shoulder, she caught a glimpse of shadowy figures slipping through the multihued fog. This was the underbelly of the city—the domain of whispers and hidden truths.
-
-She moved with purpose, each footfall echoing against the steel walls coated in vibrant advertisements screaming for attention. Her sapphire-blue eyes, alive with curiosity and caution, scanned the surroundings. She had long mastered the art of stealth, but tonight felt different. The air crackled with tension as if the city itself held its breath.
-
-Kyra had just intercepted a faceless message—an anomaly in the digital flow that suggested a powerful corporation was developing a new tech that could manipulate consciousness itself. The ramifications were terrifying, and her instincts warned her that if she didn’t act fast, freedom as she knew it would dissolve into a mere illusion.
-
-As she turned down an alleyway adorned with neon graffiti, she spotted her contact, a wiry figure known only as "Ghost." His gaunt face was partially obscured beneath a hood, but when he spoke, his voice was steady, almost melodic. “You’re in over your head, Kyra. This isn’t just corporate greed; it’s something much darker.”
-
-“What do you mean?” She felt adrenaline surge through her veins as she stepped closer.
-
-“They’re playing god. With this tech, they’ll hold the power of choice in their hands. We need to expose them before it's too late.” Ghost paused, scanning the entrance of the alley for any signs of danger. "I found the location of their prototype. We can hack in and steal the data."
-
-Kyra hesitated, the weight of the decision pressing down on her. Yet, buried deep within her was a burning desire for justice. She nodded, determination alight in her eyes. “Let’s do it.”
-
-With Ghost leading the way, they weaved through the crowded marketplaces, their breaths synchronized as they calculated every move. Each turn brought them closer to the heart of the corporation’s labyrinthine headquarters, a building renowned for its impregnable security.
-
-Upon arrival, Kyra’s fingers flew over her wrist-mounted interface. Streams of code materialized, the pulse of her heartbeat echoing in her ears. “Give me cover,” she whispered, feeling the digital realm open up around her.
-
-As they infiltrated the system, screens flickered to life, revealing secrets buried in the code. “There it is!” Kyra exclaimed, staring at the data stream detailing the consciousness-manipulation project.
-
-But just then, alarms blared. “We’ve been spotted!” Ghost shouted, pulling Kyra back into the shadows. With instincts honed from years of survival in this cyberworld, she navigated to a hidden exit, her heart racing.
-
-Emerging into the night, Kyra felt the weight of her actions. They had barely escaped, but now, the truth was in hand. Nexus City crackled with neon energy around them. Beneath its vibrant exterior lay secrets that needed to be unveiled.
-
-Together, they emerged from the depths of the shadows. Tonight was just the beginning—a spark ignited within the city, the fight for freedom fueled by the very colors that illuminated their path. In the glow of the neon lights, their rebellion surged, promising a future where choice and autonomy would shine brighter than the city itself.
 `
 },
 
@@ -2180,6 +2143,41 @@ As silence enveloped them, Aelion watched as the giant’s expression softened. 
 In that moment, a pact was formed, two souls intertwining across the realms of man and giant, united in purpose: to heal the broken world together. As Aelion began to gather the villagers, the giant lowered itself, ready to share its ancient wisdom and share the burdens of the past.
 
 With each step forward, they ventured into the light, carving a new path for their future—a legacy not of destruction, but of unity.
+`,
+},
+{
+title: "The Dragon's Embrace",
+genre: "Dark Fantasy",
+synopsis: "In a world where dragons are feared and revered, a fearless sorceress named Kaela forms an unbreakable bond with a dragon named Tharok. As darkness looms, threatening to shatter their realm, Kaela must harness their combined strength to confront an ancient evil that threatens to consume everything they hold dear.",
+url: "https://i.imgur.com/9Bvt3tq.jpeg",
+story: `
+As the first rays of dawn broke through the mist-laden trees, the forest seemed to come alive with whispers of ancient magic. Kaela stood poised, her dark hair cascading like a midnight waterfall around her shoulders. Her emerald eyes gleamed with determination, reflecting the fiery core of her companion nestled protectively behind her. Tharok, the bronze-scaled dragon, exuded a majestic yet fearsome aura, his golden eyes glowing with a quiet intensity.
+
+Together, they had traversed treacherous lands and battled relentless foes, their spirits intertwined in a dance of fate. The villagers spoke of them in hushed tones—two souls tethered by trust, an unlikely alliance that transcended fear.
+
+"Kaela," Tharok's voice rumbled softly, resonating in her mind, "the shadows draw near. We must venture to the Abyssal Crags before the sun sinks, or we risk losing the Heartstone forever."
+
+Kaela nodded, her fingers brushing against the intricate necklace she wore—a charmed talisman forged from the essence of their lives together. It pulsed gently, a reminder of the bond that shielded them from the encroaching darkness.
+
+As they made their way through the dense underbrush, illusions of a past life filled Kaela's thoughts. Once an outcast in her own village, she was shunned for her lineage—a family rumored to have summoned dragons in ages past. And yet, Tharok had shown her a purpose beyond mere survival.
+
+A howl pierced the air, reverberating through the forest, sending a shiver down her spine. Creatures of the night stirred, calling upon the dark forces that sought to tear apart the fabric of their world. Sensing danger, Tharok’s scales rattled as he unfurled his massive wings, casting a shadow that shielded Kaela from the chill.
+
+Suddenly, a figure emerged from the woods. It was a dark sorcerer, cloaked in shadows, eyes burning with malevolent glee. "You think you can stop the awakening, Wielder of the Dragon’s Heart? This realm will be mine!" He thrust his hand forward, summoning tendrils of darkness that swirled like smoke, seeking to trap Kaela.
+
+With a fierce roar, Tharok sprang forward, flames igniting the forest in a blaze of gold and crimson. The glow illuminated Kaela’s face, a fierce determination washing over her as she channeled her energy into an incantation whispered in the sacred tongue of the ancients.
+
+"By the bond we share, I summon the force of our hearts! Dragon and sorceress, unite!"
+
+A brilliant light erupted from their combined magic, banishing the darkness and carving a path toward the sorcerer. The tendrils recoiled, and in that moment of vulnerability, Kaela felt the true strength of their connection.
+
+Rallying her courage, she unleashed her magic, intertwining it with Tharok’s fire. The sorcerer stumbled back, fear flashing across his twisted face as their combined might surged forward. In a blinding explosion, the shadows retreated, and the sorcerer disintegrated into a cloud of ash, banished back to the void from which he came.
+
+Breathless, Kaela leaned against Tharok, their breaths mingling as they savored the victory. "We did it," she murmured, her voice trembling with emotion.
+
+Tharok nuzzled her gently, the warmth of his scales grounding her. "Together, we can face anything. The darkness will always attempt to rise, but as long as we stand united, it shall be defeated."
+
+As the sun dipped below the horizon, painting the sky in hues of gold and violet, Kaela realized the true meaning of their bond. In a world filled with shadows, they had forged a light—one that would guide them through even the darkest of times. And so they stood, a phoenix rising from the ashes of fear, ready to embrace whatever lay ahead.
 `,
 },
 //   {
