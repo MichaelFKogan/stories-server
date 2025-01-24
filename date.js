@@ -5,7 +5,7 @@ const app = express();
 const port = process.env.PORT || 3000;
 
 // const top = require('./stories/top');
-const storiesOne = require('./stories/jan24');
+const jan24 = require('./stories/jan24');
 const storiesOne = require('./stories/storiesOne');
 const storiesThree = require('./stories/storiesThree');
 const storiesTwo = require('./stories/storiesTwo');
