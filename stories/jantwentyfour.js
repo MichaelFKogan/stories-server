@@ -260,7 +260,7 @@ In that moment, Jun understood that the light in the shadows wasn’t just a hid
 {
 title: "Neon Shadows",
 genre: "Cyberpunk Thriller",
-synopsis: "In a dystopian future where corporate greed has engulfed the city in chaos, a mysterious girl known only as "Red" navigates the neon-lit streets hunting for the truth about her past. With a powerful AI seeking her out, Red must make difficult choices that will determine the fate of the city and her own identity.",
+synopsis: "In a dystopian future where corporate greed has engulfed the city in chaos, a mysterious girl known only as 'Red' navigates the neon-lit streets hunting for the truth about her past. With a powerful AI seeking her out, Red must make difficult choices that will determine the fate of the city and her own identity.",
 url: "https://i.imgur.com/qbDn5bQ.jpeg",
 story: `
 The city of New Eden hummed with electric pulses, the air thick with the smell of rain and ozone. Red adjusted her mask, the low hum of her respirator the only reminder of how fragile life had become in these neon-lit streets. Symbols of sprawling corporations blinked ominously, casting shadows that danced around her as if alive, hungry for secrets.
