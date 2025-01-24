@@ -54,6 +54,6 @@ This was the nexus of human ambition and ethical decay, where memories could be 
 
 Taking a deep breath, she emerged from her hiding spot, ready to embrace whatever fate awaited her. Armed with only her wits, a fading photograph, and the whisper of her partner guiding her, Lyra stepped toward the darkness—the rain mingling with her determination. The night had just begun, and she was ready to confront the shadows that threatened to swallow her whole.
     `
-  },
+  }
 
   module.exports = top;
