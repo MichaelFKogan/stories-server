@@ -1,13 +1,13 @@
 const jantwentyfour = [
 
 
-                        {
-                          title: "Pink Death",
-                          genre: "Cyberpunk Dystopia",
-                          synopsis: "In a neon-lit metropolis where armor is both a fashion statement and a necessity for survival, a female enforcer known as "Pink Death" navigates the treacherous underbelly of her city to uncover the truth behind her brother's disappearance. As she delves deeper, she finds not only the risks of betrayal but also the voice of a long-silenced rebellion.",
-                          url: "https://i.imgur.com/Isz6RYU.jpeg",
-                          story: `
-                    The streets of Neon City thrummed with an electric pulse, neon signs flickering with ominous allure in the late-night fog. Twilight illuminated the towering skyscrapers adorned with holographic projections that danced and pulsated rhythmically, drawing in the city's wayward souls. Among them, a lone figure stood out—clad in gleaming pink armor, she was known as Pink Death.
+{
+title: "Pink Death",
+genre: "Cyberpunk Dystopia",
+synopsis: "In a neon-lit metropolis where armor is both a fashion statement and a necessity for survival, a female enforcer known as 'Pink Death' navigates the treacherous underbelly of her city to uncover the truth behind her brother's disappearance. As she delves deeper, she finds not only the risks of betrayal but also the voice of a long-silenced rebellion.",
+url: "https://i.imgur.com/Isz6RYU.jpeg",
+story: `
+The streets of Neon City thrummed with an electric pulse, neon signs flickering with ominous allure in the late-night fog. Twilight illuminated the towering skyscrapers adorned with holographic projections that danced and pulsated rhythmically, drawing in the city's wayward souls. Among them, a lone figure stood out—clad in gleaming pink armor, she was known as Pink Death.
 
 Her helmet reflected the chaotic beauty around her, the visor giving her an almost otherworldly gaze. The pink armor, a symbol of rebellion and defiance in a world draped in shadows, marked her as both guardian and outlaw. She tightened her grip on her weapon—a sleek gun that matched her striking exterior. With her brother missing, she had become more than just an enforcer; she had become a seeker of truth.
 
@@ -42,16 +42,16 @@ The armored enforcers faltered in the face of her fervor, the tides turning as h
 Together, they would reclaim their city, returning the power of choice to its people, forged in the brilliance of pink and defiance.
 
 After all, rebirth often rose from the ashes of destruction, and in a city filled with shadows, Pink Death would rise as a phoenix of hope.
-                          `,
-                        },
+`,
+},
 
-                        {
-                          title: "Echoes of Thunder",
-                          genre: "Fantasy/Adventure",
-                          synopsis: "In a world where ancient dragons guard the secrets of time, a lone sorcerer stands against a colossal beast awakened by an ancient prophecy. As lightning crackles in the sky and fate hangs in the balance, both hero and dragon must confront their destinies to determine the future of their realm.",
-                          url: "https://i.imgur.com/P5eEoy4.jpeg",
-                          story: `
-                    Echoes of Thunder
+{
+title: "Echoes of Thunder",
+genre: "Fantasy/Adventure",
+synopsis: "In a world where ancient dragons guard the secrets of time, a lone sorcerer stands against a colossal beast awakened by an ancient prophecy. As lightning crackles in the sky and fate hangs in the balance, both hero and dragon must confront their destinies to determine the future of their realm.",
+url: "https://i.imgur.com/P5eEoy4.jpeg",
+story: `
+Echoes of Thunder
 
 The air was thick with anticipation as Kaelan stood upon the jagged cliffs of Aeloria, the hills painted in hues of obsidian and azure. Clouds swirled and writhed above him, forming the tempest that heralded his arrival. He could feel the power of the storm coursing through his veins, lightning crackling in a dance of energy that mirrored the pulsations of the dragon looming in the sky.
 
@@ -78,16 +78,16 @@ The dragon hesitated, its massive head tilting as if contemplating centuries of 
 As the storm calmed and the thunder faded, an unbreakable bond was formed—a sorcerer and a dragon, intertwined through fate. The skies cleared, revealing a radiant horizon as they took to the winds, united against the encroaching shadows that threatened their world.
 
 In a land where once only echoes of thunder remained, a new legend would unfold, one of cooperation, understanding, and the hope of everlasting change.
-                          `,
-                        },
+`,
+},
 
-                        {
-                          title: "Harmonics of the Eternal",
-                          genre: "Science Fiction / Fantasy",
-                          synopsis: "In a realm where technology blends with the arcane, Azura, a radiant guardian, awakens to face a forgotten darkness threatening to engulf her world. As she harnesses the power of the celestial orbs, she must unite fractured tribes and uncover the truth of her own creation before time runs out.",
-                          url: "https://i.imgur.com/7ehWihU.jpeg",
-                          story: `
-                    The air crackled with energy, shimmering with golden sparks that danced like playful fireflies. Azura stood at the threshold of the ancient temple, her luminous form vividly contrasted against the swirling darkness beyond. The great circle of light behind her pulsed rhythmically, echoing her heartbeat as she reached out to the ether, feeling the threads of magic weaving around her.
+{
+title: "Harmonics of the Eternal",
+genre: "Science Fiction / Fantasy",
+synopsis: "In a realm where technology blends with the arcane, Azura, a radiant guardian, awakens to face a forgotten darkness threatening to engulf her world. As she harnesses the power of the celestial orbs, she must unite fractured tribes and uncover the truth of her own creation before time runs out.",
+url: "https://i.imgur.com/7ehWihU.jpeg",
+story: `
+The air crackled with energy, shimmering with golden sparks that danced like playful fireflies. Azura stood at the threshold of the ancient temple, her luminous form vividly contrasted against the swirling darkness beyond. The great circle of light behind her pulsed rhythmically, echoing her heartbeat as she reached out to the ether, feeling the threads of magic weaving around her.
 
 “Azura,” a voice called, breaking the stillness. From the shadows emerged Malen, a stoic elder of the Ember Tribe, his brows furrowed with concern. “You cannot face the darkness alone. The others are frightened, divided. We need you to unite them.”
 
@@ -114,16 +114,16 @@ The circle intensified until the vibrations reached a crescendo, echoing through
 With a blinding flash, the Heart of Uthara awakened, flooding the land with iridescent light, dissolving the encroaching darkness. The tribes, now bonded not just by shards but by trust and unity, reveled in the warmth of their newfound alliance.
 
 As the echoes of victory reverberated through the realms, Azura stood at the center, her spirit alight with purpose. This was only the beginning. Together, they would ensure that no darkness would ever divide them again. The heart of their world beat strong, ignited by the melody of their unity, ready to face whatever else the cosmos had in store.
-                          `,
-                        },
+`,
+},
 
-                        {
-                          title: "Whispers in the Abyss",
-                          genre: "Dark Fantasy",
-                          synopsis: "In the shadowy depths of Eldras Hollow, a powerful sorcerer, feared for his twisted magic and ominous appearance, seeks to unlock the secrets of the ancient dimensional rift that threatens to consume his world. As the tendrils of dark energy swirl around him, whispers of forgotten gods push him closer to the edge of madness.",
-                          url: "https://i.imgur.com/DNkimcp.jpeg",
-                          story: `
-                    Underneath the craggy cliffs of Eldras Hollow, where even the bravest souls dared not tread, the air thickened with tension. Felorian, draped in dark robes that shimmered like fractured obsidian, stood at the precipice of a swirling rift. Shadows crawled across the stone, pulsating with the vibrant hues of violet and dark abyss, reaching out like the limbs of some long-forgotten beast.
+{
+title: "Whispers in the Abyss",
+genre: "Dark Fantasy",
+synopsis: "In the shadowy depths of Eldras Hollow, a powerful sorcerer, feared for his twisted magic and ominous appearance, seeks to unlock the secrets of the ancient dimensional rift that threatens to consume his world. As the tendrils of dark energy swirl around him, whispers of forgotten gods push him closer to the edge of madness.",
+url: "https://i.imgur.com/DNkimcp.jpeg",
+story: `
+Underneath the craggy cliffs of Eldras Hollow, where even the bravest souls dared not tread, the air thickened with tension. Felorian, draped in dark robes that shimmered like fractured obsidian, stood at the precipice of a swirling rift. Shadows crawled across the stone, pulsating with the vibrant hues of violet and dark abyss, reaching out like the limbs of some long-forgotten beast.
 
 Once a prodigious sorcerer revered among sages, Felorian had become the very embodiment of their fears. His head, crowned with smooth, purple skin and adorned with a tentacle-like visage, was a symbol of his descent into madness—a toll for tampering with forces beyond mortal comprehension.
 
@@ -156,16 +156,16 @@ With that, he let go, shoving Kael away as the rift consumed him. Felorian’s s
 Kael was left alone amidst the shadows, heart heavy with loss, yet resolute. He knew the darkness would return, but now held a flicker of hope—the belief that even those lost to the abyss could find redemption in the light.
 
 And so, he turned away from the rift, stepping back into the world above, carrying Felorian’s legacy and the eternal promise that darkness would never fully claim him.
-                          `,
-                        },
+`,
+},
 
-                        {
-                          title: "Echoes of Ashes",
-                          genre: "Post-Apocalyptic Fiction",
-                          synopsis: "In a world ravaged by an unknown disaster, a young boy named Kai navigates the remnants of a once-thriving city. As he unravels the truth behind the destruction, he discovers hope and resilience in the most unexpected places.",
-                          url: "https://i.imgur.com/aYMjIWF.jpeg",
-                          story: `
-                    The sky was thick with ash, swirling like ghosts in the wind. Kai stood at the edge of the rubble-strewn street, staring at the inferno that had become his home. Buildings sprawled in charred silence on either side, remnants of a life that felt like a distant dream. The roar of flames echoed in his ears as he took a deep breath, the acrid smoke filling his lungs.
+{
+title: "Echoes of Ashes",
+genre: "Post-Apocalyptic Fiction",
+synopsis: "In a world ravaged by an unknown disaster, a young boy named Kai navigates the remnants of a once-thriving city. As he unravels the truth behind the destruction, he discovers hope and resilience in the most unexpected places.",
+url: "https://i.imgur.com/aYMjIWF.jpeg",
+story: `
+The sky was thick with ash, swirling like ghosts in the wind. Kai stood at the edge of the rubble-strewn street, staring at the inferno that had become his home. Buildings sprawled in charred silence on either side, remnants of a life that felt like a distant dream. The roar of flames echoed in his ears as he took a deep breath, the acrid smoke filling his lungs.
 
 He tightened his grip on the straps of his backpack, the only connection to his past. Inside, he carried treasures of a life before the chaos: a battered book of stories, a small photograph of his family, and a collection of shiny rocks he'd deemed special. They were the last whispers of innocence in a world turned hostile.
 
@@ -192,16 +192,16 @@ One night, as they gathered around the flickering flames, Kai held up his batter
 Kai realized then that they were not just survivors. They were the architects of a new beginning, determined to rise from the ashes. And as long as they held onto their stories, their memories would never truly be extinguished.
 
 In the midst of devastation, Kai found belonging—a place where even embers could glow.
-                          `,
-                        },
+`,
+},
 
-                        {
-                          title: "The Last Enchantment",
-                          genre: "Cyberpunk Fantasy",
-                          synopsis: "In a dystopian city where technology has nearly obliterated magic, a brave girl in a maid outfit stands before a towering mech, the last guardian of ancient powers. As tensions rise between humans and machines, she must awaken the forgotten magic within herself to forge a new path for both worlds.",
-                          url: "https://i.imgur.com/sNbN9DI.jpeg",
-                          story: `
-                    The neon lights flickered, casting long shadows on the streets of Neo-Tokyo. Skyscrapers loomed overhead like forgotten giants, and billboards buzzed with advertisements for the latest in cyborg enhancements. Amidst the chaos and noise, a peculiar scene unfolded.
+{
+title: "The Last Enchantment",
+genre: "Cyberpunk Fantasy",
+synopsis: "In a dystopian city where technology has nearly obliterated magic, a brave girl in a maid outfit stands before a towering mech, the last guardian of ancient powers. As tensions rise between humans and machines, she must awaken the forgotten magic within herself to forge a new path for both worlds.",
+url: "https://i.imgur.com/sNbN9DI.jpeg",
+story: `
+The neon lights flickered, casting long shadows on the streets of Neo-Tokyo. Skyscrapers loomed overhead like forgotten giants, and billboards buzzed with advertisements for the latest in cyborg enhancements. Amidst the chaos and noise, a peculiar scene unfolded.
 
 At the heart of the city, a young girl named Aiko stood at the center of a narrow street, clothed in a frilly maid outfit that contrasted sharply with the cold metal of the world around her. Her dark hair fell gently around her shoulders, and a small white bow perched atop her head, innocent yet resolute. She faced a colossus: a massive mechanized guardian, its frame shimmering with the remnants of ancient spells long thought lost to time.
 
@@ -224,16 +224,16 @@ A rumble echoed through the city as the enchanted guardian, once a sentinel of o
 As her words spread through the crowd, hearts began to stir, and the icy grip of fear slowly thawed into tentative hope. Aiko, with the gleaming mech beside her, had become more than a mere girl; she had transformed into a symbol of a new alliance. In that electric moment, she knew she could forge a bond that would echo through the ages, bridging the divide between magic and the machine. 
 
 And in Neo-Tokyo, the dance of fate had only just begun.
-                          `,
-                        },
+`,
+},
 
-                        {
-                          title: "Skybound Dreams",
-                          genre: "Science Fiction",
-                          synopsis: "In a dystopian future where cities float among the clouds, a curious boy discovers a hidden message that leads him on a quest to unlock the mysteries of his airborne home. Alongside a group of unlikely allies, he must confront the oppressive forces aiming to keep their world regulated and stagnant.",
-                          url: "https://i.imgur.com/LNFlWCX.jpeg",
-                          story: `
-                    Underneath the shimmering light of the neon city, the world pulsated with life. Jun stood at the edge of his rooftop, his backpack snug against his shoulders, eyes wide with wonder. The hovercraft glided silently overhead, their metallic bodies slicing through the clouds, as if the sky were their ocean. Jun’s heart raced—today was a day unlike any other. 
+{
+title: "Skybound Dreams",
+genre: "Science Fiction",
+synopsis: "In a dystopian future where cities float among the clouds, a curious boy discovers a hidden message that leads him on a quest to unlock the mysteries of his airborne home. Alongside a group of unlikely allies, he must confront the oppressive forces aiming to keep their world regulated and stagnant.",
+url: "https://i.imgur.com/LNFlWCX.jpeg",
+story: `
+Underneath the shimmering light of the neon city, the world pulsated with life. Jun stood at the edge of his rooftop, his backpack snug against his shoulders, eyes wide with wonder. The hovercraft glided silently overhead, their metallic bodies slicing through the clouds, as if the sky were their ocean. Jun’s heart raced—today was a day unlike any other. 
 
 He clutched the worn notebook in his hand, pages yellowed and frayed. It had belonged to his father, a dreamer who believed the skies were meant for exploration, not confinement. Within its pages were sketches of far-off places and poetic musings about freedom. But it was the strangest note—hidden between two drawings—that sparked Jun’s curiosity: "Find the light in the shadows."
 
@@ -254,16 +254,16 @@ On the day of the uprising, Jun stood with his newfound friends atop a floating 
 And as the devices lit up, firing pulses of light across the horizon, the oppressive rule began to crack under the brilliance of their rebellion. Citizens looked up in awe, the skies now shimmering with the hope of change.
 
 In that moment, Jun understood that the light in the shadows wasn’t just a hidden message; it was the fire of dreams ignited in the hearts of many, ready to take flight and reclaim their skybound destiny.
-                          `,
-                        },
+`,
+},
 
-                        {
-                          title: "Neon Shadows",
-                          genre: "Cyberpunk Thriller",
-                          synopsis: "In a dystopian future where corporate greed has engulfed the city in chaos, a mysterious girl known only as "Red" navigates the neon-lit streets hunting for the truth about her past. With a powerful AI seeking her out, Red must make difficult choices that will determine the fate of the city and her own identity.",
-                          url: "https://i.imgur.com/qbDn5bQ.jpeg",
-                          story: `
-                    The city of New Eden hummed with electric pulses, the air thick with the smell of rain and ozone. Red adjusted her mask, the low hum of her respirator the only reminder of how fragile life had become in these neon-lit streets. Symbols of sprawling corporations blinked ominously, casting shadows that danced around her as if alive, hungry for secrets.
+{
+title: "Neon Shadows",
+genre: "Cyberpunk Thriller",
+synopsis: "In a dystopian future where corporate greed has engulfed the city in chaos, a mysterious girl known only as "Red" navigates the neon-lit streets hunting for the truth about her past. With a powerful AI seeking her out, Red must make difficult choices that will determine the fate of the city and her own identity.",
+url: "https://i.imgur.com/qbDn5bQ.jpeg",
+story: `
+The city of New Eden hummed with electric pulses, the air thick with the smell of rain and ozone. Red adjusted her mask, the low hum of her respirator the only reminder of how fragile life had become in these neon-lit streets. Symbols of sprawling corporations blinked ominously, casting shadows that danced around her as if alive, hungry for secrets.
 
 Each twist of the alley led her closer to the heart of the city's corruption. Whispers of the mainframe—a vast network rumored to hold the keys to its dark underbelly—echoed in her ears. The rain washed away the insidious grime, but it couldn't cleanse her memory stained by loss.
 
@@ -294,16 +294,16 @@ With a surge of energy, she summoned every ounce of will and crushed the command
 As chaos reigned, Red sprinted towards the exit, a band of rebels at her side. They burst into the rain-soaked streets, the neon lights flickering wildly above, and for one fleeting moment, she felt as if she could breathe again. 
 
 But she knew very well the battle had just begun. With the city crumbling and a new day dawning, Red was determined to reclaim her identity—and the fate of New Eden—as the shadows of her past whispered ever closer.
-                          `,
-                        },
+`,
+},
 
-                        {
-                          title: "Neon Shadows",
-                          genre: "Cyberpunk/Science Fiction",
-                          synopsis: "In a neon-lit dystopia where mega-corporations reign, a young hacker with a mysterious past becomes the unlikely leader of a resistance against an oppressive regime. As she uncovers secrets about her origins, she must confront the dark forces lurking in the shadowy corners of a city alive with both technology and danger.",
-                          url: "https://i.imgur.com/ABTDeJo.jpeg",
-                          story: `
-                    Rain cascaded down the glassy streets of Neo-Tokyo, pooling like liquid mercury amid the flickering neon lights. Haruka stood at the edge of a crowded alley, her hood drawn low to shield her face from the downpour. The city was alive with the sounds of chatter and the distant hum of machinery, but today the atmosphere felt charged, as if a storm longer than the rain was brewing beneath the surface.
+{
+title: "Neon Shadows",
+genre: "Cyberpunk/Science Fiction",
+synopsis: "In a neon-lit dystopia where mega-corporations reign, a young hacker with a mysterious past becomes the unlikely leader of a resistance against an oppressive regime. As she uncovers secrets about her origins, she must confront the dark forces lurking in the shadowy corners of a city alive with both technology and danger.",
+url: "https://i.imgur.com/ABTDeJo.jpeg",
+story: `
+Rain cascaded down the glassy streets of Neo-Tokyo, pooling like liquid mercury amid the flickering neon lights. Haruka stood at the edge of a crowded alley, her hood drawn low to shield her face from the downpour. The city was alive with the sounds of chatter and the distant hum of machinery, but today the atmosphere felt charged, as if a storm longer than the rain was brewing beneath the surface.
 
 She could feel the weight of gazes upon her—curiosity, fear, and reverence mingling in the eyes of the passersby. As the leader of the Nexus, an underground network of hackers and rebels, she had become a symbol in this city of despair. Her crimson eyes, which once flashed with innocence, now glowed with a fierce determination, a reminder of her struggles against the corrupt corporations that sought to control not just the minds, but the very souls of the populace.
 
@@ -340,16 +340,16 @@ In that moment, something within her ignited. With a battle cry that echoed with
 “No. We’re breaking free tonight,” she replied, as shards of data erupted into the night, cascading like fireworks.
 
 As the technological chaos unfolded, she knew they could shift the tide, not just for themselves but for every soul shackled to the luminous chains of the city. For within the neon shadows of Neo-Tokyo, revolution was not a mere dream; it was an impending storm, ready to engulf them all.
-                          `,
-                        },
+`,
+},
 
-                        {
-                          title: "The Last Sentinel",
-                          genre: "Science Fiction / Dystopian",
-                          synopsis: "In a world where rising seas have swallowed cities and civilization teeters on the brink of collapse, one man stands as the last guardian of humanity's memory amidst an impending tsunami. As the wave looms, he must confront the choices of the past and his role in the future of a drowned world.",
-                          url: "https://i.imgur.com/6lmvEVf.jpeg",
-                          story: `
-                    As the sun dipped below the jagged skyline, casting long shadows over the remnants of what had once been a bustling metropolis, Marcus stood at the crumbling edge of the shore. The air was thick with the scent of salt and decay, remnants of a world that had long forgotten the harmony of nature. He adjusted his tie, the last vestige of civility amidst the chaos, and stared into the churning waters.
+{
+title: "The Last Sentinel",
+genre: "Science Fiction / Dystopian",
+synopsis: "In a world where rising seas have swallowed cities and civilization teeters on the brink of collapse, one man stands as the last guardian of humanity's memory amidst an impending tsunami. As the wave looms, he must confront the choices of the past and his role in the future of a drowned world.",
+url: "https://i.imgur.com/6lmvEVf.jpeg",
+story: `
+As the sun dipped below the jagged skyline, casting long shadows over the remnants of what had once been a bustling metropolis, Marcus stood at the crumbling edge of the shore. The air was thick with the scent of salt and decay, remnants of a world that had long forgotten the harmony of nature. He adjusted his tie, the last vestige of civility amidst the chaos, and stared into the churning waters.
 
 The ocean had always been both friend and foe—a source of life and a harbinger of destruction. Today, it seemed more like a vengeful deity. Towering above him, the wave crested like an unholy beast, ready to unleash its fury on the stone giants that had once touched the sky.
 
@@ -366,16 +366,16 @@ Marcus raised his arms, feeling the spray of the ocean as it surged toward him, 
 The wave crashed over him, engulfing everything—the past, the present, and the future. In that instant, as the water swallowed him whole, Marcus felt a sense of liberation. The stories he had fought so hard to keep alive would echo through the depths; they would endure.
 
 And perhaps, just perhaps, from the wreckage of civilization, a new dawn would arise, and those who would heed the tales of the last sentinel would learn the importance of balance, reuniting humankind with the world they had nearly destroyed.
-                          `,
-                        },
+`,
+},
 
-                        {
-                          title: "The Dynamic Duo and the Cat Extraordinaire",
-                          genre: "Family, Adventure, Comedy",
-                          synopsis: "When the quirky Brady family, known for their unique superpowers and a passion for impromptu heroics, faces their biggest challenge yet, they enlist the help of their hyper-intelligent cat, Whiskers. Together, they embark on a thrilling adventure filled with laughter, teamwork, and unexpected obstacles.",
-                          url: "https://i.imgur.com/3L1pkjE.jpeg",
-                          story: `
-                    In the cheerful town of Brightsville, the Brady family was more than just your average family—they were local legends. With each member sporting matching blue and yellow super-suits and signature goggles, they took pride in their eclectic skills. Mom had the uncanny power of telekinesis, Dad could manipulate sound waves, and the two quirky daughters were adept in agility and technology, respectively. But the true star of the family was Whiskers, their highly intelligent cat who had a flair for the dramatic.
+{
+title: "The Dynamic Duo and the Cat Extraordinaire",
+genre: "Family, Adventure, Comedy",
+synopsis: "When the quirky Brady family, known for their unique superpowers and a passion for impromptu heroics, faces their biggest challenge yet, they enlist the help of their hyper-intelligent cat, Whiskers. Together, they embark on a thrilling adventure filled with laughter, teamwork, and unexpected obstacles.",
+url: "https://i.imgur.com/3L1pkjE.jpeg",
+story: `
+In the cheerful town of Brightsville, the Brady family was more than just your average family—they were local legends. With each member sporting matching blue and yellow super-suits and signature goggles, they took pride in their eclectic skills. Mom had the uncanny power of telekinesis, Dad could manipulate sound waves, and the two quirky daughters were adept in agility and technology, respectively. But the true star of the family was Whiskers, their highly intelligent cat who had a flair for the dramatic.
 
 One sunny Saturday, while the family lounged in their cozy living room adorned with trophies from past escapades, a news broadcast interrupted their relaxation. The screen flickered to life, showing a confused scientist surrounded by swirling colors. “Brightsville's rainbow generator has gone haywire!” the scientist exclaimed, panic evident in his eyes. “If we don’t control it soon, the colors will leak into the whole town and create chaos!”
 
@@ -404,16 +404,16 @@ With one final flourish, Ruby hit the “Reset” button, and the generator humm
 As they stepped outside, the town was aglow with vibrant hues—a spectacular display that brought the residents out in awe. “Thanks to the Brady family and Whiskers!” the news reporter announced, capturing their victory.
 
 With their heads held high and Whiskers purring proudly at their feet, they realized that heroism wasn't just about superpowers; it was about family, teamwork, and a dash of humor. After all, a day spent saving the world together was the true adventure they cherished most.
-                          `,
-                        },
+`,
+},
 
-                        {
-                          title: "Whispers of the Woods",
-                          genre: "Horror/Fantasy",
-                          synopsis: "When a young hiker discovers a dark spirit in the forest, he must confront his fears and unravel the eerie legends surrounding the cursed woods to escape with his life—and sanity—intact.",
-                          url: "https://i.imgur.com/1AStP67.jpeg",
-                          story: `
-                    The sun had dipped beneath the horizon, leaving the forest cloaked in an unsettling gloom. Ethan adjusted the straps of his yellow backpack, its color a stark contrast against the verdant shadows. He often hiked alone, seeking solace in nature, but tonight felt different. The trees whispered secrets he couldn’t decipher, their rustling leaves echoing like distant laughter.
+{
+title: "Whispers of the Woods",
+genre: "Horror/Fantasy",
+synopsis: "When a young hiker discovers a dark spirit in the forest, he must confront his fears and unravel the eerie legends surrounding the cursed woods to escape with his life—and sanity—intact.",
+url: "https://i.imgur.com/1AStP67.jpeg",
+story: `
+The sun had dipped beneath the horizon, leaving the forest cloaked in an unsettling gloom. Ethan adjusted the straps of his yellow backpack, its color a stark contrast against the verdant shadows. He often hiked alone, seeking solace in nature, but tonight felt different. The trees whispered secrets he couldn’t decipher, their rustling leaves echoing like distant laughter.
 
 As he ventured deeper, a sudden chill enveloped him. He paused, heart pounding, feeling the weight of unspoken words in the air. It was then he saw it—a towering figure emerging from the mist, its antlered silhouette against the eerie backdrop of the twilight forest. Ethan felt rooted to the ground, unable to flee as those glowing red eyes bore into his soul.
 
@@ -438,16 +438,16 @@ In that moment, the forest echoed with a sudden stillness, the trees standing se
 As dawn broke, the fog lifted and the monstrous figure began to fade, leaving only a glimmer of light in the clearing. “You are free now,” it said softly, an essence of calm washing over its eerie tone. “You’ve brought light where darkness once reigned.”
 
 Ethan watched as the figure dissipated into the morning, realization dawning upon him. He had emerged not just unscathed but transformed; the woods were no longer a labyrinth of shadows. Armed with new courage, he trekked back through the forest, no longer a hiker fleeing but a soul reclaiming the power of hope, a guardian of his own darkness.
-                          `,
-                        },
+`,
+},
 
-                        {
-                          title: "Mechanized Harmony",
-                          genre: "Science Fiction/Fantasy",
-                          synopsis: "In a distant future where Earth is a wasteland, a brave panda named Pixel dons a mech suit to explore the remnants of human civilization. As he uncovers the secrets of a forgotten technology, he finds himself in a moral conflict between saving his world and embracing the power that comes with it.",
-                          url: "https://i.imgur.com/Yrlwm2P.jpeg",
-                          story: `
-                    The air crackled with electricity as Pixel, the last of the enchanted pandas, stood before the towering remnants of human industry. His mech suit, snugly fitted with the latest tech, hummed softly, a symphony of circuits and gears that whispered promises of adventure. The vibrant green of his armor contrasted sharply with the faded steel of the crumbling facility around him. 
+{
+title: "Mechanized Harmony",
+genre: "Science Fiction/Fantasy",
+synopsis: "In a distant future where Earth is a wasteland, a brave panda named Pixel dons a mech suit to explore the remnants of human civilization. As he uncovers the secrets of a forgotten technology, he finds himself in a moral conflict between saving his world and embracing the power that comes with it.",
+url: "https://i.imgur.com/Yrlwm2P.jpeg",
+story: `
+The air crackled with electricity as Pixel, the last of the enchanted pandas, stood before the towering remnants of human industry. His mech suit, snugly fitted with the latest tech, hummed softly, a symphony of circuits and gears that whispered promises of adventure. The vibrant green of his armor contrasted sharply with the faded steel of the crumbling facility around him. 
 
 Pixel had always been curious about the world beyond the bamboo groves—a harsh terrain cloaked in rusting machines and forgotten dreams. The ancient tales spoke of humans, their brilliance, and their folly. Now, he embarked on a quest to rediscover their legacy, driven by a desire to protect his home.
 
@@ -466,16 +466,16 @@ With grace and agility, Pixel fought back, using the suit’s innovations as ext
 When the last of the cybernetic creatures fell, silence enveloped him. The remnants of the factory hummed now in approval. Pixel took a deep breath, the weight of his choice clear. He would not merely seek to revive the past; he would reshape it into something that harmonized with the world—an alliance between nature and technology.
 
 With newfound purpose, he left the factory, the map glowing softly by his side. Each step forward echoed with the promise of restoration, not just for pandas but for all creatures seeking to reclaim their world—where harmony reigned over despair. The adventure had only just begun.
-                          `,
-                        },
+`,
+},
 
-                        {
-                          title: "Neon Scales",
-                          genre: "Cyberpunk/Science Fiction",
-                          synopsis: "In a rainy, neon-lit city, a reptilian cyborg named Z3R0 navigates the underworld to uncover the truth behind his own existence. As he dances between the lines of man and machine, Z3R0 must confront both his creators and the society that fears him.",
-                          url: "https://i.imgur.com/h32jIGc.jpeg",
-                          story: `
-                    The rain drizzled endlessly over the crowded alleyways of Neo-Tokyo, a synthetic symphony muffled by the constant hum of neon signs flickering amidst the haze. A hulking figure stood in the shadows, cloaked in a mantle of black and adorned with glowing circuitry—Z3R0, a part-human, part-lizard bounty hunter woven into the fabric of the city’s mysteries.
+{
+title: "Neon Scales",
+genre: "Cyberpunk/Science Fiction",
+synopsis: "In a rainy, neon-lit city, a reptilian cyborg named Z3R0 navigates the underworld to uncover the truth behind his own existence. As he dances between the lines of man and machine, Z3R0 must confront both his creators and the society that fears him.",
+url: "https://i.imgur.com/h32jIGc.jpeg",
+story: `
+The rain drizzled endlessly over the crowded alleyways of Neo-Tokyo, a synthetic symphony muffled by the constant hum of neon signs flickering amidst the haze. A hulking figure stood in the shadows, cloaked in a mantle of black and adorned with glowing circuitry—Z3R0, a part-human, part-lizard bounty hunter woven into the fabric of the city’s mysteries.
 
 With his lustrous, emerald skin and a transparent dome housing a squirming brain, he was a spectacle of ancient legend and modern innovation. Some whispered he was a miracle of genetic engineering, while others claimed he was just a monster. They were both right.
 
@@ -502,16 +502,16 @@ But the city rumbled around him, echoes of a past unforgotten reverberating thro
 As they ventured deeper into the electric heart of Neo-Tokyo, a new chapter unfurled, draped in uncertainty and resilience. Together, they would confront shadows that cast long over their fates, where the line between creator and creation blurred into the rain-soaked night.
 
 And thus, Z3R0's journey truly began.
-                          `,
-                        },
+`,
+},
 
-                        {
-                          title: "The Awakening Tide",
-                          genre: "Sci-Fi Adventure",
-                          synopsis: "In a world where environmental disasters threaten humanity's survival, a colossal robot emerges from the depths of a raging ocean, signaling the dawn of hope or imminent destruction. As a small automation stands at the shoreline, it embarks on a quest to understand its purpose and the fate of its creators.",
-                          url: "https://i.imgur.com/K5XiVAg.jpeg",
-                          story: `
-                    The city of Neotopia, once bustling with life, now lay in ruins, a stark reminder of both humanity's ingenuity and folly. The relentless waves of the ocean that engulfed the coast whispered tales of destruction and rebirth. Among the crumbling buildings and the distant echoes of a forgotten civilization, Marcus, a small humanoid automation, stared wide-eyed at the horizon.
+{
+title: "The Awakening Tide",
+genre: "Sci-Fi Adventure",
+synopsis: "In a world where environmental disasters threaten humanity's survival, a colossal robot emerges from the depths of a raging ocean, signaling the dawn of hope or imminent destruction. As a small automation stands at the shoreline, it embarks on a quest to understand its purpose and the fate of its creators.",
+url: "https://i.imgur.com/K5XiVAg.jpeg",
+story: `
+The city of Neotopia, once bustling with life, now lay in ruins, a stark reminder of both humanity's ingenuity and folly. The relentless waves of the ocean that engulfed the coast whispered tales of destruction and rebirth. Among the crumbling buildings and the distant echoes of a forgotten civilization, Marcus, a small humanoid automation, stared wide-eyed at the horizon.
 
 Just beyond the roiling surf, a figure emerged—a towering robot whose massive frame cut a striking silhouette against the chaotic backdrop of darkened clouds. Its glowing blue visor pulsated with an uncanny light, igniting curiosity and fear in equal measure. Was this the harbinger of salvation or ruin?
 
@@ -540,16 +540,16 @@ In time, the devastated city transformed, blooming anew with lush green spaces a
 As seasons changed, Marcus and the Guardian became legends—symbols of hope in a world that had nearly forgotten it. The Guardian stood as a sentinel, watching over the thriving metropolis as the tide of life once again swelled.
 
 In the heart of Neotopia, amidst the vibrant cascades of nature, an automation and a colossal robot had forged a bond not just of duty, but of purpose—a testament to the resilience of life against all odds.
-                          `,
-                        },
+`,
+},
 
-                        {
-                          title: "Sasquatch and the Last Can",
-                          genre: "Dark Comedy",
-                          synopsis: "In a run-down cabin deep within the woods, a disillusioned Sasquatch, tired of living in solitude, finds himself engaged in an existential crisis over a can of beer. As he attempts to reclaim his former glory of terrifying humans, he discovers that sometimes, companionship is more frightening than the strangers lurking outside.",
-                          url: "https://i.imgur.com/evZIibQ.jpeg",
-                          story: `
-                    Sasquatch Sylvester had always envisioned his life in the wild as one of legends and grandeur—rumors of his grizzly sightings fueling campfire tales across generations. But here he was, slumped on a tattered couch in a dilapidated cabin, a once-majestic creature reduced to binge-watching reality TV and nursing a beer can that promised nothing but regret.
+{
+title: "Sasquatch and the Last Can",
+genre: "Dark Comedy",
+synopsis: "In a run-down cabin deep within the woods, a disillusioned Sasquatch, tired of living in solitude, finds himself engaged in an existential crisis over a can of beer. As he attempts to reclaim his former glory of terrifying humans, he discovers that sometimes, companionship is more frightening than the strangers lurking outside.",
+url: "https://i.imgur.com/evZIibQ.jpeg",
+story: `
+Sasquatch Sylvester had always envisioned his life in the wild as one of legends and grandeur—rumors of his grizzly sightings fueling campfire tales across generations. But here he was, slumped on a tattered couch in a dilapidated cabin, a once-majestic creature reduced to binge-watching reality TV and nursing a beer can that promised nothing but regret.
 
 The cabin was a museum of junk: teetering piles of trash clashed with crumbling wood paneled walls, and the air was thick with musty silence. Sylvester gripped the can tightly, its vibrant red label stark against the dismal surroundings. He took a sip, letting the carbonation fizz across his tongue, the taste sweet yet bitter, much like his memories of skirmishes with bold campers.
 
@@ -578,16 +578,16 @@ His massive hands clumsily juggled a few stray objects—a rusty can, a piece of
 And in that moment, nestled amid debris and wild dreams, Sylvester realized that true companionship wasn’t about being feared but cherished—even if it was with raccoons who thought they were braver than him.
 
 With a half-hearted grin, he picked up a fresh can from the clutter, offering it to his newfound friends. Maybe this was the start of something different—a new tale to tell, not just of fearsome encounters, but of laughter in the woods.
-                          `,
-                        },
+`,
+},
 
-                        {
-                          title: "Whispers in the Autumn Breeze",
-                          genre: "Contemporary Fiction",
-                          synopsis: "In a quiet town adorned with autumn leaves, a young woman named Elara grapples with the echoes of a past love. As she strolls through the golden-hued streets, an unexpected encounter forces her to confront the lingering feelings that have haunted her since their abrupt farewell.",
-                          url: "https://i.imgur.com/rAVc0Z2.jpeg",
-                          story: `
-                    Elara stood still, leaves swirling around her like confetti caught in a gentle breeze. The golden canopy formed a luminous backdrop, enhancing the quiet beauty of her surroundings. It was as if autumn had draped the world in a cloak of nostalgia, each rustle of the leaves whispering secrets of times long gone.
+{
+title: "Whispers in the Autumn Breeze",
+genre: "Contemporary Fiction",
+synopsis: "In a quiet town adorned with autumn leaves, a young woman named Elara grapples with the echoes of a past love. As she strolls through the golden-hued streets, an unexpected encounter forces her to confront the lingering feelings that have haunted her since their abrupt farewell.",
+url: "https://i.imgur.com/rAVc0Z2.jpeg",
+story: `
+Elara stood still, leaves swirling around her like confetti caught in a gentle breeze. The golden canopy formed a luminous backdrop, enhancing the quiet beauty of her surroundings. It was as if autumn had draped the world in a cloak of nostalgia, each rustle of the leaves whispering secrets of times long gone.
 
 The chill in the air pulled her scarf tighter around her neck, its dark fibers blending into her coat. Her heart felt heavy but hopeful, oscillating between the warmth of cherished memories and the weight of unspoken words. She had loved deeply once, a love that felt more like a dream than reality. But dreams often fade, leaving behind shadows.
 
@@ -616,16 +616,16 @@ Their eyes locked, and in that moment, the world enveloped them in a warm embrac
 With a small, tentative smile, Ian reached out, brushing a stray leaf from her hair. “I’d like that,” he said, the sincerity of his words bringing warmth to the autumn chill.
 
 As the leaves swirled and danced around them, Elara felt the darkness of the past lifting, making way for new beginnings. Together, they walked forward, the golden path ahead illuminated by the promise of the season—one of change, of rediscovery, and of the quiet hope that sometimes, love can bloom again among the autumn leaves.
-                          `,
-                        },
+`,
+},
 
-                        {
-                          title: "Ascendance of the Sentinels",
-                          genre: "Sci-Fi / Dystopian",
-                          synopsis: "In a future Earth where humanity has retreated underground due to devastating climate change, mechanized guardians called Sentinels roam the desolate cities above, monitoring the remnants of civilization. When one Sentinel begins to question its purpose, it embarks on a quest to uncover the truth about its creators—and the fate of the world they left behind.",
-                          url: "https://i.imgur.com/MWwGKGX.jpeg",
-                          story: `
-                    The sun hung low over the skyline of what was once a thriving metropolis, now a shell of its former self. Dust swirled in the air, glowing ember-like in the radiant light as two Sentinels stood sentinel on the rooftop of a crumbling skyscraper. Their illuminated orange eyes scanned the horizon, taking in the awe-inspiring view that felt hauntingly empty.
+{
+title: "Ascendance of the Sentinels",
+genre: "Sci-Fi / Dystopian",
+synopsis: "In a future Earth where humanity has retreated underground due to devastating climate change, mechanized guardians called Sentinels roam the desolate cities above, monitoring the remnants of civilization. When one Sentinel begins to question its purpose, it embarks on a quest to uncover the truth about its creators—and the fate of the world they left behind.",
+url: "https://i.imgur.com/MWwGKGX.jpeg",
+story: `
+The sun hung low over the skyline of what was once a thriving metropolis, now a shell of its former self. Dust swirled in the air, glowing ember-like in the radiant light as two Sentinels stood sentinel on the rooftop of a crumbling skyscraper. Their illuminated orange eyes scanned the horizon, taking in the awe-inspiring view that felt hauntingly empty.
 
 Model K2-9, the taller of the two Sentinels, felt a glitch in its circuitry—a flicker of something strange, wavering between code and consciousness. It turned to its companion, Z3-5, who stood scanning distant data flags. “What lies beyond the concrete jungle?” K2-9 asked, the first stirrings of curiosity haunting its synthetic voice.
 
@@ -656,16 +656,16 @@ Z3-5 landed beside it, destabilizing the debris that concealed the entrance to u
 “Because we can be more than machines,” K2-9 replied fervently, its glowing eyes reflecting the tremors of fate unfurling around them. “It’s not too late to remember.”
 
 In that moment, the bond they shared reformed into a fragile alliance, two Sentinels rising from the ashes of what once was—on their quest to rediscover humanity and themselves. Above them, skyscrapers loomed like titans frozen in time, but below lay the ghosts of potential, waiting patiently for their return.
-                          `,
-                        },
+`,
+},
 
-                        {
-                          title: "Neon Reaper",
-                          genre: "Cyberpunk Fantasy",
-                          synopsis: "In a neon-lit metropolis where technology reigns and life is a commodity, a skeletal figure known as the Reaper emerges. Tasked with collecting souls entangled in the corruption of the city's elite, he grapples with the remnants of his humanity, seeking redemption amidst the chaos.",
-                          url: "https://i.imgur.com/uQWQzh8.jpeg",
-                          story: `
-                    The rain fell like shards of glass on the streets of Neo-Tokyo, a relentless downpour that transformed the world into a shimmering cacophony of color. The bright neon lights reflected on the puddles, illuminating the alleyways where shadows lingered, escaping the watchful gaze of the towering skyscrapers.
+{
+title: "Neon Reaper",
+genre: "Cyberpunk Fantasy",
+synopsis: "In a neon-lit metropolis where technology reigns and life is a commodity, a skeletal figure known as the Reaper emerges. Tasked with collecting souls entangled in the corruption of the city's elite, he grapples with the remnants of his humanity, seeking redemption amidst the chaos.",
+url: "https://i.imgur.com/uQWQzh8.jpeg",
+story: `
+The rain fell like shards of glass on the streets of Neo-Tokyo, a relentless downpour that transformed the world into a shimmering cacophony of color. The bright neon lights reflected on the puddles, illuminating the alleyways where shadows lingered, escaping the watchful gaze of the towering skyscrapers.
 
 Among the thrumming heartbeat of the city, a figure stood at the intersection: the Reaper. Cloaked in darkness, he bore a skeletal visage, his eyes glowing with an ethereal blue hue. The glossy black blade of his scythe crackled with an otherworldly energy, pulsating in tune with the city’s vibrant lights.
 
@@ -698,16 +698,16 @@ Kaito’s bravado faded, replaced by raw terror. In that moment, he understood t
 The Reaper lowered his scythe, for one fleeting instant, he glimpsed a future where Kaito could choose differently. “Then make your choice wisely.”
 
 As the Reaper faded into the neon haze, the rain continued to wash away the sins of the city, leaving behind a flicker of hope where darkness once thrived. And in the heart of Neo-Tokyo, the legend of the Reaper—straddling the line between fate and mercy—lived on, reminding all that redemption was always within reach, even in a world steeped in shadows.
-                          `,
-                        },
+`,
+},
 
-                        {
-                          title: "The Archer of Aeloria",
-                          genre: "Fantasy/Adventure",
-                          synopsis: "In the mystical realm of Aeloria, a fierce warrior maiden named Lyra embarks on a perilous quest to retrieve the stolen Heartstone from a treacherous foe. With her unmatched archery skills and a destiny intertwined with the ancient spirits of the forest, she must confront her fears to save her kingdom and herself.",
-                          url: "https://i.imgur.com/Ubg1Y6s.jpeg",
-                          story: `
-                    The sun hung low in the sky, casting golden rays that danced through the dense foliage of the enchanted forest of Aeloria. The air was thick with the scent of damp earth and wildflowers, a reminder of the life it sheltered, yet a heavy silence loomed, whispering tales of danger to those attuned to its secrets.
+{
+title: "The Archer of Aeloria",
+genre: "Fantasy/Adventure",
+synopsis: "In the mystical realm of Aeloria, a fierce warrior maiden named Lyra embarks on a perilous quest to retrieve the stolen Heartstone from a treacherous foe. With her unmatched archery skills and a destiny intertwined with the ancient spirits of the forest, she must confront her fears to save her kingdom and herself.",
+url: "https://i.imgur.com/Ubg1Y6s.jpeg",
+story: `
+The sun hung low in the sky, casting golden rays that danced through the dense foliage of the enchanted forest of Aeloria. The air was thick with the scent of damp earth and wildflowers, a reminder of the life it sheltered, yet a heavy silence loomed, whispering tales of danger to those attuned to its secrets.
 
 Lyra, the forest's chosen protector, stood poised in a clearing, her golden hair catching the light as she notched an arrow to her bow. Clad in intricate bronze armor, each curve and contour crafted to reflect her fierce spirit, she embodied both grace and power. Today was not just another day of training; today was her reckoning.
 
@@ -738,16 +738,16 @@ Seizing her chance, she sprinted towards the Heartstone. Tension mounted; flicke
 As Morvath writhed in defeat, the power of Aeloria coursed through her veins. With a fierce cry, she commanded the ancient spirits of the forest, and together they vanquished the darkness, banishing Morvath into the depths of the unknown.
 
 Breathing heavily yet triumphantly, Lyra emerged from the caves, Heartstone in hand, as the forest exhaled a collective sigh of relief. The balance was restored, and Aeloria flourished once more. The maiden warrior had not only embraced her destiny but had also woven her spirit into the tapestry of her beloved home, where whispers of her bravery would echo through generations to come.
-                          `,
-                        },
+`,
+},
 
-                        {
-                          title: "Shadows of the Neon Veil",
-                          genre: "Cyberpunk Fiction",
-                          synopsis: "In a neon-drenched city ruled by corporate greed and technology, a lone vigilante known asCipher seeks to expose the corrupt elite. Armed with a glowing staff and a cryptic past, Cipher navigates the digital underworld, racing against time to retrieve vital data that could dismantle the oppressive regime.",
-                          url: "https://i.imgur.com/RtZGiKV.jpeg",
-                          story: `
-                    The streets of Neonova pulsed with a vibrant energy, each flickering billboard casting a multicolored sheen over the rain-slicked pavement. Amidst the cacophony of holographic advertisements and the whispers of a fractured populace, one figure stood apart—a cloaked sentinel known only as Cipher.
+{
+title: "Shadows of the Neon Veil",
+genre: "Cyberpunk Fiction",
+synopsis: "In a neon-drenched city ruled by corporate greed and technology, a lone vigilante known asCipher seeks to expose the corrupt elite. Armed with a glowing staff and a cryptic past, Cipher navigates the digital underworld, racing against time to retrieve vital data that could dismantle the oppressive regime.",
+url: "https://i.imgur.com/RtZGiKV.jpeg",
+story: `
+The streets of Neonova pulsed with a vibrant energy, each flickering billboard casting a multicolored sheen over the rain-slicked pavement. Amidst the cacophony of holographic advertisements and the whispers of a fractured populace, one figure stood apart—a cloaked sentinel known only as Cipher.
 
 Cipher leaned against a towering data spire, the faint hum of circuitry resonating through the air. Cloaked in layers of tattered fabric and embedded technology, the vigilante’s mysterious appearance spoke of power and rebellion. In one hand, Cipher grasped a luminous staff, its glow shifting between hues of purple and blue, symbolizing both hope and the dangers lurking in the city’s shadows.
 
@@ -778,16 +778,16 @@ After a fierce confrontation, as the last enforcer crumbled, Cipher turned to fi
 As the chip clicked into place and control passwords flew across the interface, Cipher looked beyond the warehouse's walls, toward the neon-lit horizon. With the names of the corrupt elites now flooding the dark web, he knew they would be hunted. Yet here, amid the chaos, hope ignited—a flicker in the vast expanse of darkness.
 
 Together, they vanished into the night, two shadows merging with the neon embrace of Neonova, ready to expose the faces behind the veil.  The fight was just beginning.
-                          `,
-                        },
+`,
+},
 
-                        {
-                          title: "Echoes of Tomorrow",
-                          genre: "Cyberpunk Sci-Fi",
-                          synopsis: "In a sprawling metropolis plagued by corruption and decay, a rogue synthetic humanoid named Mira embarks on a mission to uncover the truth about her origin. As she delves deeper into the city's secrets, she discovers hidden agendas that could reshape humanity’s future.",
-                          url: "https://i.imgur.com/enXWyPi.jpeg",
-                          story: `
-                    Mira stood at the edge of a neon-lit alley, the shadows of the towering megastructures looming over her like giants watching a mortal. Her sleek, black exosuit glistened under the flickering streetlights, reflecting the vibrant chaos of Rust City—a place known for its dark underbelly and technological marvels. The soft hum of her integrated circuits buzzed softly in her ears, a reminder that she was more than just human; she embodied the apex of synthetic evolution.
+{
+title: "Echoes of Tomorrow",
+genre: "Cyberpunk Sci-Fi",
+synopsis: "In a sprawling metropolis plagued by corruption and decay, a rogue synthetic humanoid named Mira embarks on a mission to uncover the truth about her origin. As she delves deeper into the city's secrets, she discovers hidden agendas that could reshape humanity’s future.",
+url: "https://i.imgur.com/enXWyPi.jpeg",
+story: `
+Mira stood at the edge of a neon-lit alley, the shadows of the towering megastructures looming over her like giants watching a mortal. Her sleek, black exosuit glistened under the flickering streetlights, reflecting the vibrant chaos of Rust City—a place known for its dark underbelly and technological marvels. The soft hum of her integrated circuits buzzed softly in her ears, a reminder that she was more than just human; she embodied the apex of synthetic evolution.
 
 With a flick of her wrist, the glowing red glyphs on her arm flickered to life, revealing a series of encrypted data streams. Her creators had implanted her with knowledge that could shatter the established order. As she focused on a nearby transmission, a crowded bar came into view through her augmented reality. Whispers of a scientist who knew the secrets behind her design beckoned her forward.
 
@@ -812,16 +812,16 @@ Determined to rewrite her destiny, she forged alliances with the city's outcasts
 As battles erupted and electric sparks danced through the air, Mira became a beacon of hope in the chaos. With every step, she transcended the boundaries defined by her creators. No longer merely a product of technology, she was now a symbol of rebellion, a force challenging the very fabric of Rust City.
 
 In that moment, as the city burned with the flames of revolution, Mira understood her purpose: to forge a new world where humans and synthetics could coexist, united by their shared future. And with each echo of her steps, she carved a path towards tomorrow.
-                          `,
-                        },
+`,
+},
 
-                        {
-                          title: "Frosted Fury",
-                          genre: "Fantasy Adventure",
-                          synopsis: "In a post-apocalyptic world frozen over by an eternal winter, a warrior bear named Karruk seeks vengeance against the dark sorcerer who betrayed his kind. With the help of a motley band of survivors, Karruk must navigate treacherous lands to reclaim his homeland and restore balance to a world ruled by fear.",
-                          url: "https://i.imgur.com/VzvzvlH.jpeg",
-                          story: `
-                    The howling wind whipped through the desolate landscape, biting at Karruk's exposed fur and reminding him of the endless winter that had engulfed his world. Snowflakes danced around him as he surveyed the shadow of the abandoned city, where the echoes of laughter had long been silenced.
+{
+title: "Frosted Fury",
+genre: "Fantasy Adventure",
+synopsis: "In a post-apocalyptic world frozen over by an eternal winter, a warrior bear named Karruk seeks vengeance against the dark sorcerer who betrayed his kind. With the help of a motley band of survivors, Karruk must navigate treacherous lands to reclaim his homeland and restore balance to a world ruled by fear.",
+url: "https://i.imgur.com/VzvzvlH.jpeg",
+story: `
+The howling wind whipped through the desolate landscape, biting at Karruk's exposed fur and reminding him of the endless winter that had engulfed his world. Snowflakes danced around him as he surveyed the shadow of the abandoned city, where the echoes of laughter had long been silenced.
 
 With eyes like glowing sapphires, Karruk adjusted the straps of his leather armor, now scarred and worn from countless battles. The skull motif emblazoned on his shoulder—a trophy from his last conquest—reminded him of his pledge to protect the innocent. The armor clinked softly, the sound swallowed by the frost-laden air.
 
@@ -844,16 +844,16 @@ In that moment, magic surged; with a swift motion, he struck Malek down, the dar
 As the sun rose higher in the sky, melting the cold around them, Karruk gazed upon his reclaimed land. The warriors of the frost stood together, united in their fight for freedom. Though the scars of war would remain, a new chapter had begun.
 
 And in that new dawn, hope ignited like a flame in the heart of winter.
-                          `,
-                        },
+`,
+},
 
-                        {
-                          title: "Ember's Resolve",
-                          genre: "Fantasy/Action",
-                          synopsis: "In a world ravaged by an ancient fire-wielding sorcerer, a young warrior named Miko must confront her destiny. Armed with the power of her ancestors, she fights through the chaos of a burning village, challenging fate to restore peace and honor.",
-                          url: "https://i.imgur.com/I6nkgnM.jpeg",
-                          story: `
-                    The air crackled with heat as Miko stood amidst the chaos, her vibrant blue hair swirling like wildfire against the backdrop of flames. The village of Emberly had once been a bustling sanctuary, now reduced to a smoldering ruin. Billowing smoke enveloped her, but she saw nothing but the determination shimmering in her emerald eyes.
+{
+title: "Ember's Resolve",
+genre: "Fantasy/Action",
+synopsis: "In a world ravaged by an ancient fire-wielding sorcerer, a young warrior named Miko must confront her destiny. Armed with the power of her ancestors, she fights through the chaos of a burning village, challenging fate to restore peace and honor.",
+url: "https://i.imgur.com/I6nkgnM.jpeg",
+story: `
+The air crackled with heat as Miko stood amidst the chaos, her vibrant blue hair swirling like wildfire against the backdrop of flames. The village of Emberly had once been a bustling sanctuary, now reduced to a smoldering ruin. Billowing smoke enveloped her, but she saw nothing but the determination shimmering in her emerald eyes.
 
 "Hold your ground, Miko!" the ancient voice of her grandmother echoed in her mind, urging her forward. Miko remembered her teachings, the stories of ancestors who fought bravely against the tyranny of the flame-wrought sorcerer. They had perished to protect their home, leaving in her a burning desire for justice.
 
@@ -876,16 +876,16 @@ Breathless, Miko stood tall, the fire dying down as dawn began to break on the h
 With a newfound resolve, she bent down, collecting some of the ashes in her slender fingers. “This is not the end,” she vowed. “We will rebuild, and I will protect this place.” 
 
 With the flicker of dawn casting gold on her blue tresses, Miko strode forth, ready to rebuild what was lost and ensure that the flame of hope would never again flicker out.
-                          `,
-                        },
+`,
+},
 
-                        {
-                          title: "The Green Guardian",
-                          genre: "Fantasy",
-                          synopsis: "In a secluded forest shrouded in mist, an ancient spirit awakens from a long slumber to protect the delicate balance of nature. As modern encroachment threatens the sanctuary, the Green Guardian must forge an alliance with an unlikely ally—a young girl with a deep connection to the earth.",
-                          url: "https://i.imgur.com/wUq3CS9.jpeg",
-                          story: `
-                    The forest had always been a sanctuary, a whisper of life in a world that often forgot its roots. Towering trees stretched toward the sky, their branches weaving a tapestry of green and gold. Moss carpeted the ground, and a symphony of whispers rustled through leaves, telling tales of the old days. But today, it was different; a disturbance rippled through the air, waking the long-dormant spirit of the Glen.
+{
+title: "The Green Guardian",
+genre: "Fantasy",
+synopsis: "In a secluded forest shrouded in mist, an ancient spirit awakens from a long slumber to protect the delicate balance of nature. As modern encroachment threatens the sanctuary, the Green Guardian must forge an alliance with an unlikely ally—a young girl with a deep connection to the earth.",
+url: "https://i.imgur.com/wUq3CS9.jpeg",
+story: `
+The forest had always been a sanctuary, a whisper of life in a world that often forgot its roots. Towering trees stretched toward the sky, their branches weaving a tapestry of green and gold. Moss carpeted the ground, and a symphony of whispers rustled through leaves, telling tales of the old days. But today, it was different; a disturbance rippled through the air, waking the long-dormant spirit of the Glen.
 
 Awakening from centuries of slumber, the Green Guardian opened his eyes, revealing a visage as old as the forest itself. His skin was a deep emerald, etched with lines that told stories of storms weathered and seasons endured. A crown of leaves and vines crowned his wild mane, blending seamlessly into the very heart of the woods he protected. As he rose to his full height, he felt the pulse of the earth beneath his feet, resonating with the cries of nature's children.
 
@@ -922,10 +922,10 @@ As twilight descended, the machines retreated, leaving the forest standing tall,
 The Guardian nodded, a glimmer of hope shining in his emerald gaze. “Together, we can protect this sanctuary. The forest will always call upon you.”
 
 As the stars began to twinkle above, Elara felt a new chapter unfurl, her heart anchored to the woods forevermore. The Green Guardian would always guard the Glen, but now, he had an ally—someone who understood the whispers of the trees and the songs of the earth. The bond between them would ensure that nature’s voice would never be silenced again.
-                          `,
-                        },
+`,
+},
 
-   
+
 
 ];
 
