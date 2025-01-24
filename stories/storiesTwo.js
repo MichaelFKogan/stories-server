@@ -85,49 +85,6 @@ Kai’s smile widened, hope flickering in his eyes. “Then I’d say it’s a s
 As they stood amidst the glow of twilight, they both knew this was just the beginning. Beneath the vast expanse of the sky, in a city full of faces, they had found each other—a moment destined to unfold into many more.
 `,
 },
-{
-title: "The Friendship We Never Knew",
-genre: "Fantasy/Children's Adventure",
-synopsis: "In a dusty old attic, a curious boy stumbles upon a friendly ghost named Boo. Together, they explore the hidden wonders of the spirit world, discovering the true meaning of friendship and bravery.",
-url: "https://i.imgur.com/97IQ0ji.jpeg",
-story: `
-On a sunny Saturday afternoon, Timmy discovered the hidden door to the attic while searching for his favorite toy. He had always been eager for adventures, but he never expected this one to involve a glowing, friendly ghost named Boo.
-
-Boo floated in the corner, his round body shimmering with a gentle light that illuminated the dimly lit room. "Hi there!" he squeaked, his wide eyes sparkling with excitement. Timmy blinked in surprise but quickly grinned back, intrigued rather than frightened.
-
-“What are you doing here?” Timmy asked, stepping closer, his little hands reaching out toward the friendly spirit.
-
-“I’ve been waiting for someone to play with!” Boo replied, swirling around with joy. “It can get lonely up here, you know. Would you like to see something magical?”
-
-Timmy nodded eagerly. As the ghost led him deeper into the attic, he saw forgotten treasures: old toys, colorful books, and even a dusty piano. With a flick of Boo’s translucent hand, the piano began to play a merry tune all on its own.
-
-Together, they danced and laughed, hopping around piles of boxes like they were castles, weaving in and out of the shadows. Time slipped away unnoticed, with the attic becoming their enchanted kingdom.
-
-Suddenly, Boo paused, his expression shifting to something more serious. “There’s something I need your help with,” he said, his voice lowering. 
-
-“What is it?” Timmy asked, his heart racing with curiosity.
-
-“I need to find my lost moonstone. It was hidden in the attic long ago, and without it, I can't return to the spirit world.” Boo’s eyes drooped with sadness.
-
-Timmy felt a pang in his chest. He had never met a ghost before, and now he understood the importance of Boo’s quest. “Let’s find it together!” he proclaimed, determination filling his small frame.
-
-They searched every nook and cranny of the attic, climbing on stacked boxes and peeking behind old furniture. They laughed, shared stories, and grew closer with each moment. Finally, after what felt like hours, Timmy spotted a glimmer beneath the floorboards.
-
-“Is that it?” he shouted, pointing excitedly.
-
-Boo floated over, his eyes widening. “Yes! That’s it!” With Timmy’s help, they pried open a loose board, revealing the sparkling moonstone at last. 
-
-With the moonstone reunited, Boo twinkled with joy. “Thank you, Timmy! You helped me find my way home.” He hugged the boy gently, his form becoming even brighter.
-
-Timmy felt a twinge in his heart. “Will I ever see you again?”
-
-Boo smiled, his eyes twinkling. “Our friendship will always be here, even when you can’t see me. Whenever you need adventure, just look to the attic!” 
-
-With that, Boo began to fade, his laughter echoing in the attic before he vanished completely, leaving behind a warmth that filled Timmy’s soul.
-
-From that day on, the attic held a special magic for Timmy. He knew that whether in the spirit world or the one he lived in, friendship could spark in the most unexpected places, reminding him that together, they could create lasting memories even beyond the wall between their worlds.
-`,
-},
 
 {
 title: "Giant of Neon Dreams",
@@ -284,84 +241,6 @@ When the visions faded, they stood together in a daze, the energy of the market 
 As they shared their experiences, under the enchanting glow of the city’s lights, they made a silent vow: to chase their dreams together, to conquer fears, and to keep their friendship alight in the adventures that lay ahead.
 
 With joy coursing through their veins, they lifted their drinks once more, this time in a toast to friendship, dreams, and the enchanting possibilities that awaited them beyond the night market. The colorful world around them shimmered even more brightly, marking the beginning of endless adventures yet to come.
-`,
-},
-
-{
-title: "A Friend in the Shadows",
-genre: "Fantasy/Adventure",
-synopsis: "In a hidden cave surrounded by emerald foliage, a timid boy named Leo stumbles upon a young dragon named Spark, who is just as curious about humans as Leo is about dragons. Together, they embark on an adventure that tests their courage and ignites a friendship that could change their worlds forever.",
-url: "https://i.imgur.com/iVZ266v.jpeg",
-story: `
-The golden sun filtered through the canopy of trees as Leo wandered deeper into the forest. His heart raced with both excitement and trepidation; he was on an adventure, albeit a small one, just beyond the familiarity of home. As he explored, the underbrush rustled with sounds of life—birds chirping and leaves whispering secrets of the woods. Little did he know, today was destined to be different.
-
-After what seemed like hours of wandering, Leo stumbled upon a hidden cave. The entrance was draped in vines and moss, its mouth dark and mysterious. Curiosity piqued, he stepped forward, heart pounding in his chest. “Hello?” he called, his voice echoing eerily within.
-
-To his surprise, a pair of luminous green eyes blinked open in the shadows. Slowly, a dragon emerged from the dimness—a small, chubby creature with scales glimmering like emeralds under the soft light. It had an endearing face and a playful glint in its large eyes. Leo’s heart skipped a beat; the tales of dragons were often fearsome, yet here was one looking at him with curiosity rather than malice.
-
-“Are you a human?” the little dragon asked, tilting its head in wonder.
-
-“Y-yes!” Leo stammered, still awestruck. “Are you… a dragon?”
-
-“Spark!” the creature announced proudly, puffing out its chest. “And I’m not just any dragon. I can fly, breathe fire, and I’m really good at hide-and-seek!”
-
-Leo couldn’t help but chuckle at the dragon’s enthusiastic spirit. “I’m Leo. I love adventures! Can I be your friend?”
-
-Spark’s eyes widened with delight. “Friend? Yes, please! But you have to promise not to tell anyone about me. Humans don't usually like dragons.”
-
-Nodding earnestly, Leo responded, “I promise!”
-
-With that, a bond was forged. They spent the afternoon exploring the cave, Spark showing Leo hidden crevices that sparkled with crystals and ancient drawings on the stone walls, telling tales of dragons and their human companions. For Leo, it was a world he had only dreamed about—a magical place filled with laughter and adventure.
-
-As twilight painted the sky with hues of orange and purple, Spark gestured toward the cave's entrance. “Can you keep up?”
-
-Before Leo could respond, Spark flapped his tiny yet mighty wings and soared into the air, his silhouette dancing against the evening sky. Leo stood rooted to the spot, awash with exhilaration and a tinge of fear. What if he lost his new friend?
-
-Taking a deep breath, he ran after Spark, who circled back playfully. “Catch me if you can!”
-
-With every step, Leo felt lighter, buoyed by the thrill of the chase and the newfound friendship. Together, they swooped through trees, laughter mingling with the wind, as they journeyed far from the confines of the forest and into the realm of the fantastical.
-
-Yet as the sun dipped below the horizon, casting long shadows around them, Leo knew it was time to return home. “Spark,” he called, panting slightly, “this has been the best day ever! But I have to go back. My mom will worry.”
-
-Spark landed gracefully beside him, eyes softening. “I understand, but you promise to come back?”
-
-“Every day if I can,” Leo declared, sealing the promise with a grin.
-
-As he turned to leave, a final thought crossed his mind. No matter how different they were, every adventure began with a single step into the unknown. With a heart full of dreams, Leo stepped back into the familiar, a new world of wonder awaiting him—one where dragons weren’t just stories, and bravery could spark the greatest friendships.
-`,
-},
-
-{
-title: "The Titan's Duty",
-genre: "Fantasy/Adventure",
-synopsis: "In a world where giants are bound to serve humanity on the high seas, Brogar, a colossal titan with the heart of a gentle giant, finds himself caught between a perilous storm and the greed of his crew. When the ship is attacked by a monstrous sea creature, it’s up to him to save them all, proving that true strength lies not in size, but in sacrifice.",
-url: "https://i.imgur.com/PFVMk9Z.jpeg",
-story: `
-The ship, The Iron Fury, creaked as it breached tumultuous waves, its sails stretched taut against the turbulent sky. Up above, the crew scrambled, shouting orders that were swallowed by the roar of the sea. At the helm of the chaos stood Brogar, a titan of colossal stature, who wielded two brooms as though they were scepters. 
-
-His massive frame swayed with the rhythm of the ocean as he cleaned the deck, a seemingly frivolous task in the face of brewing storms. Yet, this was his duty—a reminder that even titans had their roles among humans. His beard whipped in the salty wind, wild as the very waves that crashed against the ship’s side.
-
-The crew, a ragtag bunch of weathered sailors, huddled at the bow. They gazed up at Brogar while he swept the deck, marveling at the sheer magnitude of his form. At times, they sneered, forgetting that he was once their protector, a guardian against the very perils that now threatened them.
-
-But then the sky darkened and thunder rumbled like a warning. Brogar’s bright eyes narrowed as he sensed the incoming danger. From the depths of the churning waters, a massive tentacled beast emerged, its eyes blazing with fury. Panic spread as the sailors scrambled, shouting for weapons and a plan. 
-
-“Stand firm!” Brogar’s voice boomed like the thunder above. “I will hold it back!”
-
-With a swift motion, he hurled both brooms aside and braced himself against the ship’s railing. As the tentacle lashed out, Brogar leaped into the air, his feet crushing the deck with a tremor that silenced the howling winds for a fleeting moment. The titan soared, a living mountain casting a long shadow over the beast below. When he landed with a ground-shaking thud, the water exploded around him.
-
-With sheer force, he plunged his gigantic hands into the water, grappling with the creature, pulling it away from the ship. The crew, stunned into silence, stared in awe as Brogar engaged in a life-and-death struggle, his muscles taut, his face a mask of fierce determination. It was a battle of sheer will; one man, one titan, against a creature born of nightmares.
-
-“Cut it loose!” Brogar roared, urging the crew to find their courage. They rallied, retrieving harpoons and spears, trawling the edge of the deck. With every strike they landed, the monster shrieked, flailing in rage.
-
-Finally, with a powerful push, Brogar forced the beast to retreat. It writhed in defeat, dragging itself back into the depths from whence it came, leaving behind a calm that settled over the raging waters.
-
-Breathless and soaked, Brogar turned to the crew, who gathered cautiously at the ship’s edge, eyes wide with newfound respect. The titan took a moment to catch his breath, his heart pounding not only from exertion but from the recognition he saw in their faces.
-
-“In a storm or a monster’s wrath, we are all bound together,” he said, his voice softening. “I am your protector, but do not forget your strength. We are a crew, each with a role to play.”
-
-As the clouds parted and the sun broke free, filling the deck with golden light, the crew erupted in cheers. They embraced their giant, no longer viewing him as mere muscle but as a true ally—a friend forged in the fires of chaos.
-
-And thus, The Iron Fury sailed onward, no longer just a vessel of wood and sails, but a ship anchored in the spirit of teamwork, with a titan’s heart leading the way.
 `,
 },
 
@@ -2178,6 +2057,128 @@ Breathless, Kaela leaned against Tharok, their breaths mingling as they savored 
 Tharok nuzzled her gently, the warmth of his scales grounding her. "Together, we can face anything. The darkness will always attempt to rise, but as long as we stand united, it shall be defeated."
 
 As the sun dipped below the horizon, painting the sky in hues of gold and violet, Kaela realized the true meaning of their bond. In a world filled with shadows, they had forged a light—one that would guide them through even the darkest of times. And so they stood, a phoenix rising from the ashes of fear, ready to embrace whatever lay ahead.
+`,
+},
+{
+title: "The Friendship We Never Knew",
+genre: "Fantasy/Children's Adventure",
+synopsis: "In a dusty old attic, a curious boy stumbles upon a friendly ghost named Boo. Together, they explore the hidden wonders of the spirit world, discovering the true meaning of friendship and bravery.",
+url: "https://i.imgur.com/97IQ0ji.jpeg",
+story: `
+On a sunny Saturday afternoon, Timmy discovered the hidden door to the attic while searching for his favorite toy. He had always been eager for adventures, but he never expected this one to involve a glowing, friendly ghost named Boo.
+
+Boo floated in the corner, his round body shimmering with a gentle light that illuminated the dimly lit room. "Hi there!" he squeaked, his wide eyes sparkling with excitement. Timmy blinked in surprise but quickly grinned back, intrigued rather than frightened.
+
+“What are you doing here?” Timmy asked, stepping closer, his little hands reaching out toward the friendly spirit.
+
+“I’ve been waiting for someone to play with!” Boo replied, swirling around with joy. “It can get lonely up here, you know. Would you like to see something magical?”
+
+Timmy nodded eagerly. As the ghost led him deeper into the attic, he saw forgotten treasures: old toys, colorful books, and even a dusty piano. With a flick of Boo’s translucent hand, the piano began to play a merry tune all on its own.
+
+Together, they danced and laughed, hopping around piles of boxes like they were castles, weaving in and out of the shadows. Time slipped away unnoticed, with the attic becoming their enchanted kingdom.
+
+Suddenly, Boo paused, his expression shifting to something more serious. “There’s something I need your help with,” he said, his voice lowering. 
+
+“What is it?” Timmy asked, his heart racing with curiosity.
+
+“I need to find my lost moonstone. It was hidden in the attic long ago, and without it, I can't return to the spirit world.” Boo’s eyes drooped with sadness.
+
+Timmy felt a pang in his chest. He had never met a ghost before, and now he understood the importance of Boo’s quest. “Let’s find it together!” he proclaimed, determination filling his small frame.
+
+They searched every nook and cranny of the attic, climbing on stacked boxes and peeking behind old furniture. They laughed, shared stories, and grew closer with each moment. Finally, after what felt like hours, Timmy spotted a glimmer beneath the floorboards.
+
+“Is that it?” he shouted, pointing excitedly.
+
+Boo floated over, his eyes widening. “Yes! That’s it!” With Timmy’s help, they pried open a loose board, revealing the sparkling moonstone at last. 
+
+With the moonstone reunited, Boo twinkled with joy. “Thank you, Timmy! You helped me find my way home.” He hugged the boy gently, his form becoming even brighter.
+
+Timmy felt a twinge in his heart. “Will I ever see you again?”
+
+Boo smiled, his eyes twinkling. “Our friendship will always be here, even when you can’t see me. Whenever you need adventure, just look to the attic!” 
+
+With that, Boo began to fade, his laughter echoing in the attic before he vanished completely, leaving behind a warmth that filled Timmy’s soul.
+
+From that day on, the attic held a special magic for Timmy. He knew that whether in the spirit world or the one he lived in, friendship could spark in the most unexpected places, reminding him that together, they could create lasting memories even beyond the wall between their worlds.
+`,
+},
+
+
+{
+title: "A Friend in the Shadows",
+genre: "Fantasy/Adventure",
+synopsis: "In a hidden cave surrounded by emerald foliage, a timid boy named Leo stumbles upon a young dragon named Spark, who is just as curious about humans as Leo is about dragons. Together, they embark on an adventure that tests their courage and ignites a friendship that could change their worlds forever.",
+url: "https://i.imgur.com/iVZ266v.jpeg",
+story: `
+The golden sun filtered through the canopy of trees as Leo wandered deeper into the forest. His heart raced with both excitement and trepidation; he was on an adventure, albeit a small one, just beyond the familiarity of home. As he explored, the underbrush rustled with sounds of life—birds chirping and leaves whispering secrets of the woods. Little did he know, today was destined to be different.
+
+After what seemed like hours of wandering, Leo stumbled upon a hidden cave. The entrance was draped in vines and moss, its mouth dark and mysterious. Curiosity piqued, he stepped forward, heart pounding in his chest. “Hello?” he called, his voice echoing eerily within.
+
+To his surprise, a pair of luminous green eyes blinked open in the shadows. Slowly, a dragon emerged from the dimness—a small, chubby creature with scales glimmering like emeralds under the soft light. It had an endearing face and a playful glint in its large eyes. Leo’s heart skipped a beat; the tales of dragons were often fearsome, yet here was one looking at him with curiosity rather than malice.
+
+“Are you a human?” the little dragon asked, tilting its head in wonder.
+
+“Y-yes!” Leo stammered, still awestruck. “Are you… a dragon?”
+
+“Spark!” the creature announced proudly, puffing out its chest. “And I’m not just any dragon. I can fly, breathe fire, and I’m really good at hide-and-seek!”
+
+Leo couldn’t help but chuckle at the dragon’s enthusiastic spirit. “I’m Leo. I love adventures! Can I be your friend?”
+
+Spark’s eyes widened with delight. “Friend? Yes, please! But you have to promise not to tell anyone about me. Humans don't usually like dragons.”
+
+Nodding earnestly, Leo responded, “I promise!”
+
+With that, a bond was forged. They spent the afternoon exploring the cave, Spark showing Leo hidden crevices that sparkled with crystals and ancient drawings on the stone walls, telling tales of dragons and their human companions. For Leo, it was a world he had only dreamed about—a magical place filled with laughter and adventure.
+
+As twilight painted the sky with hues of orange and purple, Spark gestured toward the cave's entrance. “Can you keep up?”
+
+Before Leo could respond, Spark flapped his tiny yet mighty wings and soared into the air, his silhouette dancing against the evening sky. Leo stood rooted to the spot, awash with exhilaration and a tinge of fear. What if he lost his new friend?
+
+Taking a deep breath, he ran after Spark, who circled back playfully. “Catch me if you can!”
+
+With every step, Leo felt lighter, buoyed by the thrill of the chase and the newfound friendship. Together, they swooped through trees, laughter mingling with the wind, as they journeyed far from the confines of the forest and into the realm of the fantastical.
+
+Yet as the sun dipped below the horizon, casting long shadows around them, Leo knew it was time to return home. “Spark,” he called, panting slightly, “this has been the best day ever! But I have to go back. My mom will worry.”
+
+Spark landed gracefully beside him, eyes softening. “I understand, but you promise to come back?”
+
+“Every day if I can,” Leo declared, sealing the promise with a grin.
+
+As he turned to leave, a final thought crossed his mind. No matter how different they were, every adventure began with a single step into the unknown. With a heart full of dreams, Leo stepped back into the familiar, a new world of wonder awaiting him—one where dragons weren’t just stories, and bravery could spark the greatest friendships.
+`,
+},
+
+{
+title: "The Titan's Duty",
+genre: "Fantasy/Adventure",
+synopsis: "In a world where giants are bound to serve humanity on the high seas, Brogar, a colossal titan with the heart of a gentle giant, finds himself caught between a perilous storm and the greed of his crew. When the ship is attacked by a monstrous sea creature, it’s up to him to save them all, proving that true strength lies not in size, but in sacrifice.",
+url: "https://i.imgur.com/PFVMk9Z.jpeg",
+story: `
+The ship, The Iron Fury, creaked as it breached tumultuous waves, its sails stretched taut against the turbulent sky. Up above, the crew scrambled, shouting orders that were swallowed by the roar of the sea. At the helm of the chaos stood Brogar, a titan of colossal stature, who wielded two brooms as though they were scepters. 
+
+His massive frame swayed with the rhythm of the ocean as he cleaned the deck, a seemingly frivolous task in the face of brewing storms. Yet, this was his duty—a reminder that even titans had their roles among humans. His beard whipped in the salty wind, wild as the very waves that crashed against the ship’s side.
+
+The crew, a ragtag bunch of weathered sailors, huddled at the bow. They gazed up at Brogar while he swept the deck, marveling at the sheer magnitude of his form. At times, they sneered, forgetting that he was once their protector, a guardian against the very perils that now threatened them.
+
+But then the sky darkened and thunder rumbled like a warning. Brogar’s bright eyes narrowed as he sensed the incoming danger. From the depths of the churning waters, a massive tentacled beast emerged, its eyes blazing with fury. Panic spread as the sailors scrambled, shouting for weapons and a plan. 
+
+“Stand firm!” Brogar’s voice boomed like the thunder above. “I will hold it back!”
+
+With a swift motion, he hurled both brooms aside and braced himself against the ship’s railing. As the tentacle lashed out, Brogar leaped into the air, his feet crushing the deck with a tremor that silenced the howling winds for a fleeting moment. The titan soared, a living mountain casting a long shadow over the beast below. When he landed with a ground-shaking thud, the water exploded around him.
+
+With sheer force, he plunged his gigantic hands into the water, grappling with the creature, pulling it away from the ship. The crew, stunned into silence, stared in awe as Brogar engaged in a life-and-death struggle, his muscles taut, his face a mask of fierce determination. It was a battle of sheer will; one man, one titan, against a creature born of nightmares.
+
+“Cut it loose!” Brogar roared, urging the crew to find their courage. They rallied, retrieving harpoons and spears, trawling the edge of the deck. With every strike they landed, the monster shrieked, flailing in rage.
+
+Finally, with a powerful push, Brogar forced the beast to retreat. It writhed in defeat, dragging itself back into the depths from whence it came, leaving behind a calm that settled over the raging waters.
+
+Breathless and soaked, Brogar turned to the crew, who gathered cautiously at the ship’s edge, eyes wide with newfound respect. The titan took a moment to catch his breath, his heart pounding not only from exertion but from the recognition he saw in their faces.
+
+“In a storm or a monster’s wrath, we are all bound together,” he said, his voice softening. “I am your protector, but do not forget your strength. We are a crew, each with a role to play.”
+
+As the clouds parted and the sun broke free, filling the deck with golden light, the crew erupted in cheers. They embraced their giant, no longer viewing him as mere muscle but as a true ally—a friend forged in the fires of chaos.
+
+And thus, The Iron Fury sailed onward, no longer just a vessel of wood and sails, but a ship anchored in the spirit of teamwork, with a titan’s heart leading the way.
 `,
 },
 //   {
