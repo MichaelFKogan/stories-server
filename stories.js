@@ -8,14 +8,14 @@ const port = process.env.PORT || 3000;
 const storiesOne = require('./stories/storiesOne');
 const storiesThree = require('./stories/storiesThree');
 const storiesTwo = require('./stories/storiesTwo');
-const jan24 = require('./stories/jan24');
+const jantwentyfour = require('./stories/jantwentyfour');
 
 const stories = [
   // ...top,
   ...storiesTwo,
   ...storiesOne,
   ...storiesThree,
-  ...jan24,
+  ...jantwentyfour,
 ];
 
 app.get('/stories', (req, res) => {

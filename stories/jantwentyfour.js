@@ -1,4 +1,4 @@
-const jan24 = [
+const jantwentyfour = [
 
 
                         {
@@ -930,5 +930,5 @@ As the stars began to twinkle above, Elara felt a new chapter unfurl, her heart 
 ];
 
 
-module.exports = jan24;
+module.exports = jantwentyfour;
 // export default storiesOne;

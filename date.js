@@ -5,7 +5,7 @@ const app = express();
 const port = process.env.PORT || 3000;
 
 // const top = require('./stories/top');
-const jan24 = require('./stories/jan24');
+const jantwentyfour = require('./stories/jantwentyfour');
 const storiesOne = require('./stories/storiesOne');
 const storiesThree = require('./stories/storiesThree');
 const storiesTwo = require('./stories/storiesTwo');
@@ -13,7 +13,7 @@ const storiesTwo = require('./stories/storiesTwo');
 const data = [
     {
     date: "Jan, 24 2025",
-    stories: [...jan24],
+    stories: [...jantwentyfour],
   },
   {
     date: "Jan, 23 2025",
