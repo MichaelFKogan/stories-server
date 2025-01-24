@@ -338,7 +338,7 @@ As night fully enveloped the city, Hana lingered in her reverie, fueled by the m
 {
 title: "Neon Shadows",
 genre: "Cyberpunk Thriller",
-synopsis: "In a neon-lit, dystopian Neo-Tokyo, Kaori, a bio-enhanced bounty hunter known as "The Phantom," hunts down a corrupt CEO who plans to enslave the city's citizens through mind-control technology. After a fierce battle, she dismantles his plan, proving that even in a world ruled by corporations, humanity's resilience cannot be controlled.",
+synopsis: "In a neon-lit, dystopian Neo-Tokyo, Kaori, a bio-enhanced bounty hunter known as 'The Phantom,' hunts down a corrupt CEO who plans to enslave the city's citizens through mind-control technology. After a fierce battle, she dismantles his plan, proving that even in a world ruled by corporations, humanity's resilience cannot be controlled.",
 url: "https://i.imgur.com/Fs7NnpD.jpeg",
 story: `
 In the sprawling megacity of Neo-Tokyo, where neon lights flicker like lost dreams and shadows whisper secrets of the underworld, stood Kaori, a solitary figure cloaked in darkness. Her fitted black armor shimmered under the cascading glow of the city, a haunting reflection of the ever-watchful eyes of the neon lights overhead. With a blade attuned to her every heartbeat strapped to her back, she was a ghost in a world that had forgotten what it meant to be human.
