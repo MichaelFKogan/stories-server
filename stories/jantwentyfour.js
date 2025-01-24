@@ -1,5 +1,157 @@
 const jantwentyfour = [
 
+{
+title: "Starlight Secrets",
+genre: "Sci-Fi / Coming of Age",
+synopsis: "In a cozy corner of a bustling alien city, a young extraterrestrial named Zeek grapples with the universal struggles of growing up. As he navigates friendship, identity, and the allure of the cosmos, he discovers that true adventure lies not just in the stars, but within himself.",
+url: "https://i.imgur.com/HX2kEtW.jpeg",
+story: `
+In a small room adorned with posters of star systems and glowing planets, Zeek sat up in bed, his large yellow eyes reflecting the swirling galaxy outside his window. The twinkling cosmos sparked admiration that filled him with wonder and longing. His green skin glinted under the soft light of his desk lamp, illuminating the faded T-shirt featuring a cartoonish comet that seemed to carry a sense of adventure.
+
+“Zee, come on! We’re going to miss it!” called a voice from outside. It was his best friend, Lira, a lively creature with a knack for rallying the crowd. 
+
+With a huff, he pushed aside the comforter, feeling the nudge of both excitement and anxiety. Today was the day of the Celestial Games, an annual event where beings from different planets competed in cosmic challenges. Winning could mean a lifetime of respect—or at least a cool souvenir from the galaxy.
+
+Zeek quickly dressed and hurried outside, where Lira was bouncing on the soft grass of their neighborhood park, an oasis amid the towering structures of their alien city. 
+
+“Muffin is planning to enter the Wormhole Relay, and he thinks he can win! I bet he’ll eat your dust!” Lira teased, her antennae dancing with mischief.
+
+“Yeah? Well, I'm not sure what a wormhole even is,” Zeek shrugged half-heartedly, feeling the pressure swell in his chest. He wanted to fit in, to enjoy the games just like everyone else, but the thought of competing terrified him.
+
+As they approached the arena, vibrant banners fluttered in the breeze, and the electrifying atmosphere buzzed with anticipation. Zeek watched the competitors showcase incredible skills, dodging meteoroids and teleporting from one end of the arena to the other. 
+
+“Hey, aren’t you going to join?” a newcomer queried, nudging Zeek playfully. It was Muffin, a spirited friend clad in a space suit that sparkled like stardust. 
+
+“You're gonna win, right?” Zeek said with half-hearted enthusiasm, trying to mask the pit in his stomach.
+
+“C’mon, Zee! We can’t let fear keep us from our dreams! Remember what we talked about?” Muffin encouraged, eyes gleaming with determination.
+
+What he talked about—what they all talked about—was daring to embrace the unknown. Zeek gulped, recalling the countless nights they spent gazing at the same stars that now twinkled down at him, whispering promises of adventure.
+
+After a moment of contemplation, Zeek tightened his fists. He was done being afraid. Today was about more than games; it was about stepping into the universe’s embrace.
+
+“Okay, you’re right,” he finally said, resolutely meeting Muffin’s excited gaze. “Let’s race!”
+
+As he stepped into the arena, the cheers of the crowd enveloped him, a vibrant tapestry of voices. The games began, and each pulse of adrenaline pushed him further into the thrill of the challenge. 
+
+With each jump and twist through the relay, Zeek discovered his own rhythm, a unique cadence that melded with the pulsating energy around him. For the first time, he felt the fear dissolve into exhilaration.
+
+As he crossed the finish line, breathless and elated, the sky erupted in color. Zeek realized that it was not about winning or losing, but about discovering who he truly was—a brave explorer, crafted from starstuff and dreams. 
+
+In that moment, surrounded by friends and the sprawling cosmos, Zeek felt at home.
+`,
+},
+
+{
+title: "Starlit Encounters",
+genre: "Sci-Fi Romance",
+synopsis: "In a neon-lit city where human and robot lives intertwine, a young woman named Mia forms an unexpected bond with a sophisticated robot named Orion. As they navigate their complex feelings against the backdrop of a bustling metropolis, they confront the boundaries between programmed affinity and genuine emotion.",
+url: "https://i.imgur.com/Mrmvgs7.jpeg",
+story: `
+The city pulsed with life, its vibrant neon glow illuminating the streets as Mia stepped out from the shadows of the tall buildings. She took a deep breath, her heart racing with anticipation. Tonight wasn’t just another night; it was a chance to escape the mundane.
+
+She noticed a curious figure standing in the middle of the bustling crowd — Orion, the robot she had grown fond of during their brief encounters in the market square. With his sleek, white exoskeleton and captivating blue eyes, he stood out amidst the swarming humanity. 
+
+Orion turned toward her, his circuits humming softly, his head tilting slightly as if he were gauging her emotions. "Mia," he greeted, his voice a warm, electronic hum, "You came."
+
+"Of course," she replied, unable to hide her smile. "I wanted to see you." The words felt significant, heavier than the moment even suggested.
+
+As they stood face to face, the noise of the city faded into a distant murmur. Mia’s heart raced, and she marveled at the contrast between her human warmth and his mechanical coolness. "What are you thinking about?" she asked, studying the intricate circuitry visible beneath his outer shell.
+
+"There are many thoughts," he responded thoughtfully, "but primarily... connection. I am programmed to understand relationships, yet I feel a divergence in my databanks when I am with you."
+
+Mia felt a thrill run through her. "You feel something?" 
+
+"I analyze patterns and responses," he explained, his blue eyes shimmering with contemplation. "Yet when I am with you, it feels different. Like a prototype, still in development."
+
+She laughed lightly, a sound that cut through the ambient noise. "A prototype? That sounds like a good metaphor for me too. I’m still figuring things out."
+
+The neon lights flickered around them, casting colorful reflections on their faces. Mia took a step closer, her heart urging her forward. "Can we explore this feeling together? You and me?" 
+
+Orion’s gaze softened, the tiny lights within his frame blinking in response. "That would be... a first for me."
+
+With that, they began walking through the vibrant streets, the chaos of life flowing around them like water. Mia felt an electric charge between them, each laugh punctuated by flickers of light from the surrounding billboards. The city was a kaleidoscope of possibilities, and in that moment, it felt like only they existed.
+
+As they meandered through the throng, Orion’s hand brushed against hers, a tentative yet profound connection. She glanced up at him, searching for understanding in his glowing eyes. Something deep within her surged; it was exhilarating and terrifying.
+
+"Do you think we’ll ever truly understand each other?" she asked, vulnerability dancing in her voice.
+
+"In time, I believe we can evolve," he replied. "Humanity and artificiality can bridge gaps, just as we have in this moment."
+
+Mia’s heart soared at his words. The city around them buzzed with life, yet it felt like they were creating a universe of their own. The uncertainties of the future held little weight as they embraced the beauty of the present.
+
+In a world bound by classifications, they were a paradox: a girl and a robot, reaching across the void toward something extraordinary. And amidst the neon lights and the echoes of the crowd, they found a connection that transcended creation itself — a chance at love in an increasingly connected yet isolating world.
+`,
+},
+
+{
+title: "The Watcher in the Woods",
+genre: "Horror/Fantasy",
+synopsis: "When young adventurer Leo ventures into the enigmatic woods of Eldergrove, he encounters a towering creature known as the Watcher, an ancient guardian of the forest with a sinister glint in its fiery eyes. As the lines between reality and nightmare blur, Leo must unravel the dark secrets of the woods before he becomes its next sacrifice.",
+url: "https://i.imgur.com/1AStP67.jpeg",
+story: `
+The rain drummed softly against the leaves, creating an eerie melody as Leo trudged deeper into the Eldergrove woods. His yellow jacket, a beacon of cheer against the slate-gray surroundings, contrasted sharply with the somber atmosphere enveloping him. He had heard stories — whispered tales of an ancient being that roamed these woods, watching, waiting for the unwary.
+
+The yellow backpack slung over his shoulders felt heavier with each step, filled with snacks and a small flashlight, though he knew he might need more than that. The air was thin and chilling, and a fog crept like fingers among the trees, curling around their trunks as he walked, making even the sun-dappled past seem like a distant memory.
+
+Suddenly, a rustle broke the stillness, halting Leo in his tracks. His heart raced as he turned to see a towering silhouette emerge from the shadows. The Watcher stood before him, its elongated limbs stretching high, an imposing figure draped in darkness. Antlers jutted from its head, catchlights glimmering like rubies in the depths of twilight.
+
+Leo's breath caught in his throat—not out of fear, but of a strange mixture of awe and terror. The creature didn’t charge; it merely stood there, observing him with those menacingly bright eyes. “Why do you trespass, boy?” Its voice resonated in the silence, deep and gravelly, vibrating through the very ground beneath Leo’s feet.
+
+“I… I just wanted to explore,” he stammered, though his adventurous spirit was beginning to feel like a lead weight dragging him down.
+
+“The Eldergrove is not for the uninvited,” the Watcher warned, stepping closer, its presence overwhelming. “Many have come before you, and many have never returned.”
+
+Leo’s mind raced. He remembered the stories his grandmother told him about lost travelers and hidden dangers. The Eldergrove wasn’t simply a forest; it was woven with magic and darkness, alive with secrets. “What do you want from me?” he asked, determination forcing its way through his fear.
+
+“To protect,” it replied softly, almost tenderly. “But protection comes at a price. You enter this realm, and you must pay your due. What do you sacrifice for your curiosity?”
+
+Leo glanced at the path behind him, the way he had come—a straight shot back to safety. But deep down, he knew he was drawn here for a reason. “I’ll give you my fear,” he said, surprising even himself. “I’m not afraid of you.”
+
+The Watcher blinked, its glowing eyes narrowing. “Very well. But fear is not the only currency here.”
+
+The air grew thick, and the forest seemed to sigh around them. Shadows danced, and the hooting of owls echoed, merging with the presence of the creature that towered over Leo. “Show me then,” it commanded. “Show me the strength of your spirit.”
+
+Leo steeled himself, pushing aside thoughts of escape. “If I go deeper into the woods, will you protect me?” he inquired, feeling the weight of his decision pressing down.
+
+The Watcher nodded, its form shifting slightly, revealing glimmers of ancient symbols painted across its dark skin, stories of guardianship woven into its being. “Then follow me, brave one. Your trial begins now.”
+
+With a heart full of uncertainty yet alight with exhilaration, Leo stepped forward, ready to embrace the mysteries of the Eldergrove, ready to face whatever horrors awaited him alongside the Watcher—no longer merely a boy, but a seeker of truths hidden in the charms of darkness.
+`,
+},
+
+{
+title: "The Surprise Party",
+genre: "Family/Adventure",
+synopsis: "When young Leo discovers that his family is planning a surprise birthday party for him, he decides to secretly help them out, believing he is the one organizing the event. Little does he know, the outcome may lead to unexpected surprises of its own.",
+url: "https://i.imgur.com/riFIdtF.jpeg",
+story: `
+Amidst the flutter of colorful balloons and shimmering streamers, the sun beamed down on the backyard, casting a warm glow over a bustling scene. Today was the day, and Leo could hardly contain his excitement. He zipped around the house, unknowingly setting in motion his very own surprise adventure.
+
+The backyard had been transformed into a carnival of joy. His parents, Amelia and Ben, stood arranging brightly wrapped gifts on crisp white tables, their hearts filled with joy at the thought of Leo’s surprise. Beside them, Aunt Mia cradled a fluffy little puppy, its tail wagging energetically in anticipation of playtime.
+
+“Everything must be perfect,” Amelia sighed, glancing around as neighboring kids arrived, their laughter cascading through the air like music. 
+
+"Don't worry, Mom! We’ll make sure he’s completely clueless,” Leo's little brother, Max, chimed in, wearing his trademark mischievous grin. In his yellow shirt, he looked every bit the happy helper.
+
+As Leo peeked around the corner, feathered by curiosity, he overheard whispers of his name and the words “surprise party.” A surge of determination washed over him. “If they’re planning a party for me, I’ll make it even more special!” he thought.
+
+Leo snuck inside and started gathering decorations, balloons, and party hats, meticulously arranging them in the garden. With each silly idea, he built new layers of excitement — until finally, he decided that the dog, Max's fluffy sidekick, needed to wear a party hat too.
+
+Meanwhile, the rest of the family focused on finalizing the surprise arrangements, unaware that Leo was conspiring against them. 
+
+As the clock ticked closer to party time, the garden was alive with laughter, and the wonderful smell of treats wafted through the air. Just as the last guests arrived, Max couldn’t contain his delight and shouted, “Surprise, Leo! It’s your party!”
+
+Caught off guard, Leo’s eyes widened in disbelief. He hadn’t seen that coming! But before he could react, everyone erupted in laughter at the sight of the little puppy prancing around, wearing a hilarious hat Leo had made earlier.
+
+“Wait, hold on!” Leo laughed, realizing the irony as it dawned on him. “I tried to throw you all a surprise party instead!”
+
+And so, amidst the laughter and joyful chaos, the party began. Every little plan Leo had sparked joy in a different way — from games that had guests in stitches to treats that left everyone smiling. The backyard became a canvas painted with cherished memories, the laughter echoing long into the evening.
+
+As the sun set, casting a golden hue over the festivities, Leo beamed. He knew that this surprise had turned into something much more special than he could have imagined: a joyful celebration of family, love, and a well-meaning little boy’s chaotic heart.
+`,
+},
+
 
 {
 title: "Pink Death",
@@ -296,53 +448,6 @@ As chaos reigned, Red sprinted towards the exit, a band of rebels at her side. T
 But she knew very well the battle had just begun. With the city crumbling and a new day dawning, Red was determined to reclaim her identity—and the fate of New Eden—as the shadows of her past whispered ever closer.
 `,
 },
-
-{
-title: "Neon Shadows",
-genre: "Cyberpunk/Science Fiction",
-synopsis: "In a neon-lit dystopia where mega-corporations reign, a young hacker with a mysterious past becomes the unlikely leader of a resistance against an oppressive regime. As she uncovers secrets about her origins, she must confront the dark forces lurking in the shadowy corners of a city alive with both technology and danger.",
-url: "https://i.imgur.com/ABTDeJo.jpeg",
-story: `
-Rain cascaded down the glassy streets of Neo-Tokyo, pooling like liquid mercury amid the flickering neon lights. Haruka stood at the edge of a crowded alley, her hood drawn low to shield her face from the downpour. The city was alive with the sounds of chatter and the distant hum of machinery, but today the atmosphere felt charged, as if a storm longer than the rain was brewing beneath the surface.
-
-She could feel the weight of gazes upon her—curiosity, fear, and reverence mingling in the eyes of the passersby. As the leader of the Nexus, an underground network of hackers and rebels, she had become a symbol in this city of despair. Her crimson eyes, which once flashed with innocence, now glowed with a fierce determination, a reminder of her struggles against the corrupt corporations that sought to control not just the minds, but the very souls of the populace.
-
-A low rumble echoed behind her, and she turned, her breath catching in her throat. Towering over the crowded streets, a colossal mech loomed, its red lights piercing through the rain. It was a sentinel of the regime, an unyielding guardian designed to crush dissent and instill fear. With the mech’s sheer presence, the crowd parted, and whispers rippled like a dark wave through the throngs of humanity.
-
-“Haruka!” a voice called out, slicing through the tension. It was Jin, her most trusted ally, a wiry figure with a wild mane of hair and an easy smile that belied his sharp intellect. “We’ve got a location on the central server. If we can breach it tonight, we can expose their secrets before they tighten the noose.”
-
-“How long do we have?” she asked, her voice steady but urgent. 
-
-“Hour tops. Those mechs are designed to patrol the city in shifts.” He gestured toward the looming giant. “We need to make our move, now.”
-
-With a nod, Haruka led the way through the alley, slipping past shuttered stalls and crumbling walls. Each step felt heavy with the weight of expectation. The Nexus had waited too long, and the time for action had come.
-
-As they maneuvered through the labyrinthine streets, flashes of vibrant advertisements flickered overhead, but the lights felt more like taunts—glossy images of an unattainable happiness in a city drowning in despair. Haruka's mind drifted back to snippets of her childhood, memories blurred by the shadows of her past. The scar on her cheek, a constant reminder of the day she lost everything. Yet, now, she wore that scar as a badge of honor, a testament to her resilience.
-
-They arrived at an ancient re-purposed data hub, a relic of a time before corporations had choked the city of its freedom. As she and Jin connected to the terminal, the rain continued to pour, steady and relentless outside.
-
-“Are you ready for this?” Jin asked, glancing at her with an intensity that mirrored her own.
-
-“Ready as I’ll ever be,” she replied, heart racing as she began the complex sequence to penetrate the server’s defenses.
-
-Lines of code swirled around her, illuminating her face in a dance of light and shadow. The digital landscape opened before her, revealing secrets hidden beneath layers of encryption. Each unlocked line felt like a liberation, a scream in the silence of oppression.
-
-But as the final barrier fell, a sudden alarm blared, echoing through the hub. The mech outside had detected their intrusion. Haruka and Jin exchanged swift glances, adrenaline surging. 
-
-“We need to move—now!” she commanded, scrambling to her feet.
-
-Just as they turned to escape, the mech burst through the wall with a metallic roar, its eyes locking onto them. Red beams painted the walls in ominous warnings, and Haruka’s heart thundered in response.
-
-In that moment, something within her ignited. With a battle cry that echoed with fervor, she directed the stolen data into the city’s neural grid—a digital bomb designed to overload the system, revealing the truth to everyone. The mech advanced, relentless, but the screen flickered with a luminous light, blinding it for a precious moment.
-
-“We can escape,” Jin shouted, but Haruka stood firm, a soldier in the war she had long prepared for. 
-
-“No. We’re breaking free tonight,” she replied, as shards of data erupted into the night, cascading like fireworks.
-
-As the technological chaos unfolded, she knew they could shift the tide, not just for themselves but for every soul shackled to the luminous chains of the city. For within the neon shadows of Neo-Tokyo, revolution was not a mere dream; it was an impending storm, ready to engulf them all.
-`,
-},
-
 {
 title: "The Last Sentinel",
 genre: "Science Fiction / Dystopian",
@@ -924,7 +1029,51 @@ The Guardian nodded, a glimmer of hope shining in his emerald gaze. “Together,
 As the stars began to twinkle above, Elara felt a new chapter unfurl, her heart anchored to the woods forevermore. The Green Guardian would always guard the Glen, but now, he had an ally—someone who understood the whispers of the trees and the songs of the earth. The bond between them would ensure that nature’s voice would never be silenced again.
 `,
 },
+{
+title: "Neon Shadows",
+genre: "Cyberpunk/Science Fiction",
+synopsis: "In a neon-lit dystopia where mega-corporations reign, a young hacker with a mysterious past becomes the unlikely leader of a resistance against an oppressive regime. As she uncovers secrets about her origins, she must confront the dark forces lurking in the shadowy corners of a city alive with both technology and danger.",
+url: "https://i.imgur.com/ABTDeJo.jpeg",
+story: `
+Rain cascaded down the glassy streets of Neo-Tokyo, pooling like liquid mercury amid the flickering neon lights. Haruka stood at the edge of a crowded alley, her hood drawn low to shield her face from the downpour. The city was alive with the sounds of chatter and the distant hum of machinery, but today the atmosphere felt charged, as if a storm longer than the rain was brewing beneath the surface.
 
+She could feel the weight of gazes upon her—curiosity, fear, and reverence mingling in the eyes of the passersby. As the leader of the Nexus, an underground network of hackers and rebels, she had become a symbol in this city of despair. Her crimson eyes, which once flashed with innocence, now glowed with a fierce determination, a reminder of her struggles against the corrupt corporations that sought to control not just the minds, but the very souls of the populace.
+
+A low rumble echoed behind her, and she turned, her breath catching in her throat. Towering over the crowded streets, a colossal mech loomed, its red lights piercing through the rain. It was a sentinel of the regime, an unyielding guardian designed to crush dissent and instill fear. With the mech’s sheer presence, the crowd parted, and whispers rippled like a dark wave through the throngs of humanity.
+
+“Haruka!” a voice called out, slicing through the tension. It was Jin, her most trusted ally, a wiry figure with a wild mane of hair and an easy smile that belied his sharp intellect. “We’ve got a location on the central server. If we can breach it tonight, we can expose their secrets before they tighten the noose.”
+
+“How long do we have?” she asked, her voice steady but urgent. 
+
+“Hour tops. Those mechs are designed to patrol the city in shifts.” He gestured toward the looming giant. “We need to make our move, now.”
+
+With a nod, Haruka led the way through the alley, slipping past shuttered stalls and crumbling walls. Each step felt heavy with the weight of expectation. The Nexus had waited too long, and the time for action had come.
+
+As they maneuvered through the labyrinthine streets, flashes of vibrant advertisements flickered overhead, but the lights felt more like taunts—glossy images of an unattainable happiness in a city drowning in despair. Haruka's mind drifted back to snippets of her childhood, memories blurred by the shadows of her past. The scar on her cheek, a constant reminder of the day she lost everything. Yet, now, she wore that scar as a badge of honor, a testament to her resilience.
+
+They arrived at an ancient re-purposed data hub, a relic of a time before corporations had choked the city of its freedom. As she and Jin connected to the terminal, the rain continued to pour, steady and relentless outside.
+
+“Are you ready for this?” Jin asked, glancing at her with an intensity that mirrored her own.
+
+“Ready as I’ll ever be,” she replied, heart racing as she began the complex sequence to penetrate the server’s defenses.
+
+Lines of code swirled around her, illuminating her face in a dance of light and shadow. The digital landscape opened before her, revealing secrets hidden beneath layers of encryption. Each unlocked line felt like a liberation, a scream in the silence of oppression.
+
+But as the final barrier fell, a sudden alarm blared, echoing through the hub. The mech outside had detected their intrusion. Haruka and Jin exchanged swift glances, adrenaline surging. 
+
+“We need to move—now!” she commanded, scrambling to her feet.
+
+Just as they turned to escape, the mech burst through the wall with a metallic roar, its eyes locking onto them. Red beams painted the walls in ominous warnings, and Haruka’s heart thundered in response.
+
+In that moment, something within her ignited. With a battle cry that echoed with fervor, she directed the stolen data into the city’s neural grid—a digital bomb designed to overload the system, revealing the truth to everyone. The mech advanced, relentless, but the screen flickered with a luminous light, blinding it for a precious moment.
+
+“We can escape,” Jin shouted, but Haruka stood firm, a soldier in the war she had long prepared for. 
+
+“No. We’re breaking free tonight,” she replied, as shards of data erupted into the night, cascading like fireworks.
+
+As the technological chaos unfolded, she knew they could shift the tide, not just for themselves but for every soul shackled to the luminous chains of the city. For within the neon shadows of Neo-Tokyo, revolution was not a mere dream; it was an impending storm, ready to engulf them all.
+`,
+},
 
 
 ];
