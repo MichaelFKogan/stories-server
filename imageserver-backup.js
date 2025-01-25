@@ -105,8 +105,8 @@ const processImage = async (imageUrl) => {
                     }, ],
                 });
 
-                console.log("Full API response:", response);
-                console.log("Full API response:", JSON.stringify(response, null, 2));
+                // console.log("Full API response:", response);
+                // console.log("Full API response:", JSON.stringify(response, null, 2));
 
                 const newResponse = response.choices[0].message.content;
                 const cleanedResponse = removeMarkdown(newResponse);
@@ -120,36 +120,30 @@ const processImage = async (imageUrl) => {
 
                 // Extract components from the cleaned response
                 const match = cleanedResponse.match(
-                    /Title:\s*(.*?)\s*Genre:\s*(.*?)\s*Synopsis:\s*(.*?)\s*Story:([\s\S]+)/
+                    /Title:\s*(.*?)\s*Genre:\s*(.*?)\s*Synopsis:\s*(.*?)\s*Short Story:([\s\S]+)/
                 );
 
-                if (!match) {
-                    console.error("Failed to parse response content. Cleaned response:", cleanedResponse);
-                    failedImages.push(imageUrl);
-                    return;
-                
 
-                const [, title, genre, synopsis, story] = match;
-                console.log("Parsed response successfully:", { title, genre, synopsis, story });
+                if (match) {
+                    const [_, title, genre, synopsis, story] = match;
 
+                    // Clean the title (remove quotes and markdown)
+                    const cleanedTitle = title.trim().replace(/^"|"$/g, '').replace(/[*_~`]/g, '');
 
-                // Clean the title (remove quotes and markdown)
-                const cleanedTitle = title.trim().replace(/^"|"$/g, '').replace(/[*_~`]/g, '');
+                    // Log the title completion
+                    console.log(`Title Complete: ${cleanedTitle}`);
 
-                // Log the title completion
-                console.log(`Title Complete: ${cleanedTitle}`);
-
-                // Format the result
-                const formattedResult = `
-                    {
-                      title: "${cleanedTitle.trim()}",
-                      genre: "${genre.trim()}",
-                      synopsis: "${synopsis.trim()}",
-                      url: "${imageUrl}",
-                      story: \`
-                ${story.trim()}
-                      \`,
-                    },`;
+                    // Format the result
+                    const formattedResult = `
+                        {
+                          title: "${cleanedTitle.trim()}",
+                          genre: "${genre.trim()}",
+                          synopsis: "${synopsis.trim()}",
+                          url: "${imageUrl}",
+                          story: \`
+                    ${story.trim()}
+                          \`,
+                        },`;
 
 
                     // console.log("Formatted Result:", formattedResult);
