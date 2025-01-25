@@ -1,3 +1,4 @@
+const jantwentyfive = [
 
 {
 title: "The Grumpy Guardian",
@@ -1010,3 +1011,10 @@ The shadows grew darker, the menacing figures closing in, but Lyra stood resilie
 As they forged onward, Lyra knew she would reclaim not only her memories but also her fate. The world was uncertain, but with each step, she ignited a new spark of hope in the face of the approaching darkness.
 `,
 },
+
+
+];
+
+
+module.exports = jantwentyfive;
+

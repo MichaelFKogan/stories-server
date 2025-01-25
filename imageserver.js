@@ -35,38 +35,37 @@ const removeMarkdown = (text) => {
 };
 
 const imageUrls = [
-// "https://i.imgur.com/wUq3CS9.jpeg",
-// "https://i.imgur.com/I6nkgnM.jpeg",
-// "https://i.imgur.com/VzvzvlH.jpeg",
-// "https://i.imgur.com/DNkimcp.jpeg",
-// "https://i.imgur.com/enXWyPi.jpeg",
-// "https://i.imgur.com/7ehWihU.jpeg",
-// "https://i.imgur.com/RtZGiKV.jpeg",
-// "https://i.imgur.com/Ubg1Y6s.jpeg",
-// "https://i.imgur.com/uQWQzh8.jpeg",
-// "https://i.imgur.com/MWwGKGX.jpeg",
-// "https://i.imgur.com/rAVc0Z2.jpeg",
-// "https://i.imgur.com/evZIibQ.jpeg",
-// "https://i.imgur.com/P5eEoy4.jpeg",
-// "https://i.imgur.com/K5XiVAg.jpeg",
-// "https://i.imgur.com/h32jIGc.jpeg",
-// "https://i.imgur.com/Yrlwm2P.jpeg",
-// "https://i.imgur.com/1AStP67.jpeg",
-// "https://i.imgur.com/Isz6RYU.jpeg",
-// "https://i.imgur.com/3L1pkjE.jpeg",
-"https://i.imgur.com/riFIdtF.jpeg",
-"https://i.imgur.com/1AStP67.jpeg",
-"https://i.imgur.com/Mrmvgs7.jpeg",
-"https://i.imgur.com/HX2kEtW.jpeg",
-// "https://i.imgur.com/6lmvEVf.jpeg",
-// "https://i.imgur.com/ABTDeJo.jpeg",
-// "https://i.imgur.com/qbDn5bQ.jpeg",
-// "https://i.imgur.com/LNFlWCX.jpeg",
-// "https://i.imgur.com/sNbN9DI.jpeg",
-// "https://i.imgur.com/aYMjIWF.jpeg",
+// "https://i.imgur.com/W397xLR.jpeg",
+// "https://i.imgur.com/shqCrOl.jpeg",
+// "https://i.imgur.com/66SbEQR.jpeg",
+// "https://i.imgur.com/uegPxml.jpeg",
+// "https://i.imgur.com/kVYD4Wf.jpeg",
+// "https://i.imgur.com/8TrguHp.jpeg",
+// "https://i.imgur.com/YXt3l97.jpeg",
+// "https://i.imgur.com/YAKPhF7.jpeg",
+// "https://i.imgur.com/9HYPYtq.jpeg",
+// "https://i.imgur.com/LKklEyD.jpeg",
+// "https://i.imgur.com/nbJ12km.jpeg",
+// "https://i.imgur.com/ar78fla.jpeg",
+// "https://i.imgur.com/OVPjxTE.jpeg",
+// "https://i.imgur.com/HiCbCuC.jpeg",
+// "https://i.imgur.com/6qFXjDo.jpeg",
+// "https://i.imgur.com/yRkxdIX.jpeg",
+// "https://i.imgur.com/BRi2G12.jpeg",
+// "https://i.imgur.com/5YFWkHB.jpeg",
+// "https://i.imgur.com/5msGqsB.jpeg",
+// "https://i.imgur.com/LzRSeOV.jpeg",
+// "https://i.imgur.com/CzdBOUI.jpeg",
+// "https://i.imgur.com/1hpZr7U.jpeg",
+// "https://i.imgur.com/2R9r0r6.jpeg",
+// "https://i.imgur.com/FrHr0gP.jpeg",
+// "https://i.imgur.com/7kilubw.jpeg",
+// "https://i.imgur.com/RzAyIkX.jpeg",
+// "https://i.imgur.com/KRCjSmY.jpeg",
 ];
 
 const sleep = (ms) => new Promise(resolve => setTimeout(resolve, ms));
+const failedImages = []; 
 
 const processImage = async (imageUrl) => {
             try {
@@ -81,7 +80,7 @@ const processImage = async (imageUrl) => {
                             { type: "text", text: `
               Analyze this image from Midjourney with the purpose of creating a short story.
 
-              Give me a title, genre, 1-2 senence synopsis, and create a short story based around the image.
+              Give me a title, genre, 1-2 sentence synopsis, and create a short story based around the image.
 
               Take into account the photo's background, the character, the character's activity, and other characters, when putting the story into context.
             ` },
@@ -150,9 +149,11 @@ const processImage = async (imageUrl) => {
                     console.log("Response saved successfully!");
                 } else {
                     console.error("Failed to parse the response. Please check the API output.");
+                    failedImages.push(imageUrl); // Add to failed list
                 }
             } catch (error) {
                 console.error("Error:", error);
+                failedImages.push(imageUrl); // Add to failed list
             }
           };
 
@@ -160,9 +161,17 @@ const processImage = async (imageUrl) => {
             (async () => {
                 for (const imageUrl of imageUrls) {
                     await processImage(imageUrl);
-                    await sleep(5000); // Wait for the API call to finish before moving to the next image
+                    await sleep(5000);
                 }
-            console.log("PROCESS COMPLETE");
+
+                console.log("Initial processing complete. Retrying failed images...");
+
+                for (const imageUrl of failedImages) {
+                    await processImage(imageUrl);
+                    await sleep(5000);
+                }
+
+                console.log("PROCESS COMPLETE");
             })();
 
 

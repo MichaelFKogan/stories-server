@@ -9,6 +9,7 @@ const storiesOne = require('./stories/storiesOne');
 const storiesThree = require('./stories/storiesThree');
 const storiesTwo = require('./stories/storiesTwo');
 const jantwentyfour = require('./stories/jantwentyfour');
+const jantwentyfive = require('./stories/jantwentyfive');
 
 const stories = [
   // ...top,
@@ -16,6 +17,7 @@ const stories = [
   ...storiesOne,
   ...storiesThree,
   ...jantwentyfour,
+  ...jantwentyfive,
 ];
 
 app.get('/stories', (req, res) => {
