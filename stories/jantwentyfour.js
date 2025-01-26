@@ -476,7 +476,7 @@ And perhaps, just perhaps, from the wreckage of civilization, a new dawn would a
 
 {
 title: "The Dynamic Duo and the Cat Extraordinaire",
-genre: "Family, Adventure, Comedy",
+genre: "Family",
 synopsis: "When the quirky Brady family, known for their unique superpowers and a passion for impromptu heroics, faces their biggest challenge yet, they enlist the help of their hyper-intelligent cat, Whiskers. Together, they embark on a thrilling adventure filled with laughter, teamwork, and unexpected obstacles.",
 url: "https://i.imgur.com/3L1pkjE.jpeg",
 story: `
