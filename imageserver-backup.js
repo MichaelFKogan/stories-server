@@ -21,8 +21,8 @@ const removeMarkdown = (text) => {
     text = text.replace(/^#{1,6}\s*(.*?)$/gm, '$1');
     // Remove horizontal lines (---, ***, ===)
     text = text.replace(/^\s*[-=*]{3,}\s*$/gm, '');
-    // Remove code blocks ()
-    text = text.replace(/[\s\S]*?/g, '');
+    // Remove code blocks (```)
+    text = text.replace(/```[\s\S]*?```/g, '');
     // Remove inline code (`)
     text = text.replace(/`(.*?)`/g, '$1');
     // Remove links [text](url)
@@ -35,33 +35,47 @@ const removeMarkdown = (text) => {
 };
 
 const imageUrls = [
-// "https://i.imgur.com/W397xLR.jpeg",
-// "https://i.imgur.com/shqCrOl.jpeg",
-// "https://i.imgur.com/66SbEQR.jpeg",
-// "https://i.imgur.com/uegPxml.jpeg",
-// "https://i.imgur.com/kVYD4Wf.jpeg",
-// "https://i.imgur.com/8TrguHp.jpeg",
-// "https://i.imgur.com/YXt3l97.jpeg",
-// "https://i.imgur.com/YAKPhF7.jpeg",
-// "https://i.imgur.com/9HYPYtq.jpeg",
-// "https://i.imgur.com/LKklEyD.jpeg",
-// "https://i.imgur.com/nbJ12km.jpeg",
-// "https://i.imgur.com/ar78fla.jpeg",
-// "https://i.imgur.com/OVPjxTE.jpeg",
-// "https://i.imgur.com/HiCbCuC.jpeg",
-"https://i.imgur.com/6qFXjDo.jpeg",
-// "https://i.imgur.com/yRkxdIX.jpeg",
-// "https://i.imgur.com/BRi2G12.jpeg",
-"https://i.imgur.com/5YFWkHB.jpeg",
-// "https://i.imgur.com/5msGqsB.jpeg",
-// "https://i.imgur.com/LzRSeOV.jpeg",
-// "https://i.imgur.com/CzdBOUI.jpeg",
-// "https://i.imgur.com/1hpZr7U.jpeg",
-// "https://i.imgur.com/2R9r0r6.jpeg",
-// "https://i.imgur.com/FrHr0gP.jpeg",
-// "https://i.imgur.com/7kilubw.jpeg",
-"https://i.imgur.com/RzAyIkX.jpeg",
-// "https://i.imgur.com/KRCjSmY.jpeg",
+// "https://i.imgur.com/FRJn14Q.jpeg",
+// "https://i.imgur.com/wqfDppr.jpeg",
+// "https://i.imgur.com/iREGbKQ.jpeg",
+// "https://i.imgur.com/cSpJylX.jpeg",
+// "https://i.imgur.com/2PZoqqe.jpeg",
+// "https://i.imgur.com/uMXfsBa.jpeg",
+// "https://i.imgur.com/xjIrZbM.jpeg",
+// "https://i.imgur.com/TNy4WkX.jpeg",
+// "https://i.imgur.com/WuVtUw6.jpeg",
+// "https://i.imgur.com/iEUMOzX.jpeg",
+// "https://i.imgur.com/uePI7Uo.jpeg",
+// "https://i.imgur.com/YKh6ZT4.jpeg",
+// "https://i.imgur.com/y8VyEQm.jpeg",
+// "https://i.imgur.com/pAvxKb2.jpeg",
+// "https://i.imgur.com/O3Tnga9.jpeg",
+// "https://i.imgur.com/KIwLAwf.jpeg",
+// "https://i.imgur.com/wjxJZaq.jpeg",
+// "https://i.imgur.com/nR7d5GV.jpeg",
+// "https://i.imgur.com/iFGda1h.jpeg",
+// "https://i.imgur.com/bVGeVIe.jpeg",
+// "https://i.imgur.com/PW1P9q1.jpeg",
+// "https://i.imgur.com/oC787MC.jpeg",
+// "https://i.imgur.com/gCNblho.jpeg",
+// "https://i.imgur.com/4ubT3PC.jpeg",
+// "https://i.imgur.com/tMsZJ6t.jpeg",
+// "https://i.imgur.com/uJKG1n7.jpeg",
+// "https://i.imgur.com/6g0IubD.jpeg",
+// "https://i.imgur.com/BbpjS8N.jpeg",
+// "https://i.imgur.com/FKumNYg.jpeg",
+// "https://i.imgur.com/7oEzASS.jpeg",
+// "https://i.imgur.com/FdjiW7G.jpeg",
+// "https://i.imgur.com/2tfmboi.jpeg",
+// "https://i.imgur.com/ERMUJuE.jpeg",
+// "https://i.imgur.com/DX9AwvY.jpeg",
+// "https://i.imgur.com/VzVBMS8.jpeg",
+// "https://i.imgur.com/pW4ZxON.jpeg",
+// "https://i.imgur.com/MJ5OIep.jpeg",
+// "https://i.imgur.com/dj1kHpL.jpeg",
+// "https://i.imgur.com/L4vtoC3.jpeg",
+// "https://i.imgur.com/ifBtfTJ.jpeg",
+// "https://i.imgur.com/MCJcItI.jpeg",
 ];
 
 const sleep = (ms) => new Promise(resolve => setTimeout(resolve, ms));
@@ -79,7 +93,7 @@ const processImage = async (imageUrl) => {
                             { type: "text", text: `
               Analyze this image from Midjourney with the purpose of creating a short story.
 
-              Give me a title, genre, 1-2 sentence synopsis, and create a short story based around the image.
+              Give me a title, genre, 1-2 senence synopsis, and create a short story based around the image.
 
               Take into account the photo's background, the character, the character's activity, and other characters, when putting the story into context.
             ` },
@@ -162,3 +176,49 @@ const processImage = async (imageUrl) => {
                 }
             console.log("PROCESS COMPLETE");
             })();
+
+
+
+
+
+
+
+
+            // const OpenAI = require("openai");
+            // const dotenv = require("dotenv");
+
+            // dotenv.config(); // Load environment variables from .env file
+
+            // const openai = new OpenAI({
+            //   apiKey: process.env.OPENAI_API_KEY, // Ensure your API key is set up
+            // });
+
+            // (async () => {
+            //   try {
+            //     const response = await openai.chat.completions.create({
+            //       model: "gpt-4o-mini", // Replace with the correct model name
+            //       messages: [
+            //         {
+            //           role: "user",
+            //           content: [
+            //             { type: "text", text: `
+            //               Analyze this image from Midjourney with the purpose of creating a short story.
+
+            //               Give me a title, genre, 1-2 senence synopsis, and create a short story based around the image.
+
+            //               Take into account the photo's background, the character, the character's activity, and other characters, when putting the story into context.
+            //             ` },
+            //             {
+            //               type: "image_url",
+            //               image_url: { url: "https://i.imgur.com/UL6GWrD.jpg" },
+            //             },
+            //           ],
+            //         },
+            //       ],
+            //     });
+
+            //     console.log(response.choices[0].message.content);
+            //   } catch (error) {
+            //     console.error("Error:", error);
+            //   }
+            // })();
