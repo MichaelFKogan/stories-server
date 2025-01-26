@@ -277,7 +277,7 @@ The group watched in awe as the colossal figure teetered, its systems crashing i
 },
 {
 title: "The Dinner Guests",
-genre: Horror,
+genre: "Horror",
 synopsis: "In a dimly lit room, a grotesque being hosts an unsettling dinner with two eerie girls, revealing dark secrets and unspoken fears. As the night unfolds, they must confront the horrifying truth behind their shared past.",
 url: "https://i.imgur.com/4ubT3PC.jpeg",
 story: `In a small, forgotten town, a sinister entity named Oink sat at the head of a table set for three. Cloaked in a blood-stained shirt and a mask of pigskin, he watched intently as two sisters, Yuki and Hana, exchanged timid glances, their crimson eyes reflecting both terror and curiosity. The air was thick with tension, and the dim light hanging above cast long shadows that flickered with memories of their childhood. 
