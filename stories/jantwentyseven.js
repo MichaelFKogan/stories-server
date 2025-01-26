@@ -25,7 +25,7 @@ As she left the chamber, the sun dipped below the horizon, casting the world ane
 {
 title: "Shadows of the Lost City",
 genre: "Sci-Fi Adventure",
-synopsis: "In a post-apocalyptic world, a group of survivors known as "The Shadows" embarks on a dangerous mission to reclaim their city from mutated creatures and rival clans. As they navigate through the decaying streets, they must confront not only external threats but also the demons within their own souls.",
+synopsis: "In a post-apocalyptic world, a group of survivors known as 'The Shadows' embarks on a dangerous mission to reclaim their city from mutated creatures and rival clans. As they navigate through the decaying streets, they must confront not only external threats but also the demons within their own souls.",
 url: "https://i.imgur.com/DgQvGVy.jpeg",
 story: `
 In the heart of a crumbling metropolis, where sunlight struggled to break through layers of grime and decay, a small group of survivors stood poised at the entrance of a derelict building. They were known as "The Shadows," a name that reflected both their stealth and the weight of their mission. Each of them bore the scars of loss, clinging to remnants of hope amidst the past's ashes. The leader, Kaito, stood at the forefront, gripping his modified rifle tightly, the soft glow of the setting sun accentuating the determination in his blue eyes. 
