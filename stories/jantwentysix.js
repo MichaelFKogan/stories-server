@@ -472,7 +472,7 @@ As the drones overhead whirred in confusion, the tide of the city began to shift
 {
 title: "Echoes of the Abyss",
 genre: "Psychological Horror",
-synopsis: "In a world where emotions manifest as terrifying entities, a young girl must confront the haunting echoes of her past as she battles a shadowy figure born from her fears. As she fights to reclaim her sanity, she discovers that even the fiercest screams can be silenced by acceptance."
+synopsis: "In a world where emotions manifest as terrifying entities, a young girl must confront the haunting echoes of her past as she battles a shadowy figure born from her fears. As she fights to reclaim her sanity, she discovers that even the fiercest screams can be silenced by acceptance.",
 url: "https://i.imgur.com/iEUMOzX.jpeg",
 story: `In a desolate landscape painted in vibrant hues of purple and black, the girl stood still, her heart pounding like a drum echoing in the void. This was no ordinary realm; it was the domain of her nightmares, where every scream and tear transformed into monstrous forms that tormented her. Each shadow flickered against her skin, reminding her of everything she tried to forget. 
 
