@@ -8,10 +8,12 @@ const port = process.env.PORT || 3000;
 const storiesOne = require('./stories/storiesOne');
 const storiesThree = require('./stories/storiesThree');
 const storiesTwo = require('./stories/storiesTwo');
-const jantwentyfour = require('./stories/jantwentyfour');
-const jantwentyfive = require('./stories/jantwentyfive');
-const jantwentysix = require('./stories/jantwentysix');
-const jantwentyseven = require('./stories/jantwentyseven');
+
+const jantwentyfour = require('./stories/jan/jantwentyfour');
+const jantwentyfive = require('./stories/jan/jantwentyfive');
+const jantwentysix = require('./stories/jan/jantwentysix');
+const jantwentyseven = require('./stories/jan/jantwentyseven');
+const jantwentyeight = require('./stories/jan/jantwentyeight');
 
 const stories = [
   // ...top,
@@ -22,6 +24,7 @@ const stories = [
   ...jantwentyfive,
   ...jantwentysix,
   ...jantwentyseven,
+  ...jantwentyeight,
 ];
 
 app.get('/stories', (req, res) => {

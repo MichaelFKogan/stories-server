@@ -5,15 +5,21 @@ const app = express();
 const port = process.env.PORT || 3000;
 
 // const top = require('./stories/top');
-const jantwentyseven = require('./stories/jantwentyseven');
-const jantwentysix = require('./stories/jantwentysix');
-const jantwentyfive = require('./stories/jantwentyfive');
-const jantwentyfour = require('./stories/jantwentyfour');
+const jantwentyeight = require('./stories/jan/jantwentyeight');
+const jantwentyseven = require('./stories/jan/jantwentyseven');
+const jantwentysix = require('./stories/jan/jantwentysix');
+const jantwentyfive = require('./stories/jan/jantwentyfive');
+const jantwentyfour = require('./stories/jan/jantwentyfour');
+
 const storiesOne = require('./stories/storiesOne');
 const storiesThree = require('./stories/storiesThree');
 const storiesTwo = require('./stories/storiesTwo');
 
 const data = [
+  {
+    date: "Jan 28, 2025",
+    stories: [...jantwentyeight],
+  },
   {
     date: "Jan 27, 2025",
     stories: [...jantwentyseven],
