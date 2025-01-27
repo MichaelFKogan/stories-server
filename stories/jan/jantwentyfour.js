@@ -576,7 +576,7 @@ With newfound purpose, he left the factory, the map glowing softly by his side. 
 
 {
 title: "Neon Scales",
-genre: "Cyberpunk/Science Fiction",
+genre: "Cyberpunk / Sci-Fi",
 synopsis: "In a rainy, neon-lit city, a reptilian cyborg named Z3R0 navigates the underworld to uncover the truth behind his own existence. As he dances between the lines of man and machine, Z3R0 must confront both his creators and the society that fears him.",
 url: "https://i.imgur.com/h32jIGc.jpeg",
 story: `
@@ -1031,7 +1031,7 @@ As the stars began to twinkle above, Elara felt a new chapter unfurl, her heart 
 },
 {
 title: "Neon Shadows",
-genre: "Cyberpunk/Science Fiction",
+genre: "Cyberpunk / Sci-Fi",
 synopsis: "In a neon-lit dystopia where mega-corporations reign, a young hacker with a mysterious past becomes the unlikely leader of a resistance against an oppressive regime. As she uncovers secrets about her origins, she must confront the dark forces lurking in the shadowy corners of a city alive with both technology and danger.",
 url: "https://i.imgur.com/ABTDeJo.jpeg",
 story: `

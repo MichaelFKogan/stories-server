@@ -118,7 +118,7 @@ Some say he still walks the cliffs, a shadow on the edge of the world, searching
 },
 {
 title: "Neon Paws",
-genre: "Cyberpunk / Science Fiction",
+genre: "Cyberpunk / Sci-Fi",
 synopsis: "In the neon-lit underworld of Neo-Tokyo, Kairo, a cybernetically enhanced cat, embarks on a dangerous mission to steal a data chip containing the key to an AI that can predict human behavior. As he navigates through a city filled with shadows and threats, Kairo discovers his true purpose as an agent in the silent war between humanity and the machines, his journey unfolding in a world where the line between organic and artificial is ever more blurred.",
 url: "https://i.imgur.com/zn8nxHe.jpeg",
 story: `

@@ -2,7 +2,7 @@ const problem = [
 
 {
 title: "The Awakening of Ember Sentinel",
-genre: "Fantasy/Science Fiction",
+genre: "Fantasy / Sci-Fi",
 synopsis: "In a world where elemental guardians are the last hope against an encroaching darkness, a long-dormant entity, the Ember Sentinel, awakens to reclaim its purpose and confront an ancient evil that threatens all realms.",
 url: "https://i.imgur.com/MCJcItI.jpeg",
 story: `In the heart of a crumbling world, where shadows flickered with malice, the Ember Sentinel lay in deep slumber, encased in the remnants of a once-mighty citadel. Ancient prophecies spoke of a time when the guardian would awaken, its fiery essence ignited to defend against the dark forces of the Abyss. As the sun dipped below the horizon, casting a golden hue across the land, a tremor surged through the ground.
