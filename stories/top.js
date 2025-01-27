@@ -34,7 +34,7 @@ Together, they emerged from the depths of the shadows. Tonight was just the begi
 },
 {
 title: "Popcorn Dreams",
-genre: "Family / Kids / Heartwarming Fantasy",
+genre: "Family / Kids",
 synopsis: "In a small, snow-covered town, an endearing elderly couple finds themselves magically transported to their favorite movie world every time they share a bowl of popcorn. As they navigate whimsical adventures, they rediscover their love for each other and the joy of embracing life's cinematic moments.",
 url: "https://i.imgur.com/qMscW16.jpeg",
 story: `

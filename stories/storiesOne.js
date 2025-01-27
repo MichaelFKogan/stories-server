@@ -194,7 +194,7 @@ She turned, but there was no one there. The last train had already left.
 },
 {
 title: "The Whimsical Guardians of Glimmer Grove",
-genre: "Fantasy/Adventure",
+genre: "Kids",
 synopsis: "In the enchanting Glimmer Grove, the Flibberwumps, a colorful tribe of curious creatures, embark on a quest to save their dying home by seeking wisdom from the ancient Whispering Stone. Through their journey, they learn that the true magic of their vibrant world lies not in their individual powers, but in the strength of their friendship and unity, which restores the life and shimmer of their grove.",
 url: "https://i.imgur.com/ALcFFaD.jpeg",
 story: `
@@ -517,7 +517,7 @@ And with each keystroke, Leo found not just a spark of electric magic, but also 
 },
 {
 title: "The Last Shimmer of Fur",
-genre: "Fantasy/Adventure",
+genre: "Kids",
 synopsis: "Flicker, a small creature living in a fading forest, embarks on a journey to find the Heart of Radiance, a legendary crystal said to restore life and magic to the land. Along the way, he discovers his own inner strength, awakening the forest’s spirit and becoming its guardian, proving that even the smallest being can spark great change.",
 url: "https://i.imgur.com/7y4RHQA.jpeg",
 story: `
@@ -859,7 +859,7 @@ With each step toward the unknown, Sam embraced the possibility of change, ready
 },
 {
 title: "The Fluffville Chronicles: The Great Color Quest",
-genre: "Fantasy/Adventure",
+genre: "Kids",
 synopsis: "In the colorful world of Fluffville, a group of fluffy friends embarks on a quest to restore the dimming Color Crystal, learning that the true magic lies in their shared friendship and unity. Through challenges and teamwork, they discover that the vibrant colors of their world were always within them, and their bond brings Fluffville back to life.",
 url: "https://i.imgur.com/MhAmTu8.jpeg",
 story: `
@@ -1006,7 +1006,7 @@ In that moment, Isolde knew that her elegance would be more than attire; it woul
 },
 {
 title: "The Midnight Guardian",
-genre: "Fantasy/Adventure",
+genre: "Kids",
 synopsis: "In a bustling city of neon lights, Yumi, a magical guardian, helps a young woman named Lila rediscover her courage and dreams by lifting the weight of her self-doubt. With her mission complete, Yumi continues to guide those lost in shadows, restoring hope to the dreamers of the night.",
 url: "https://i.imgur.com/6qMcCJS.jpeg",
 story: `
@@ -1081,7 +1081,7 @@ And from that night onward, Lira continued to explore her craft, knowing that th
 },
 {
 title: "The Curious Quest of Coraline the Cuddly",
-genre: "Fantasy/Adventure",
+genre: "Kids",
 synopsis: "In the vibrant underwater kingdom of Aquatopia, Coraline, a curious and adventurous Cuddly with red spiraling horns, sets off on a journey beyond the Coral Caverns, discovering a world filled with wonders and challenges. Her bravery and newfound wisdom transform her into a storyteller, inspiring future generations to embrace their curiosity and dreams.",
 url: "https://i.imgur.com/BsBNwij.jpeg",
 story: `
@@ -1212,7 +1212,7 @@ As the skyline glittered with the promise of tomorrow, Lira glanced back at the 
 },
 {
 title: "The Cavern of Curiosity",
-genre: "Fantasy/Adventure",
+genre: "Kids",
 synopsis: "In the heart of the Elderwood Forest, a tribe of curious creatures called Spindleflakes discovers the magical Great Orb of Wonders, revealing both the beauty and the dangers of a world where curiosity fades. Led by their spirited leader Pippin, they embark on a journey to inspire others to cherish the magic of discovery and wonder.",
 url: "https://i.imgur.com/CQdR7C1.jpeg",
 story: `

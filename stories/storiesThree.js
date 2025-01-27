@@ -413,7 +413,7 @@ And as they emerged from the shadows into the light of dawn, Zara vowed to recla
 
 {
 title: "The Lucky Dumpling",
-genre: "Fantasy / Adventure",
+genre: "Kids",
 synopsis: "In a magical noodle shop that only appears once a year, a spirited boy named Kai discovers a hidden recipe that leads him on a whimsical quest to find the ingredients for the ultimate dumpling, which promises to grant its eater a single wish. Along the way, he befriends a cast of quirky characters, learns the importance of friendship, and uncovers the true magic of food.",
 url: "https://i.imgur.com/O18sc79.jpeg",
 story: `

@@ -154,7 +154,7 @@ The cosmos beckoned, vast and wild, and Elara Tan knew that the journey had only
 
 {
 title: "Popcorn Dreams",
-genre: "Family / Kids / Heartwarming Fantasy",
+genre: "Family / Kids",
 synopsis: "In a small, snow-covered town, an endearing elderly couple finds themselves magically transported to their favorite movie world every time they share a bowl of popcorn. As they navigate whimsical adventures, they rediscover their love for each other and the joy of embracing life's cinematic moments.",
 url: "https://i.imgur.com/qMscW16.jpeg",
 story: `
@@ -927,7 +927,7 @@ As they slipped into the alleys clothed in shadows and neon, Kai felt a rush of 
 },
 {
 title: "Scooter Adventure in Scaly Town",
-genre: "Fantasy/Adventure",
+genre: "Kids",
 synopsis: "In the vibrant town of Scaly Junction, a young scale-skinned dreamer named Finn takes to the cobbled streets on his bright blue scooter, seeking adventure and the legendary hidden treasures said to be scattered throughout the town. Along the way, Finn discovers the true meaning of friendship and bravery as he faces challenges and uncovers the secrets of his magical home.",
 url: "https://i.imgur.com/evaNO35.jpg",
 story: `
@@ -1294,7 +1294,7 @@ Mira stood tall, her glowing eyes piercing the twilight sky, the weight of her e
 
 {
 title: "The Pathetic Puffball",
-genre: "Fantasy/Children's Fiction",
+genre: "Fantasy/Kids",
 synopsis: "In a quiet alley of a whimsical town, a fluffy creature named Puff finds his courage waning as he embarks on a quest to make a friend. Along the way, he discovers that understanding and bravery go hand in hand, ultimately transforming his timid heart.",
 url: "https://i.imgur.com/ZCrcA5b.jpg",
 story: `
@@ -2060,7 +2060,7 @@ As the sun dipped below the horizon, painting the sky in hues of gold and violet
 },
 {
 title: "The Friendship We Never Knew",
-genre: "Fantasy/Children's Adventure",
+genre: "Kids",
 synopsis: "In a dusty old attic, a curious boy stumbles upon a friendly ghost named Boo. Together, they explore the hidden wonders of the spirit world, discovering the true meaning of friendship and bravery.",
 url: "https://i.imgur.com/97IQ0ji.jpeg",
 story: `
@@ -2105,7 +2105,7 @@ From that day on, the attic held a special magic for Timmy. He knew that whether
 
 {
 title: "A Friend in the Shadows",
-genre: "Fantasy/Adventure",
+genre: "Kids",
 synopsis: "In a hidden cave surrounded by emerald foliage, a timid boy named Leo stumbles upon a young dragon named Spark, who is just as curious about humans as Leo is about dragons. Together, they embark on an adventure that tests their courage and ignites a friendship that could change their worlds forever.",
 url: "https://i.imgur.com/iVZ266v.jpeg",
 story: `

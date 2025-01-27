@@ -2,7 +2,7 @@ const jantwentyfive = [
 
 {
 title: "The Grumpy Guardian",
-genre: "Fantasy/Children's Fiction",
+genre: "Kids",
 synopsis: "In a cozy little room filled with the starlit whispers of bedtime stories, a grumpy but lovable creature named Noctis guards his young friend from lingering fears. When a mischievous shadow threatens to invade their dreams, Noctis must confront it and discover what it truly means to protect and befriend.",
 url: "https://i.imgur.com/RzAyIkX.jpeg",
 story: `
