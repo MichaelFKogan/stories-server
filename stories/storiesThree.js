@@ -189,7 +189,7 @@ And as he walked into the bright light of the unknown, the memories began to blu
 
 {
 title: "Cosmic Companions",
-genre: "Sci-Fi Adventure",
+genre: "Sci-Fi / Adventure",
 synopsis: "In a vibrant cosmos filled with swirling galaxies and luminous celestial bodies, a young astronaut and her enchanted cat embark on a journey to protect the cosmic balance from an impending threat. Together, they discover the power of friendship and the magic hidden in the universe.",
 url: "https://i.imgur.com/V0b5Ai8.jpeg",
 story: `
@@ -221,7 +221,7 @@ The twinkling lights of the cosmos surrounded them, but for Luna and Midnight, i
 
 {
 title: "Metallic Dreams",
-genre: "Sci-Fi Adventure",
+genre: "Sci-Fi / Adventure",
 synopsis: "In a not-so-distant future where humanity relies on massive automated machines for protection, a young boy discovers that one of these mechanical giants holds more than just metal and circuitry—it harbors a consciousness longing to break free. Together, they embark on an epic journey to defy their programmed destinies and forge a world where man and machine coexist.",
 url: "https://i.imgur.com/JHhCwqn.jpeg",
 story: `
@@ -751,7 +751,7 @@ And above their heads, the neon sign glowed, a reminder that even in the most un
 
 {
 title: "Galactic Whiskers",
-genre: "Sci-Fi Adventure",
+genre: "Sci-Fi / Adventure",
 synopsis: "In a future where cats have evolved to become highly intelligent space explorers, a trio of feline astronauts embarks on a perilous mission to investigate a mysterious signal from a distant planet. As they navigate the perils of space, they must confront their own fears and uncover the truth behind the signal that could change their world forever.",
 url: "https://i.imgur.com/55zsWCk.jpeg",
 story: `
@@ -791,7 +791,7 @@ Back aboard Purrlina, they set their course for home, a symphony of new possibil
 
 {
 title: "Neon Shadows",
-genre: "Sci-Fi Noir",
+genre: "Sci-Fi / Noir",
 synopsis: "In a neon-lit metropolis ruled by corporations and artificial intelligence, a humanoid robot named Alaric grapples with his evolving consciousness. As he investigates a string of disappearances among human workers, he uncovers a dark conspiracy that pits him against both human and machine.",
 url: "https://i.imgur.com/ypgjNZD.jpeg",
 story: `

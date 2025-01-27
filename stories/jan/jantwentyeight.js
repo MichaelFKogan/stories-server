@@ -104,7 +104,7 @@ Mia ascended the stairs feeling lighter, her heart no longer heavy with dread. S
 
 {
 title: "Cosmic Joyride",
-genre: "Sci-Fi Adventure",
+genre: "Sci-Fi / Adventure",
 synopsis: "Two adventurous siblings, Zuri and Kimo, pilot their homemade rocket ship through the cosmos, exploring distant planets and facing challenges that test their ingenuity and courage. Their journey leads them to a mysterious energy source that could change the fate of their home planet forever.",
 url: "https://i.imgur.com/EL68fKh.jpeg",
 story: `
@@ -364,7 +364,7 @@ The euphoria of the masquerade drowned beneath a tide of dread as Clara realized
 
 {
 title: "The Guardian of the Swamp",
-genre: "Sci-Fi Fantasy",
+genre: "Sci-Fi / sFantasy",
 synopsis: "In a remote swamp where nature and technology collide, a team of scientists discovers a colossal, ancient guardian that has awakened from deep slumber. As they delve into its secrets, they must balance their pursuit of knowledge with the guardian's primal rage.",
 url: "https://i.imgur.com/9BNooWW.jpeg",
 story: `

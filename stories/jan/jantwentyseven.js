@@ -24,7 +24,7 @@ As she left the chamber, the sun dipped below the horizon, casting the world ane
 
 {
 title: "Shadows of the Lost City",
-genre: "Sci-Fi Adventure",
+genre: "Sci-Fi / Adventure",
 synopsis: "In a post-apocalyptic world, a group of survivors known as 'The Shadows' embarks on a dangerous mission to reclaim their city from mutated creatures and rival clans. As they navigate through the decaying streets, they must confront not only external threats but also the demons within their own souls.",
 url: "https://i.imgur.com/DgQvGVy.jpeg",
 story: `
@@ -120,7 +120,7 @@ With resolution igniting a spark within, Ren strode back through the market. The
 
 {
 title: "Neon Shadows",
-genre: "Sci-Fi Noir",
+genre: "Sci-Fi / Noir",
 synopsis: "In a rain-soaked, neon-lit city, a former detective named Avery discovers a child with unknown powers lying in the alley. As he attempts to protect the child from sinister forces, he grapples with his troubled past and uncovers a conspiracy that could alter the fabric of reality itself.",
 url: "https://i.imgur.com/fM86sp5.jpeg",
 story: `
@@ -354,7 +354,7 @@ In that moment, Lila understood that her journey was not just about the informat
 
 {
 title: "Threads of Light",
-genre: "Sci-Fi Fantasy",
+genre: "Sci-Fi / Fantasy",
 synopsis: "In a dystopian city where technology and mysticism intertwine, Mira, a young sorceress with glowing cybernetic hands, attempts to harness the forgotten power of the ancients to protect her home from looming darkness. As she faces both human and supernatural threats, Mira discovers the true meaning of her gift and the connections that bind her to the city's fate.",
 url: "https://i.imgur.com/yHWgMRM.jpeg",
 story: `
@@ -434,7 +434,7 @@ In the aftermath of the chaos, while the citizens emerged to witness the restora
 
 {
 title: "Shadows of Neon Love",
-genre: "Sci-Fi Romance",
+genre: "Sci-Fi / Romance",
 synopsis: "In a dystopian world where the glow of neon lights reflects the desperation of its citizens, two star-crossed lovers, Kael and Mira, navigate a city ruled by corporate overlords. Their clandestine romance unfolds in the dark alleys, where they must not only confront their feelings but also the oppressive forces that seek to keep them apart.",
 url: "https://i.imgur.com/4uI8yRI.jpeg",
 story: `
@@ -532,7 +532,7 @@ As dawn broke over the horizon, painting the city in shades of gold, Jack steppe
 
 {
 title: "The Last Outlaw",
-genre: "Sci-Fi Western",
+genre: "Sci-Fi / Western",
 synopsis: "In a post-apocalyptic city where technology and desolation coexist, a rogue android cowboy named Dusty ventures through the ruins to reclaim his lost humanity. Battling both robotic enforcers and remnants of a broken society, he must confront his past and forge a new path.",
 url: "https://i.imgur.com/UgalgcA.jpeg",
 story: `
@@ -790,7 +790,7 @@ In that moment, Orion stood tall amidst the wreckage, framed by the illuminated 
 
 {
 title: "The Celestial Weave",
-genre: "Sci-Fi Fantasy",
+genre: "Sci-Fi / Fantasy",
 synopsis: "In a vibrant, neon-lit world where magic and technology intertwine, a powerful sorceress named Lyra must harness the energies of a mysterious orb to prevent an impending cataclysm. As she delves deeper into her powers, she uncovers secrets that could change the fate of her world forever.",
 url: "https://i.imgur.com/hN4OPfS.jpeg",
 story: `
@@ -814,7 +814,7 @@ Now united, Lyra and Sereth would face the oncoming storm together. The orb puls
 
 {
 title: "Shadows of the Neon Wilds",
-genre: "Sci-Fi Western",
+genre: "Sci-Fi / Western",
 synopsis: "In a dystopian future where technology and the Old West collide, bounty hunters traverse the neon-lit ruins of a fallen city. When a notorious outlaw resurfaces, three unlikely companions must confront their pasts and face a ruthless gang that controls the city’s underbelly.",
 url: "https://i.imgur.com/EZ3dJtE.jpeg",
 story: `
@@ -1126,7 +1126,7 @@ With a final push, the machine shuddered and exploded in a kaleidoscope of color
 
 {
 title: "Shadows of Neon",
-genre: "Sci-Fi Noir",
+genre: "Sci-Fi / Noir",
 synopsis: "In a rain-soaked metropolis where crime and technology intertwine, a stoic enforcer and a rebellious hacker must forge an uneasy alliance to expose a corrupt corporate conspiracy threatening their very existence. As their paths collide in the neon underbelly of the city, they discover that trust may be the most dangerous gamble of all.",
 url: "https://i.imgur.com/8uNIrIk.jpeg",
 story: `

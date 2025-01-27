@@ -44,7 +44,7 @@ In that moment, surrounded by friends and the sprawling cosmos, Zeek felt at hom
 
 {
 title: "Starlit Encounters",
-genre: "Sci-Fi Romance",
+genre: "Sci-Fi / Romance",
 synopsis: "In a neon-lit city where human and robot lives intertwine, a young woman named Mia forms an unexpected bond with a sophisticated robot named Orion. As they navigate their complex feelings against the backdrop of a bustling metropolis, they confront the boundaries between programmed affinity and genuine emotion.",
 url: "https://i.imgur.com/Mrmvgs7.jpeg",
 story: `
@@ -122,7 +122,7 @@ With a heart full of uncertainty yet alight with exhilaration, Leo stepped forwa
 
 {
 title: "The Surprise Party",
-genre: "Famiily / Kids",
+genre: "Family / Kids",
 synopsis: "When young Leo discovers that his family is planning a surprise birthday party for him, he decides to secretly help them out, believing he is the one organizing the event. Little does he know, the outcome may lead to unexpected surprises of its own.",
 url: "https://i.imgur.com/riFIdtF.jpeg",
 story: `
@@ -612,7 +612,7 @@ And thus, Z3R0's journey truly began.
 
 {
 title: "The Awakening Tide",
-genre: "Sci-Fi Adventure",
+genre: "Sci-Fi / Adventure",
 synopsis: "In a world where environmental disasters threaten humanity's survival, a colossal robot emerges from the depths of a raging ocean, signaling the dawn of hope or imminent destruction. As a small automation stands at the shoreline, it embarks on a quest to understand its purpose and the fate of its creators.",
 url: "https://i.imgur.com/K5XiVAg.jpeg",
 story: `

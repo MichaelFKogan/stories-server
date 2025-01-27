@@ -566,7 +566,7 @@ As the sun set completely, casting shadows of hope over the skyline, Mira watche
 },
 {
 title: "The Serpent's Reckoning",
-genre: "Sci-Fi Horror",
+genre: "Sci-Fi / Horror",
 synopsis: "In a city under siege by a colossal serpent awakened by humans' reckless experimentation, a small band of survivors must confront their deepest fears to escape the rampaging creature's wrath.",
 url: "https://i.imgur.com/cSpJylX.jpeg",
 story: `As the sky darkened and storm clouds churned overhead, the towering figure of the serpent loomed above the scattered buildings of New York City, its emerald scales glistening eerily in the distant lights. Among the panicked masses, Ava, a determined environmental scientist, realized that this creature was no mere monster; it was a guardian awakened to reclaim a world poisoned by neglect. 

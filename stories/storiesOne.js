@@ -542,7 +542,7 @@ As the sun dipped low, Flicker gazed at the vibrant colors painting the sky, kno
 },
 {
 title: "Neon Echoes",
-genre: "Sci-Fi Noir",
+genre: "Sci-Fi / Noir",
 synopsis: "In the neon-lit city of Neo-Tokyo, former investigator Zara Kaine, now a fugitive, embarks on a dangerous mission to uncover the truth behind her partner Kiro’s disappearance, leading her into a dark conspiracy involving a powerful drug syndicate, 'The Echo.' As she navigates the city's treacherous underworld, Zara must decide whether to resist the corruption or become a part of it in her pursuit of justice.",
 url: "https://i.imgur.com/iEKwcKb.jpeg",
 story: `

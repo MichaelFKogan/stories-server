@@ -2,7 +2,7 @@ const jantwentysix = [
 
 {
 title: "Emberborn",
-genre: "Sci-Fi Fantasy",
+genre: "Sci-Fi / Fantasy",
 synopsis: "In a world where humanity battles against a force of unstable energy, a fractured hero emerges from the shadows, imbued with glowing power. As he grapples with his newfound abilities, he must confront the dark entity threatening to consume both him and the world around him.",
 url: "https://i.imgur.com/MCJcItI.jpeg",
 story: `
@@ -214,7 +214,7 @@ As dusk approached, casting shadows over their makeshift shelter, hope ignited w
 
 {
 title: "Cosmic Whiskers",
-genre: "Sci-Fi Adventure",
+genre: "Sci-Fi / Adventure",
 synopsis: "On a mission to explore the distant galaxy of Verithia, a vibrant young pilot named Lyra and her mysterious feline companion, Nebula, embark on an unexpected journey. Together, they uncover ancient secrets of a long-lost civilization and learn the importance of friendship and trust across the cosmos.",
 url: "https://i.imgur.com/2tfmboi.jpeg",
 story: `
@@ -460,7 +460,7 @@ Emerging from the classroom, Misaki took a deep breath, the weight of grief slow
 
 {
 title: "Stardust Dreams",
-genre: "Sci-Fi Adventure",
+genre: "Sci-Fi / Adventure",
 synopsis: "In a distant future where humanity has colonized the stars, two young explorers, Kaia and Hiro, embark on a daring journey aboard a drifting space station. As they unravel the station's secrets, they find themselves facing cosmic wonders and the power of friendship that transcends time and space.",
 url: "https://i.imgur.com/oC787MC.jpeg",
 story: `
@@ -514,7 +514,7 @@ Thus, a trio was born—two courageous souls and an ancient guardian, standing r
 
 {
 title: "Cosmic Companions",
-genre: "Sci-Fi Comedy",
+genre: "Sci-Fi / Comedy",
 synopsis: "In the vast reaches of space, a quirky alien and his telepathic cat embark on an interstellar journey to find the legendary Planet of Lost Socks, believing it to hold the secrets to the universe’s greatest mysteries. Amid cosmic mishaps and absurd encounters, they discover that friendship is the most valuable treasure of all.",
 url: "https://i.imgur.com/bVGeVIe.jpeg",
 story: `
@@ -772,7 +772,7 @@ In that transformative moment, Kaden understood: Echo was not just a machine; it
 
 {
 title: "Echoes in the Void",
-genre: "Sci-Fi Horror",
+genre: "Sci-Fi / Horror",
 synopsis: "In a neon-soaked future where dreams and reality merge, a young woman named Lila discovers the terrifying truth behind a series of nightmares that plague her world. As she plunges deeper into this sinister realm, she must confront dark entities that feed off her fears and ultimately battle her own psyche to escape the encroaching shadows.",
 url: "https://i.imgur.com/iEUMOzX.jpeg",
 story: `
@@ -794,7 +794,7 @@ Emerging on the other side, she found herself back in her room, bathed in the so
 
 {
 title: "Love Among the Stars",
-genre: "Sci-Fi Romance",
+genre: "Sci-Fi / Romance",
 synopsis: "In the depths of space, two astronauts share a profound connection while stationed in a distant galaxy. As they navigate both the vast cosmos and the complexities of their relationship, an unexpected challenge threatens to tear them apart.",
 url: "https://i.imgur.com/WuVtUw6.jpeg",
 story: `
@@ -846,7 +846,7 @@ In the aftermath, as the sorceress was defeated and peace restored, Goliath sett
 
 {
 title: "Neon Shadows",
-genre: "Sci-Fi Thriller",
+genre: "Sci-Fi / Thriller",
 synopsis: "In a dystopian future where neon lights mask hidden dangers, a skilled hacker-turned-mercenary navigates the treacherous streets of New Tokyo. As she is drawn into a conspiracy involving a shadowy corporation, she must uncover the truth and escape the web of deceit before it's too late.",
 url: "https://i.imgur.com/xjIrZbM.jpeg",
 story: `
@@ -922,7 +922,7 @@ As the Guardian stood upright, its true purpose reignited, the enemy forces scat
 
 {
 title: "The Serpent Over Manhattan",
-genre: "Sci-Fi Horror",
+genre: "Sci-Fi / Horror",
 synopsis: "As a colossal serpent emerges from the depths of the city, terror grips the residents of Manhattan. A group of unlikely heroes must band together to confront the creature and uncover the dark secret linking it to their collective pasts.",
 url: "https://i.imgur.com/cSpJylX.jpeg",
 story: `
