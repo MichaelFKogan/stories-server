@@ -390,7 +390,7 @@ As the UFO descended slowly, casting surreal light across the rocky landscape, E
 },
 {
 title: "Echoes of the Forgotten City",
-genre: "Dystopian Science Fiction",
+genre: "Dystopian",
 synopsis: "In a desolate city ravaged by war, a skilled young fighter navigates the remnants of civilization, seeking to understand her troubled past and the fate of her vanished family.",
 url: "https://i.imgur.com/O3Tnga9.jpeg",
 story: `The rain drizzled down, mingling with the grime that coated the remnants of a once-vibrant city. Ava tightened her grip on her rifle, her heart pounding against the backdrop of crumbling buildings and faded advertisements. Clad in tattered gear, she moved cautiously through the derelict streets, each step resonating with echoes of the past. 
@@ -495,7 +495,7 @@ Navigating through challenges, they learned to rely on each other—each of thei
 },
 {
 title: "The Awakening of Goliath",
-genre: "Fantasy Adventure",
+genre: "Fantasy / Adventure",
 synopsis: "In a world where ancient giants once roamed, a forgotten titanic guardian awakens, offering humanity a choice between destruction and salvation. A group of villagers must confront their fears and decide if they will embrace the power of this colossal being or risk losing everything.",
 url: "https://i.imgur.com/TNy4WkX.jpeg",
 story: `The sun hung high in a cerulean sky, illuminating the rugged landscape where the villagers stood, eyes wide in disbelief. They had stumbled upon the legendary Goliath, a giant said to have been asleep for eons, guarding the realm from threats both seen and unseen. 
@@ -516,7 +516,7 @@ From that day forward, the tale of the giant and the villagers became legend, a 
 },
 {
 title: "Neon Shadows",
-genre: "Cyberpunk Action",
+genre: "Cyberpunk / Action",
 synopsis: "In a neon-lit city of the future, a skilled hacker turned rogue agent uncovers a conspiracy that threatens to dismantle the very fabric of reality. As she battles mercenaries and powerful foes, she must decide how far she's willing to go to protect her city.",
 url: "https://i.imgur.com/xjIrZbM.jpeg",
 story: `Amaya crouched on the rooftop, her eyes glowing like twin suns against the backdrop of swirling neon lights. The city sprawled below her, a maze of towering buildings and dark alleys, alive with the hum of drones and the distant wail of sirens. She tightened her grip on her weapon, a sleek, custom-made rifle that seemed to pulse with energy. Just hours earlier, she'd intercepted a data stream revealing that the conglomerate ruling the city was experimenting with dangerous tech that could rewrite memories, manipulating the entire population. 
@@ -581,7 +581,7 @@ The final confrontation would not only seal the fate of the serpent but also tes
 },
 {
 title: "Cloudbound Adventures",
-genre: "Fantasy Romance",
+genre: "Fantasy / Romance",
 synopsis: "In a world where friendships and dreams take flight, two teenagers find themselves soaring through the clouds on an unexpected adventure that tests their bonds and reveals hidden feelings.",
 url: "https://i.imgur.com/iREGbKQ.jpeg",
 story: `High above the mundane world, Maya and Jin floated through a sea of fluffy clouds, laughter echoing in the air as they held on to each other tightly. What began as a regular day of high school activities transformed into a whimsical leap of faith when they discovered an ancient secret during a school trip to a forgotten temple. The golden pendant they found acted as a bridge between their reality and a dreamscape where the sky was theirs to explore. 

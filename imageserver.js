@@ -35,33 +35,12 @@ const removeMarkdown = (text) => {
 };
 
 const imageUrls = [
-// "https://i.imgur.com/iRnxLpU.jpeg",
-// "https://i.imgur.com/jkszYDS.jpeg",
-// "https://i.imgur.com/3NxpeDk.jpeg",
-// "https://i.imgur.com/Xu5QX0j.jpeg",
-// "https://i.imgur.com/o9JgUjH.jpeg",
-// "https://i.imgur.com/IWEBGM2.jpeg",
-// "https://i.imgur.com/EJbej4H.jpeg",
-// "https://i.imgur.com/vuVMCYR.jpeg",
-// "https://i.imgur.com/AnrdhFO.jpeg",
-// "https://i.imgur.com/5pBrpcP.jpeg",
-// "https://i.imgur.com/9BNooWW.jpeg",
-// "https://i.imgur.com/ZCCEsyt.jpeg",
-// "https://i.imgur.com/fG5JafZ.jpeg",
-// "https://i.imgur.com/64TrXbL.jpeg",
-// "https://i.imgur.com/NwdESfo.jpeg",
-// "https://i.imgur.com/D80VR8R.jpeg",
-// "https://i.imgur.com/1wiAq10.jpeg",
-// "https://i.imgur.com/vE5Npav.jpeg",
-// "https://i.imgur.com/tN2kU8Q.jpeg",
-// "https://i.imgur.com/ifpw6Xh.jpeg",
-// "https://i.imgur.com/2V87qXx.jpeg",
-// "https://i.imgur.com/EL68fKh.jpeg",
-"https://i.imgur.com/PbXID6Y.jpeg",
-// "https://i.imgur.com/yrNzBJv.jpeg",
-// "https://i.imgur.com/9ODypD1.jpeg",
-// "https://i.imgur.com/ekiF2nf.jpeg",
-
+"https://i.imgur.com/TwV8ukU.jpeg",
+"https://i.imgur.com/OHnVUnc.jpeg",
+"https://i.imgur.com/n3Fvba0.jpeg",
+"https://i.imgur.com/tHKI2Wf.jpeg",
+"https://i.imgur.com/CxVZ8jQ.jpeg",
+"https://i.imgur.com/v8bxRMV.jpeg",
 ];
 
 const sleep = (ms) => new Promise(resolve => setTimeout(resolve, ms));
@@ -74,10 +53,12 @@ const processImage = async (imageUrl) => {
                 const response = await openai.chat.completions.create({
                     model: "gpt-4o-mini", // Replace with the correct model name
                     messages: [{
-                        role: "user",
+                        role: "user", 
                         content: [
                             { type: "text", text: `
               Analyze this image from Midjourney with the purpose of creating a short story.
+
+              Write a story in the adventure genre based on the image.
 
               Give me a title, genre, 1-2 sentance synopsis, and create a short story based around the image.
 

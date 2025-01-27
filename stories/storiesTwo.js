@@ -5,7 +5,7 @@ const storiesTwo = [
 
 {
 title: "Neon Shadows",
-genre: "Cyberpunk Thriller",
+genre: "Cyberpunk / Thriller",
 synopsis: "In a vibrant, neon-lit metropolis teeming with secrets, a skilled hacker named Kyra uncovers a conspiracy that threatens the balance of power. As she delves deeper into the darker alleyways of her city, she must navigate a web of cybernetic espionage, with her own fate hanging in the balance.",
 url: "https://i.imgur.com/rpGXXvi.jpg",
 story: `
@@ -38,7 +38,7 @@ Together, they emerged from the depths of the shadows. Tonight was just the begi
 },
 {
 title: "Beneath the Sunset",
-genre: "Contemporary Romance",
+genre: "Romance",
 synopsis: "As the sun sets over a bustling city, two young dreamers cross paths at a rooftop café. In a fleeting moment, they share more than just drinks—they discover a connection that could change their lives forever.",
 url: "https://i.imgur.com/7Jid0uJ.jpeg",
 story: `
@@ -154,7 +154,7 @@ The cosmos beckoned, vast and wild, and Elara Tan knew that the journey had only
 
 {
 title: "Popcorn Dreams",
-genre: "Heartwarming Fantasy",
+genre: "Family / Kids / Heartwarming Fantasy",
 synopsis: "In a small, snow-covered town, an endearing elderly couple finds themselves magically transported to their favorite movie world every time they share a bowl of popcorn. As they navigate whimsical adventures, they rediscover their love for each other and the joy of embracing life's cinematic moments.",
 url: "https://i.imgur.com/qMscW16.jpeg",
 story: `
@@ -180,7 +180,7 @@ As they snuggled back into their chairs, ready for another bowl of popcorn—and
 
 {
 title: "Neon Revenant",
-genre: "Cyberpunk Science Fiction",
+genre: "Cyberpunk / Sci-Fi",
 synopsis: "In a future where reality and digital existence intertwine, a hacker awakens from a digital coma with the ability to manipulate the very fabric of the cyber world. As rogue AI and corrupt megacorporations threaten his newfound existence, he must ally with a group of renegade tech rebels to uncover the truth behind his resurrection and reclaim his life.",
 url: "https://i.imgur.com/Et4kIXH.jpeg",
 story: `
@@ -218,7 +218,7 @@ Exhausted but victorious, Vega and Nova stood atop the highest building, looking
 
 {
 title: "Midnight Sweets",
-genre: "Young Adult Fantasy",
+genre: "Young Adult",
 synopsis: "In a vibrant city where dreams and reality intertwine, three friends stumble upon a whimsical night market that offers treats with magical properties. As they indulge in the flavors of joy and nostalgia, they uncover secrets about their friendship and the world around them.",
 url: "https://i.imgur.com/mUhjtdK.jpeg",
 story: `
@@ -246,7 +246,7 @@ With joy coursing through their veins, they lifted their drinks once more, this 
 
 {
 title: "Crimson Command",
-genre: "Cyberpunk Thriller",
+genre: "Cyberpunk / Thriller",
 synopsis: "In a dystopian future ruled by sinister corporations, a fearless commander with glowing red eyes stands at the forefront of an uprising. As shadows of the past creep into her present, she must navigate betrayal and power struggles to reclaim her fate.",
 url: "https://i.imgur.com/K9U2cKA.jpeg",
 story: `
@@ -521,7 +521,7 @@ With each step forward, Mira embraced her crimson legacy, ready to rally the rem
 
 {
 title: "Guardians of the Celestial Realm",
-genre: "Fantasy Adventure",
+genre: "Fantasy / Adventure",
 synopsis: "In a land where the boundaries between the mortal world and the celestial realm blur, a group of unlikely heroes sets out on a quest to reclaim their stolen powers from a malevolent sorcerer. Each guardian must confront their past and forge unbreakable bonds to restore balance before darkness consumes their world.",
 url: "https://i.imgur.com/ebUhLET.jpg",
 story: `
@@ -553,7 +553,7 @@ And as the first light of dawn broke across the horizon, they set forth into the
 
 {
 title: "Echoes of the Wasteland",
-genre: "Post-Apocalyptic Fiction",
+genre: "Post-Apocalyptic",
 synopsis: "In a world ravaged by environmental collapse, a resilient scavenger named Kaela survives in a desolate wasteland, armed with nothing but her instincts, a bat, and an unyielding spirit. When she stumbles upon a hidden community struggling against a ruthless gang, Kaela must choose between her solitary existence and the bonds of friendship that could alter the course of their fate.",
 url: "https://i.imgur.com/DKv5lsN.jpg",
 story: `
@@ -669,7 +669,7 @@ And so, they set forth, hand in digital hand, ready to explore a world that thri
 
 {
 title: "Echoes of Ashen Streets",
-genre: "Post-Apocalyptic Fiction",
+genre: "Post-Apocalyptic",
 synopsis: "In a world ravaged by catastrophe, a group of survivors navigates the ruins of their once-bustling city. As they make their desperate escape from an explosion that threatens to engulf them, they uncover hidden truths about their past, forcing them to confront their fears and the choices that brought them to this moment.",
 url: "https://i.imgur.com/hjP0jAf.jpg",
 story: `
@@ -705,7 +705,7 @@ The echoes of the city would linger, but as long as they had each other, there w
 
 {
 title: "Neon Echoes",
-genre: "Cyberpunk Sci-Fi",
+genre: "Cyberpunk / Sci-Fi",
 synopsis: "In a sprawling neon city where technology and shadows intertwine, a lone enforcer known as Helix uncovers a conspiracy that threatens to disrupt the delicate balance of power. As he navigates the vibrant streets and dark alleys, he must decipher holographic clues and confront a rival faction to save the city's future.",
 url: "https://i.imgur.com/kNtOQcF.jpg",
 story: `
@@ -738,7 +738,7 @@ Exhausted, but resolute, he gazed at the neon horizon that stretched before him�
 },
 {
 title: "Chasing Shadows",
-genre: "Fantasy Adventure",
+genre: "Fantasy / Adventure",
 synopsis: "In a vibrant realm where myth and reality intertwine, a spirited hero named Kaito must unite a diverse group of allies, each wielding unique powers, to protect their world from an ancient evil. As they navigate their differences and forge unbreakable bonds, they discover that the true strength lies not only in their abilities but also in their unwavering friendship.",
 url: "https://i.imgur.com/es23f4m.jpg",
 story: `
@@ -1044,7 +1044,7 @@ Ember’s heart swelled with joy as she and Thistle watched, knowing that someti
 },
 {
 title: "Echoes of Ashes",
-genre: "Post-Apocalyptic Horror",
+genre: "Post-Apocalyptic",
 synopsis: "In a world ravaged by an unseen catastrophe, a lone soldier navigates the dystopian landscape with a young boy in tow. Haunted by past horrors and pursued by the remnants of humanity twisted into grotesque forms, they must confront both external dangers and their own inner demons to survive.",
 url: "https://i.imgur.com/ygFdEOY.jpg",
 story: `
@@ -1087,7 +1087,7 @@ In that moment, as the sun rose higher, they became a testament to resilience: a
 
 {
 title: "The Monster Merchant",
-genre: "Fantasy/Comedy",
+genre: "Kids / Fantasy",
 synopsis: "In a bustling market street where shadows and light intertwine, a grumpy blue monster named Zog delivers enchanted groceries on his bright yellow scooter. As he navigates through the vibrant market, he discovers that his gruff exterior may hide a heart of gold, especially when he encounters unexpected friendships along the way.",
 url: "https://i.imgur.com/BlgKiqz.jpg",
 story: `
@@ -1121,7 +1121,7 @@ And maybe, just maybe, he would come back tomorrow to help again.
 
 {
 title: "Ashes of Tomorrow",
-genre: "Post-Apocalyptic Fiction",
+genre: "Post-Apocalyptic",
 synopsis: "In a world ravaged by war and environmental collapse, three survivors—Jaxon, Lyra, and Mira—navigate the treacherous remnants of a once-thriving city, seeking to uncover the truth behind the downfall of civilization. As they confront not only the remnants of their world but also their own personal demons, they must decide what they are willing to sacrifice for hope and survival.",
 url: "https://i.imgur.com/nWgP7U7.jpg",
 story: `
@@ -1160,7 +1160,7 @@ In the world of ashes, they would rise.
 },
 {
 title: "Neon Pulse",
-genre: "Cyberpunk Fiction",
+genre: "Cyberpunk / Fiction",
 synopsis: "In a dystopian future where cities are ruled by corporations and technology is both a curse and a blessing, a young woman with vibrant pink hair and augmented reality goggles uncovers a conspiracy that could change everything. Racing against time and adversaries, she must connect with a network of rebels to bring the truth to light.",
 url: "https://i.imgur.com/0KtqRbu.jpg",
 story: `
@@ -1244,7 +1244,7 @@ The future awaited, and whether they would march into conflict or commune with w
 },
 {
 title: "Neon Whispers",
-genre: "Cyberpunk Horror",
+genre: "Cyberpunk / Horror",
 synopsis: "In a dystopian city suffocated by technology, a mysterious girl with glowing eyes prowls the streets at twilight, searching for lost souls. As she uncovers dark secrets tied to her own existence, she must decide whether to embrace her power or become a mere echo of the darkness around her.",
 url: "https://i.imgur.com/RCaXPPE.jpg",
 story: `
@@ -1323,7 +1323,7 @@ In the heart of Kaze, an awkward little creature transformed, proof that even th
 },
 {
 title: "Neon Wings",
-genre: "Cyberpunk Fantasy",
+genre: "Cyberpunk / Fantasy",
 synopsis: "In a near-future city bathed in neon light and eternal rain, a half-machine, half-angel known as Lyra grapples with her identity while protecting the last remnants of human emotion in a world stripped of it. As she encounters a group of rebels seeking to overthrow the mega-corporation controlling their lives, she must decide whether to embrace her new reality or fight for a humanity she barely remembers.",
 url: "https://i.imgur.com/xBFVTap.jpg",
 story: `
@@ -1561,7 +1561,7 @@ Standing alone in the crowd, Lin felt a sense of belonging she had never known b
 },
 {
 title: "Neon Shadows",
-genre: "Cyberpunk Thriller",
+genre: "Cyberpunk / Thriller",
 synopsis: "In a dystopian city where the line between humanity and technology blurs, skilled hacker and mercenary Axon Reyes finds himself entangled in a web of corporate espionage and rebellion. Tasked with uncovering a sinister conspiracy that threatens to enslave the city's populace, he must navigate a neon-lit underworld where betrayal lurks in every shadow.",
 url: "https://i.imgur.com/CQvfhDN.jpg",
 story: `
@@ -1633,7 +1633,7 @@ With newfound determination, Prince Kaelan stepped forward, ready to embrace his
 
 {
 title: "Resonance of Blood",
-genre: "Post-Apocalyptic Romance",
+genre: "Post-Apocalyptic",
 synopsis: "In a world ravaged by a relentless zombie outbreak, two survivors, Akira and Mei, find their love tested amidst chaos, bloodshed, and the imminent threat of the undead. As they navigate through the horrors of their reality, their bond becomes the only light in a world consumed by darkness.",
 url: "https://i.imgur.com/8pmG0WG.jpeg",
 story: `
@@ -1669,7 +1669,7 @@ As they fought, the world faded away, leaving only the beats of their hearts and
 
 {
 title: "Wings of Valor",
-genre: "Fantasy Adventure",
+genre: "Fantasy / Adventure",
 synopsis: "In a realm where celestial beings protect the balance of nature, a young warrior-angel named Kael must harness his newfound powers to confront a dark force threatening to plunge his world into chaos. As he battles against the shadows, he discovers the true meaning of heroism and sacrifice.",
 url: "https://i.imgur.com/dC8jwb8.jpeg",
 story: `
@@ -1737,7 +1737,6 @@ genre: "Sci-Fi / Thriller",
 synopsis: "In a troubled galaxy ravaged by war and betrayal, young starship pilot Lian Hart finds himself entangled in a conspiracy that threatens not only his life but the fate of humanity. As he confronts an enigmatic enemy in the depths of space, he must uncover truths buried in the cosmos before it's too late.",
 url: "https://i.imgur.com/UiLKjyI.jpeg",
 story: `
-Echoes of the Void
 
 The moment Lian Hart’s fingers tightened around the grip of his sidearm, the universe seemed to shift. Stars twinkled in an indifferent expanse as debris floated past: remnants of ships long lost in the battles of the Galactic Conflict. Behind him lay the ruins of New Juno, a colony turned graveyard, where hope went to die.
 

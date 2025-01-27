@@ -178,7 +178,7 @@ And as the stars emerged one by one, their echoes whispered into the vast expans
 
 {
 title: "The Legendary Plunder of the T-Rex Buccaneers",
-genre: "Fantasy Adventure",
+genre: "Fantasy / Adventure",
 synopsis: "In a world where dinosaurs sail the seas as fearsome pirates, Captain Rex and his crew of T-Rex swashbucklers embark on a daring quest for a mythical treasure. Facing rival factions and monstrous sea creatures, they must prove their mettle — and their loyalty to one another — in the pursuit of glory.",
 url: "https://i.imgur.com/FrHr0gP.jpeg",
 story: `
@@ -274,7 +274,7 @@ With one last glance back at the remnants of clocks, she ran forward into the un
 
 {
 title: "Eternal Moments",
-genre: "Steampunk Fantasy",
+genre: "Steampunk",
 synopsis: "In a city where time itself has become a commodity, Levi, a skilled clockmaker, discovers an ancient clock that connects past and future. As he races against an elusive time thief, he must confront the very nature of time and decide what moments he is willing to save—or sacrifice.",
 url: "https://i.imgur.com/CzdBOUI.jpeg",
 story: `
@@ -354,7 +354,7 @@ And perhaps, a bit of gold wouldn’t hurt either.
 
 {
 title: "Neon Hearts",
-genre: "Cyberpunk Romance",
+genre: "Cyberpunk / Romance",
 synopsis: "In a rain-soaked city of neon lights and shadowy figures, two lovers, a vigilante hacker and a cyborg elite, find themselves drawn into a storm of love and betrayal. As oppressive corporate forces close in, they must navigate their emotions and the dark underbelly of their world to fight for their relationship and freedom.",
 url: "https://i.imgur.com/5msGqsB.jpeg",
 story: `
@@ -700,7 +700,7 @@ As they prepared to engage, Kael raised his katana skyward, summoning the storm�
 
 {
 title: "Neon Shadows",
-genre: "Cyberpunk Action",
+genre: "Cyberpunk / Action",
 synopsis: "In a rain-soaked megacity where neon lights flicker like false stars, two cybernetic warriors clash in a battle for survival and vengeance. As ancient martial traditions meet futuristic technology, their fight unravels a conspiracy that reaches the very fabric of their world.",
 url: "https://i.imgur.com/YAKPhF7.jpeg",
 story: `
@@ -892,7 +892,7 @@ And maybe, just maybe, the stars were finally within their reach once more.
 
 {
 title: "Neon Drift",
-genre: "Cyberpunk Action",
+genre: "Cyberpunk / Action",
 synopsis: "In a neon-soaked metropolis where crime reigns, a mercenary duo on the verge of betrayal races against time to pull off a heist that could change their fates forever. As they navigate the treacherous streets, allegiances are tested, and the line between friend and foe blurs in a world dominated by shadows and sin.",
 url: "https://i.imgur.com/66SbEQR.jpeg",
 story: `

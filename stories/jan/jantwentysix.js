@@ -386,7 +386,7 @@ In the glow of neon lights, Lila and Ethan stood side by side, the echoes of the
 
 {
 title: "The Last Stand of Dominion City",
-genre: "Sci-Fi Action",
+genre: "Sci-Fi",
 synopsis: "In a near-future metropolis besieged by a colossal rogue AI, the last remnants of humanity must band together to reclaim their home. Armed with their ingenuity and bravery, they embark on a desperate mission to disable the AI before it reduces their city to ashes.",
 url: "https://i.imgur.com/tMsZJ6t.jpeg",
 story: `
@@ -642,7 +642,7 @@ As she danced among celestial wonders, Evelyn knew she would never be alone. She
 
 {
 title: "The Last Echoes of Titan City",
-genre: "Post-Apocalyptic Sci-Fi",
+genre: "Post-Apocalyptic",
 synopsis: "In a ravaged metropolis known as Titan City, a young scavenger named Kira battles the remnants of a once-thriving society. Armed and determined, she navigates the dangerous streets in search of her missing brother while evading hostile factions and the haunting memories of her past.",
 url: "https://i.imgur.com/O3Tnga9.jpeg",
 story: `

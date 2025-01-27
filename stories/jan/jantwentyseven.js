@@ -46,7 +46,7 @@ As the last enemy fell, the group stood breathless, leaning against the crumblin
 
 {
 title: "Ashes of the Sky",
-genre: "Steampunk / Dystopian",
+genre: "Steampunk",
 synopsis: "In a war-torn city powered by steam and shadows, a ragtag group of rebels fights against a tyrannical regime using advanced technology and guerrilla tactics. As the tension escalates, secrets from their past intertwine with their struggle for freedom, leading to a confrontation that will determine the fate of their world.",
 url: "https://i.imgur.com/Y07bmip.jpeg",
 story: `
@@ -96,7 +96,7 @@ With a newfound alliance, Jack and Mia found themselves woven into the fabric of
 
 {
 title: "Shadows of Ronin",
-genre: "Western Fantasy",
+genre: "Western",
 synopsis: "In a bustling market town blending ancient traditions with Western grit, a lone gunman is drawn into a conflict between rival clans. As the past threatens to resurface, he must choose between revenge and redemption.",
 url: "https://i.imgur.com/UNs2wrZ.jpeg",
 story: `
@@ -150,7 +150,7 @@ As dawn broke over the horizon, silvery light began to spill into the streets. A
 
 {
 title: "Whispers of the Cherry Blossom",
-genre: "Fantasy Romance",
+genre: "Fantasy / Romance",
 synopsis: "In a magical realm where cherry blossoms hold whispers of ancient secrets, two young souls, Mei and Lin, find their destinies intertwined. As they navigate the trials of impending war within their kingdom, they must uncover the truth behind a prophecy that binds their fates together.",
 url: "https://i.imgur.com/T99uMCW.jpeg",
 story: `
@@ -328,7 +328,7 @@ As dawn broke over Neon Haven, the streets shimmered softly, the neon lights fli
 
 {
 title: "Ashes of Tomorrow",
-genre: "Post-Apocalyptic Fiction",
+genre: "Post-Apocalyptic",
 synopsis: "In a desolate future where society has crumbled, a young girl embarks on a quest to uncover the secrets of her past amid the ruins of a once-thriving city. As she navigates through the remnants of civilization, she encounters lost souls and remnants of technology that hold the key to rebuilding a shattered world.",
 url: "https://i.imgur.com/D1TO9Q1.jpeg",
 story: `
@@ -404,7 +404,7 @@ With the sun beginning to set, casting a golden hue across the landscape, they s
 
 {
 title: "Aether's Secrets",
-genre: "Steampunk Fantasy",
+genre: "Steampunk",
 synopsis: "In a fantastical steampunk world, a daring witch named Elara soars through the skies on her mechanical broom, seeking to uncover ancient secrets and restore balance to her city. With the help of her magical gadgets and a band of quirky allies, she must confront an evil inventor who threatens to unleash chaos through his twisted inventions.",
 url: "https://i.imgur.com/5EkNWwx.jpeg",
 story: `
@@ -480,7 +480,7 @@ As the final blow reverberated through the air and Krenos fell, silence envelope
 
 {
 title: "The Clockwork Conspiracy",
-genre: "Steampunk Fantasy",
+genre: "Steampunk",
 synopsis: "In a world where magic and technology intertwine, a skilled sharpshooter named Elara uncovers a treacherous plot by a secret society attempting to control the city of Vespera. Teaming up with a mysterious inventor and a cunning rogue, she must navigate through treacherous alliances and a storm of chaos to reclaim the heart of Vespera.",
 url: "https://i.imgur.com/RkbabSN.jpeg",
 story: `
@@ -506,7 +506,7 @@ As the clock struck one, the remnants of the rogue society scattered into the ni
 
 {
 title: "Shadows in the City",
-genre: "Noir Thriller",
+genre: "Noir",
 synopsis: "In a city cloaked in corruption and secrets, detective Jack Malone finds himself caught in a deadly game of cat and mouse. As he hunts for a notorious crime boss, he must confront his own inner demons and question the thin line between justice and vengeance.",
 url: "https://i.imgur.com/o91YaPt.jpeg",
 story: `
@@ -556,7 +556,7 @@ With renewed determination burning in his electric heart, Dusty nodded. It was t
 
 {
 title: "The Shattered Sky",
-genre: "Post-Apocalyptic Romance",
+genre: "Post-Apocalyptic",
 synopsis: "In a world ravaged by devastation, two survivors, Kira and Eli, find themselves at a crossroads amid a fierce storm. As they confront the ghosts of their pasts and the weight of their choices, they must decide whether to remain anchored in their pain or embrace the possibility of love and hope.",
 url: "https://i.imgur.com/31Bg4LO.jpeg",
 story: `
@@ -582,7 +582,7 @@ And as the first rays of sunlight began to pierce through the clouds, a fragile 
 
 {
 title: "Dust and Ashes",
-genre: "Steampunk Western",
+genre: "Steampunk",
 synopsis: "In a war-torn frontier town, three fearless gunslingers—Reyna, Jasper, and Lila—find themselves fleeing from a ruthless gang that has taken control. Their mission to retrieve an ancient artifact spirals into chaos as they navigate explosive encounters and unexpected alliances, igniting a fight for freedom.",
 url: "https://i.imgur.com/hjAJ1In.jpeg",
 story: `
@@ -906,7 +906,7 @@ As dawn broke, the city stirred awake, illuminated by the soft light of the risi
 
 {
 title: "Whispers of the Moonlit Grove",
-genre: "Fantasy Romance",
+genre: "Fantasy / Romance",
 synopsis: "In a mystical realm where the Moon's blessings dictate the flow of magic, two souls from rival clans discover a shared destiny under the sacred Moonlit Grove. As they confront ancient feuds and darker forces threatening their world, their burgeoning love must overcome tradition, mistrust, and a prophecy that could change everything.",
 url: "https://i.imgur.com/0H9KusF.jpeg",
 story: `
@@ -1008,7 +1008,7 @@ As the dust settled, Anna collapsed beside Echo, panting and bruised but filled 
 
 {
 title: "Whispers of Light",
-genre: "Family Fantasy",
+genre: "Family / Fantasy",
 synopsis: "In a cozy room filled with laughter and twinkling lights, a father and his four children discover the magical power of imagination through an enchanting game that brings their dreams to life. As they navigate the boundaries between fantasy and reality, they learn the true meaning of family, wonder, and the strength of their shared bond.",
 url: "https://i.imgur.com/xlyabYE.jpeg",
 story: `
@@ -1056,7 +1056,7 @@ Jace turned back to his screens, the comforting glow returning to the room. He h
 
 {
 title: "The Guardian's Fury",
-genre: "Fantasy Adventure",
+genre: "Fantasy / Adventure",
 synopsis: "In a world ravaged by elemental chaos, a fierce warrior named Ashira battles to protect her tribe from a monstrous threat. With her mystical beast companion, she races against time to confront a powerful entity that seeks to consume her world.",
 url: "https://i.imgur.com/LCNSoAK.jpeg",
 story: `
@@ -1220,7 +1220,7 @@ When the sun dipped below the horizon and the spirits began to fade, Leo felt a 
 
 {
 title: "Reflections of the Masquerade",
-genre: "Gothic Romance",
+genre: "Gothic / Romance",
 synopsis: "In a grand mansion shrouded by mystery, a masked ball reveals secrets and hidden desires. As Ethan, a brooding stranger, encounters Caprice, a curious lady, their fates intertwine, leading them to uncover the mansion’s dark history and their own hearts.",
 url: "https://i.imgur.com/1HzRTxe.jpeg",
 story: `

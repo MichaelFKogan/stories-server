@@ -163,7 +163,7 @@ Kira adjusted her headphones and walked into the heart of the city. The night wa
 
 {
 title: "Echoes of the Past",
-genre: "Sci-Fi / Coming-of-Age",
+genre: "Sci-Fi / Coming of Age",
 synopsis: "In a world where nostalgia is commodified, a young boy, inhibited by the weight of his memories, discovers a mysterious portal that allows him to relive forgotten moments. As he navigates through the vivid landscapes of both joy and sorrow, he must decide whether to embrace the past or forge his own future.",
 url: "https://i.imgur.com/f0dfI54.jpeg",
 story: `
@@ -257,7 +257,7 @@ As they set off under the shimmering skies, the horizon beckoned, and the possib
 
 {
 title: "Shadows of the Forest",
-genre: "Fantasy Adventure",
+genre: "Fantasy / Adventure",
 synopsis: "In the heart of the Ironwood Forest, a relentless orc warrior named Groth leads a band of hunters on a quest for survival against a rival clan. As they track their prey, Groth discovers that unity among his kind may hold the key to overcoming their fiercest enemy.",
 url: "https://i.imgur.com/s5oWzQV.jpeg",
 story: `
@@ -329,7 +329,7 @@ The ocean faded into the background, a beacon of hope and possibility as she emb
 
 {
 title: "Echoes of the Code",
-genre: "Cyberpunk Thriller",
+genre: "Cyberpunk / Thriller",
 synopsis: "In a neon-drenched metropolis, a lone hacker named Axel stumbles upon a conspiracy that could unravel the city's corrupt underbelly. As he delves deeper into the lines of code, he must navigate a treacherous world where betrayal lurks in every byte, and his life hangs in the balance.",
 url: "https://i.imgur.com/JlhDaXM.jpeg",
 story: `
@@ -413,7 +413,7 @@ And as they emerged from the shadows into the light of dawn, Zara vowed to recla
 
 {
 title: "The Lucky Dumpling",
-genre: "Fantasy Adventure",
+genre: "Fantasy / Adventure",
 synopsis: "In a magical noodle shop that only appears once a year, a spirited boy named Kai discovers a hidden recipe that leads him on a whimsical quest to find the ingredients for the ultimate dumpling, which promises to grant its eater a single wish. Along the way, he befriends a cast of quirky characters, learns the importance of friendship, and uncovers the true magic of food.",
 url: "https://i.imgur.com/O18sc79.jpeg",
 story: `
@@ -513,7 +513,7 @@ As she stepped back into the light flooding the streets, Mara felt a weight lift
 
 {
 title: "Neon Guardian",
-genre: "Cyberpunk Sci-Fi",
+genre: "Cyberpunk / Sci-Fi",
 synopsis: "In a neon-lit metropolis where technology reigns supreme and humanity blurs with machinery, a young guardian discovers a conspiracy that could shatter the fragile balance between human and machine. As she races against time to uncover the truth, she must confront powerful forces willing to do anything to maintain control.",
 url: "https://i.imgur.com/345LXPa.jpeg",
 story: `
@@ -591,7 +591,7 @@ As the sun set on the battlefield, illuminating the faces of the triumphant orcs
 
 {
 title: "Echoes in the Machine",
-genre: "Cyberpunk Science Fiction",
+genre: "Cyberpunk / Sci-Fi",
 synopsis: "In a world where humanity blends with technology, a young freethinker battles against the authoritarian regime to reclaim his identity. Equipped with a unique cybernetic enhancement that links him to an underground network, he must navigate the treacherous landscape where reality is fractured and memories are commodities.",
 url: "https://i.imgur.com/a1wZmC0.jpeg",
 story: `
@@ -703,7 +703,7 @@ Determined, Dorian and Xera readied themselves. The neon sands of time would not
 
 {
 title: "Circuit Hearts",
-genre: "Cyberpunk Sci-Fi",
+genre: "Cyberpunk / Sci-Fi",
 synopsis: "In a neon-lit bar where humans and robots mingle, a lonely girl discovers an emotional connection with a quirky robotic bartender. Their late-night conversations lead them to explore the boundaries of artificial intelligence and human emotion.",
 url: "https://i.imgur.com/E1HSO8W.jpeg",
 story: `
@@ -863,7 +863,7 @@ With trepidation and optimism in tandem, Z3R0 reached out to the stars, his once
 
 {
 title: "Pixelated Connections",
-genre: "Young Adult Sci-Fi",
+genre: "Young Adult",
 synopsis: "In a neon-lit gaming arcade where virtual realities blend with the true essence of life, two introverted teens forge a bond as they navigate challenges both in the game world and in reality. As they uncover a hidden game that reveals their pasts, they must decide what they truly seek: the thrill of the game or the warmth of companionship.",
 url: "https://i.imgur.com/A6JqnEJ.jpeg",
 story: `

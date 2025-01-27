@@ -1,7 +1,7 @@
 const top = [
 {
 title: "Neon Shadows",
-genre: "Cyberpunk Thriller",
+genre: "Cyberpunk / Thriller",
 synopsis: "In a vibrant, neon-lit metropolis teeming with secrets, a skilled hacker named Kyra uncovers a conspiracy that threatens the balance of power. As she delves deeper into the darker alleyways of her city, she must navigate a web of cybernetic espionage, with her own fate hanging in the balance.",
 url: "https://i.imgur.com/rpGXXvi.jpg",
 story: `
@@ -34,7 +34,7 @@ Together, they emerged from the depths of the shadows. Tonight was just the begi
 },
 {
 title: "Popcorn Dreams",
-genre: "Heartwarming Fantasy",
+genre: "Family / Kids / Heartwarming Fantasy",
 synopsis: "In a small, snow-covered town, an endearing elderly couple finds themselves magically transported to their favorite movie world every time they share a bowl of popcorn. As they navigate whimsical adventures, they rediscover their love for each other and the joy of embracing life's cinematic moments.",
 url: "https://i.imgur.com/qMscW16.jpeg",
 story: `
@@ -59,7 +59,7 @@ As they snuggled back into their chairs, ready for another bowl of popcorn—and
 },
   {
     title: "Shadows in the Rain",
-    genre: "Cyberpunk Noir",
+    genre: "Cyberpunk / Noir",
     url: "https://i.imgur.com/ymYdONy.jpeg",
     story: `
 In the heart of Neo-Arcadia, where neon lights flickered like dying stars amidst the perpetual rain, a woman named Lyra stood cloaked in darkness. The relentless downpour drummed against her black trench coat, creating a symphony of chaos that mirrored the turmoil within her.

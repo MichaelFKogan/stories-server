@@ -29,7 +29,7 @@ When the dust settled, Seraphine stood triumphant, surrounded by the echoing cri
 
 {
 title: "Skyward Dreams",
-genre: "Steampunk Adventure",
+genre: "Steampunk",
 synopsis: "In a fantastical version of Paris, two young inventors, Elara and Finn, embark on a daring mission to recover a stolen blueprint for a revolutionary flying machine. As they navigate their quirky city filled with airships and steam-powered contraptions, they uncover a web of intrigue that will change their lives forever.",
 url: "https://i.imgur.com/PbXID6Y.jpeg",
 story: `
@@ -56,7 +56,7 @@ As they flew back to safety aboard their hastily constructed flying machine, the
 
 {
 title: "Shadow Rider",
-genre: "Sci-Fi Action",
+genre: "Sci-Fi / Action",
 synopsis: "In a dystopian future, a lone motorcycle rider named Jax races through a city engulfed in chaos, pursued by rogue drones. As he seeks to uncover the truth behind a corporate conspiracy, Jax must evade deadly pursuers, navigate explosive encounters, and confront his own past.",
 url: "https://i.imgur.com/9ODypD1.jpeg",
 story: `
@@ -148,7 +148,7 @@ As they stood united in the fading twilight, the horizon filled with a sense of 
 
 {
 title: "Aether's Embrace",
-genre: "Steampunk Adventure",
+genre: "Steampunk",
 synopsis: "In a post-industrial city floating above the remnants of a fallen world, two ingenious engineers, Alara and Linnea, uncover a secret map leading to a legendary airborne treasure. As they navigate their disparate aspirations and the perils of airship pirates, they must choose between personal ambition and the strength of their bond.",
 url: "https://i.imgur.com/ifpw6Xh.jpeg",
 story: `
@@ -190,7 +190,7 @@ After what felt like an eternity, the ship finally emerged from the vortex, land
 
 {
 title: "Echoes of Ruin",
-genre: "Post-Apocalyptic Adventure",
+genre: "Post-Apocalyptic",
 synopsis: "In a world devastated by an unknown catastrophe, a group of five survivors embarks on a perilous journey through the remnants of a once-thriving city. As they navigate the dangers of their new reality, they must confront not just external threats, but their own fears and secrets that could tear them apart.",
 url: "https://i.imgur.com/vE5Npav.jpeg",
 story: `
@@ -272,7 +272,7 @@ In that moment, beneath the sprawling ruins of their past, Spark and Titan forge
 
 {
 title: "Shadows of the Dust",
-genre: "Western Fantasy",
+genre: "Western",
 synopsis: "In a desolate town ravaged by dark magic, a lone gunslinger confronts a horde of cursed undead to protect the last remnants of civilization. Amidst the chaos, he discovers a deeper darkness at the heart of the town that threatens not just its people, but the very fabric of reality itself.",
 url: "https://i.imgur.com/NwdESfo.jpeg",
 story: `
@@ -436,7 +436,7 @@ With renewed resolve, they faced the approaching Enforcers as a unified front. T
 
 {
 title: "Ashes of Tomorrow",
-genre: "Dystopian Fiction",
+genre: "Dystopian",
 synopsis: "In a post-apocalyptic world ravaged by war and decay, a scarred father and his young daughter navigate the dangers of a city crumbling under the weight of its own history. Their bond is tested as they confront threats both external and internal, forcing them to distinguish between despair and hope.",
 url: "https://i.imgur.com/vuVMCYR.jpeg",
 story: `
@@ -460,7 +460,7 @@ Under the dim glow of the stars, they moved away from the fire and deeper into t
 
 {
 title: "The Echoes of Ruin",
-genre: "Post-Apocalyptic Adventure",
+genre: "Post-Apocalyptic",
 synopsis: "In a world ravaged by time and conflict, three teens navigate the debris of a once-great city in search of answers—and possibly a way to rebuild. As they explore the ruins, they confront both the ghosts of their pasts and the shadows of impending danger.",
 url: "https://i.imgur.com/EJbej4H.jpeg",
 story: `

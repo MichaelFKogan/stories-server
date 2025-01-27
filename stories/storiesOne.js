@@ -2,7 +2,7 @@ const storiesOne = [
 
 {
 title: "The Last Courier",
-genre: "Post-Apocalyptic Fiction",
+genre: "Post-Apocalyptic",
 synopsis: "In a post-apocalyptic world where humanity teeters on the brink of extinction, Kade, a determined courier, carries the last hope for survival—a data pack containing the key to The Haven, a rumored sanctuary for the remaining survivors. As he navigates a desolate city overrun by danger, Kade must fight to protect the fragile hope that could restore a broken world, all while confronting his own haunting past.",
 url: "https://i.imgur.com/G2ppaRW.jpeg",
 story: `
@@ -254,7 +254,7 @@ Thus, Clara Hawthorne became a guardian of Elmsworth, a keeper of the whispers t
 },
 {
 title: "Emergence",
-genre: "Post-Apocalyptic Fantasy",
+genre: "Post-Apocalyptic",
 synopsis: "In a post-apocalyptic world, Kael, a survivor of humanity’s collapse, encounters a powerful Titan made of fire and ash, symbolizing nature’s wrath and potential for renewal. Together, they awaken the earth’s healing power, offering hope for a rebirth of civilization in harmony with nature.",
 url: "https://i.imgur.com/I5QZAUX.jpeg",
 story: `
@@ -281,7 +281,7 @@ The Titan remained in the backdrop, a guardian watching over the resurrection of
 },
 {
 title: "Emerald Shadows",
-genre: "Post-Apocalyptic Sci-Fi",
+genre: "Post-Apocalyptic",
 synopsis: "In a post-apocalyptic world overrun by nature, Lena, a skilled scavenger, discovers a hidden orb that could hold the key to restoring humanity’s lost technology and reviving a dying world. As she unlocks its ancient secrets, she embraces her role in reshaping the future from the ashes of the past.",
 url: "https://i.imgur.com/nFnyCMJ.jpeg",
 story: `
@@ -313,7 +313,7 @@ With the orb’s echo still in her heart, Lena knew her journey was just beginni
 },
 {
 title: "Echoes of Silence",
-genre: "Slice of Life / Coming-of-Age",
+genre: "Slice of Life / Coming of Age",
 synopsis: "Hana, a young woman navigating the transition from high school to adulthood, finds comfort and inspiration in the music that fills her room, dreaming of a future where she creates a café space to write and share her stories. In this quiet moment of reflection, she embraces the uncertainty of her path while feeling a deep sense of possibility for what lies ahead.",
 url: "https://i.imgur.com/R3saZ4k.jpeg",
 story: `
@@ -337,7 +337,7 @@ As night fully enveloped the city, Hana lingered in her reverie, fueled by the m
 },
 {
 title: "Neon Shadows",
-genre: "Cyberpunk Thriller",
+genre: "Cyberpunk / Thriller",
 synopsis: "In a neon-lit, dystopian Neo-Tokyo, Kaori, a bio-enhanced bounty hunter known as 'The Phantom,' hunts down a corrupt CEO who plans to enslave the city's citizens through mind-control technology. After a fierce battle, she dismantles his plan, proving that even in a world ruled by corporations, humanity's resilience cannot be controlled.",
 url: "https://i.imgur.com/Fs7NnpD.jpeg",
 story: `
@@ -576,7 +576,7 @@ With the weight of the city’s neon life swirling around her, Zara prepared to 
 },
 {
 title: "The Race of Legends",
-genre: "Fantasy Adventure",
+genre: "Fantasy / Adventure",
 synopsis: "Finn, a spirited fox with a passion for speed, races in the prestigious Grand Mountain Rally, facing fierce competitors and treacherous terrain in pursuit of the legendary Golden Tire. With the help of his cleverness and his best friend Bella, Finn triumphs over the ruthless Grizz, proving that true victory comes from courage, friendship, and never giving up on your dreams.",
 url: "https://i.imgur.com/8DRaU1c.jpeg",
 story: `
@@ -705,7 +705,7 @@ As the spacecraft receded into the far reaches of space, Omega-9 turned towards 
 },
 {
 title: "Shadows in the Rain",
-genre: "Cyberpunk Noir",
+genre: "Cyberpunk / Noir",
 synopsis: "In the neon-lit city of Neo-Arcadia, Lyra, a detective of the forgotten, embarks on a dangerous mission to uncover a conspiracy involving technology that can rewrite human memory, driven by the ghosts of her past and the guidance of her exiled partner. As she confronts the shadows of the city, she must navigate a labyrinth of danger and secrets to stop a powerful force from altering humanity's very essence.",
 url: "https://i.imgur.com/ymYdONy.jpeg",
 story: `
@@ -834,7 +834,7 @@ And in the depths of his heart, he knew one thing for certain: Dreams can change
 },
 {
 title: "Embers Of Tomorrow",
-genre: "Dystopian Fiction",
+genre: "Dystopian",
 synopsis: "In a post-apocalyptic world ravaged by war, Sam, burdened by the loss of his loved ones, discovers a glimmer of hope in the form of the Resistance, a group dedicated to rebuilding civilization. As he faces the uncertainty of a devastated world, Sam chooses to embrace the possibility of renewal, inspired by a mural that reminds him of humanity’s resilient spirit.",
 url: "https://i.imgur.com/iPR7TMr.jpeg",
 story: `
@@ -894,7 +894,7 @@ Thus, the Fluffville Chronicles began, tales of adventure, unity, and the magic 
 },
 {
 title: "Echoes of the Ashen City",
-genre: "Post-Apocalyptic Thriller",
+genre: "Post-Apocalyptic",
 synopsis: "In a devastated city ravaged by explosions, a group of survivors led by the determined Elara must navigate the ruins of New Haven, fighting to stay alive amidst the chaos and discovering that even in the face of destruction, hope and resilience can ignite the possibility of rebuilding. As they scavenge and escape the flames, they realize their unity is the key to overcoming the desolation and forging a new future.",
 url: "https://i.imgur.com/hjP0jAf.jpeg",
 story: `
@@ -934,7 +934,7 @@ And so, they forged ahead into the uncertainty, bound by resilience and the ling
 },
 {
 title: "Love in the Shadows",
-genre: "Noir Thriller",
+genre: "Noir",
 synopsis: "In a rain-soaked city, Detective Jack Sullivan confronts the elusive and dangerous Evelyn Steele, a criminal with whom he shares a complicated past. As they face off, caught between duty and desire, their tangled emotions and inevitable fates blur the line between love and betrayal, leaving their story unresolved.",
 url: "https://i.imgur.com/y8djluP.jpeg",
 story: `
@@ -1033,7 +1033,7 @@ From that day on, whenever Lila roamed the streets, she carried the essence of h
 },
 {
 title: "Embers Of Tomorrow",
-genre: "Dystopian Science Fiction",
+genre: "Dystopian",
 synopsis: "In a world consumed by chaos and environmental collapse, Zephyr, a reluctant prophet, watches as humanity's hubris leads to Earth's destruction. Amid the devastation, he vows to be a voice for the voiceless, carrying hope for rebirth and redemption as he walks toward a future where humanity can heal and unite with the Earth once again.",
 url: "https://i.imgur.com/k8bjYRd.jpeg",
 story: `

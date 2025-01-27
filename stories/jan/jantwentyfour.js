@@ -155,7 +155,7 @@ As the sun set, casting a golden hue over the festivities, Leo beamed. He knew t
 
 {
 title: "Pink Death",
-genre: "Cyberpunk Dystopia",
+genre: "Cyberpunk / Dystopia",
 synopsis: "In a neon-lit metropolis where armor is both a fashion statement and a necessity for survival, a female enforcer known as 'Pink Death' navigates the treacherous underbelly of her city to uncover the truth behind her brother's disappearance. As she delves deeper, she finds not only the risks of betrayal but also the voice of a long-silenced rebellion.",
 url: "https://i.imgur.com/Isz6RYU.jpeg",
 story: `
@@ -313,7 +313,7 @@ And so, he turned away from the rift, stepping back into the world above, carryi
 
 {
 title: "Echoes of Ashes",
-genre: "Post-Apocalyptic Fiction",
+genre: "Post-Apocalyptic",
 synopsis: "In a world ravaged by an unknown disaster, a young boy named Kai navigates the remnants of a once-thriving city. As he unravels the truth behind the destruction, he discovers hope and resilience in the most unexpected places.",
 url: "https://i.imgur.com/aYMjIWF.jpeg",
 story: `
@@ -349,7 +349,7 @@ In the midst of devastation, Kai found belonging—a place where even embers cou
 
 {
 title: "The Last Enchantment",
-genre: "Cyberpunk Fantasy",
+genre: "Cyberpunk / Fantasy",
 synopsis: "In a dystopian city where technology has nearly obliterated magic, a brave girl in a maid outfit stands before a towering mech, the last guardian of ancient powers. As tensions rise between humans and machines, she must awaken the forgotten magic within herself to forge a new path for both worlds.",
 url: "https://i.imgur.com/sNbN9DI.jpeg",
 story: `
@@ -411,7 +411,7 @@ In that moment, Jun understood that the light in the shadows wasn’t just a hid
 
 {
 title: "Neon Shadows",
-genre: "Cyberpunk Thriller",
+genre: "Cyberpunk / Thriller",
 synopsis: "In a dystopian future where corporate greed has engulfed the city in chaos, a mysterious girl known only as 'Red' navigates the neon-lit streets hunting for the truth about her past. With a powerful AI seeking her out, Red must make difficult choices that will determine the fate of the city and her own identity.",
 url: "https://i.imgur.com/qbDn5bQ.jpeg",
 story: `
@@ -650,7 +650,7 @@ In the heart of Neotopia, amidst the vibrant cascades of nature, an automation a
 
 {
 title: "Sasquatch and the Last Can",
-genre: "Dark Comedy",
+genre: "Comedy / Dark Comedy",
 synopsis: "In a run-down cabin deep within the woods, a disillusioned Sasquatch, tired of living in solitude, finds himself engaged in an existential crisis over a can of beer. As he attempts to reclaim his former glory of terrifying humans, he discovers that sometimes, companionship is more frightening than the strangers lurking outside.",
 url: "https://i.imgur.com/evZIibQ.jpeg",
 story: `
@@ -688,7 +688,7 @@ With a half-hearted grin, he picked up a fresh can from the clutter, offering it
 
 {
 title: "Whispers in the Autumn Breeze",
-genre: "Contemporary Fiction",
+genre: "Fiction",
 synopsis: "In a quiet town adorned with autumn leaves, a young woman named Elara grapples with the echoes of a past love. As she strolls through the golden-hued streets, an unexpected encounter forces her to confront the lingering feelings that have haunted her since their abrupt farewell.",
 url: "https://i.imgur.com/rAVc0Z2.jpeg",
 story: `
@@ -766,7 +766,7 @@ In that moment, the bond they shared reformed into a fragile alliance, two Senti
 
 {
 title: "Neon Reaper",
-genre: "Cyberpunk Fantasy",
+genre: "Cyberpunk / Fantasy",
 synopsis: "In a neon-lit metropolis where technology reigns and life is a commodity, a skeletal figure known as the Reaper emerges. Tasked with collecting souls entangled in the corruption of the city's elite, he grapples with the remnants of his humanity, seeking redemption amidst the chaos.",
 url: "https://i.imgur.com/uQWQzh8.jpeg",
 story: `
@@ -848,7 +848,7 @@ Breathing heavily yet triumphantly, Lyra emerged from the caves, Heartstone in h
 
 {
 title: "Shadows of the Neon Veil",
-genre: "Cyberpunk Fiction",
+genre: "Cyberpunk / Fiction",
 synopsis: "In a neon-drenched city ruled by corporate greed and technology, a lone vigilante known asCipher seeks to expose the corrupt elite. Armed with a glowing staff and a cryptic past, Cipher navigates the digital underworld, racing against time to retrieve vital data that could dismantle the oppressive regime.",
 url: "https://i.imgur.com/RtZGiKV.jpeg",
 story: `
@@ -888,7 +888,7 @@ Together, they vanished into the night, two shadows merging with the neon embrac
 
 {
 title: "Echoes of Tomorrow",
-genre: "Cyberpunk Sci-Fi",
+genre: "Cyberpunk / Sci-Fi",
 synopsis: "In a sprawling metropolis plagued by corruption and decay, a rogue synthetic humanoid named Mira embarks on a mission to uncover the truth about her origin. As she delves deeper into the city's secrets, she discovers hidden agendas that could reshape humanity’s future.",
 url: "https://i.imgur.com/enXWyPi.jpeg",
 story: `
@@ -922,7 +922,7 @@ In that moment, as the city burned with the flames of revolution, Mira understoo
 
 {
 title: "Frosted Fury",
-genre: "Fantasy Adventure",
+genre: "Fantasy / Adventure",
 synopsis: "In a post-apocalyptic world frozen over by an eternal winter, a warrior bear named Karruk seeks vengeance against the dark sorcerer who betrayed his kind. With the help of a motley band of survivors, Karruk must navigate treacherous lands to reclaim his homeland and restore balance to a world ruled by fear.",
 url: "https://i.imgur.com/VzvzvlH.jpeg",
 story: `
