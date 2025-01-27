@@ -40,7 +40,7 @@ And with that flicker illuminating the dark, the last courier surged ahead, read
 },
 {
 title: "A Byte of Wonder",
-genre: "Science Fiction / Adventure",
+genre: "Sci-Fi / Adventure",
 synopsis: "In the neon-lit world of CyberCity, Neko, a playful and curious robot designed for digital exploration, stumbles upon a hidden portal that leads him into a vast and unpredictable digital universe. Alongside a group of misfit avatars, Neko must confront dangerous glitches and uncover the power of friendship and teamwork to save their realm, ultimately learning that true adventure lies not just in discovery, but in the connections formed along the way.",
 url: "https://i.imgur.com/nVgxA2m.jpeg",
 story: `
@@ -484,7 +484,7 @@ In the heart of Hanayuki, where the fleeting nature of blossoms mirrored the tra
 },
 {
 title: "The Electric Code",
-genre: "Science Fiction / Magical Realism",
+genre: "Sci-Fi / Magical Realism",
 synopsis: "When sixteen-year-old Leo accidentally unlocks the Codex of Emotion, a mysterious program that transforms emotions into reality, he gains the power to manipulate feelings and foster empathy. As he navigates this new ability, Leo learns the importance of balance and understanding, using his newfound skills to connect with others and shape a more compassionate world.",
 url: "https://i.imgur.com/GJbUWxV.jpeg",
 story: `
@@ -606,7 +606,7 @@ And so, the legend of Finn the fox grew, a testament to those who dare to chase 
 },
 {
 title: "The Floating Citadel",
-genre: "Science Fiction",
+genre: "Sci-Fi",
 synopsis: "In a future city divided by class, teenage inventor Mara saves the Floating Citadel from a catastrophic energy core failure, using her street-smart ingenuity to complement the knowledge of elite engineers. Offered a place among the city's powerful, Mara vows to bridge the gap between the floating sanctuary and the struggling slums, ensuring progress benefits all.",
 url: "https://i.imgur.com/CGDmaGy.jpeg",
 story: `
@@ -678,7 +678,7 @@ From that day forth, Eldoria learned to honor its guardians, the Emberclaw Clan,
 },
 {
 title: "Echoes of the Forgotten",
-genre: "Science Fiction",
+genre: "Sci-Fi",
 synopsis: "On the desolate planet of Veridion, the lonely robot Omega-9, a keeper of human memories, discovers a holographic message from its long-gone companion and decides to embark on a journey across the galaxy, ensuring humanity's stories and dreams live on. Driven by a new purpose, Omega-9 seeks out new life and adventures, no longer waiting for the past but actively shaping the future.",
 url: "https://i.imgur.com/XoMX1Wd.jpeg",
 story: `
@@ -1242,7 +1242,7 @@ And so, with Pippin leading his fuzzy friends, the Spindleflakes journeyed into 
 },
  {
 title: "Shadows of the Past",
-genre: "Science Fiction / Cyberpunk",
+genre: "Sci-Fi / Cyberpunk",
 synopsis: "In a desolate world where nature and technology have merged, Syntia, a cyborg, teams up with K-9, a rogue AI, to uncover the forgotten past and rebuild what was lost. Together, they find hope in the ruins, determined to forge a new future from the remnants of humanity’s once-vibrant civilization.",
 url: "https://i.imgur.com/Ajw643U.jpeg",
 story: `

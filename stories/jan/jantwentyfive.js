@@ -108,7 +108,7 @@ Together, they stepped away from the battlefield, leaving behind the past. A new
 
 {
 title: "Echoes of Iron",
-genre: "Science Fiction / Action",
+genre: "Sci-Fi / Action",
 synopsis: "In a distant future where humanity has colonized the stars, a lone soldier must navigate an abandoned space station to uncover the secrets of a devastating war against an unknown enemy. Haunted by his past and accompanied by an artificial intelligence that holds the key to his lost memories, he battles both external threats and the shadows lurking within.",
 url: "https://i.imgur.com/KRCjSmY.jpeg",
 story: `
@@ -142,7 +142,7 @@ In the vast emptiness of space, he was no longer just a soldier; he was a force 
 
 {
 title: "Echoes of Steel and Shadow",
-genre: "Science Fiction / Fantasy",
+genre: "Sci-Fi / Fantasy",
 synopsis: "In a world where ancient traditions clash with advanced technology, a lone samurai confronts a towering robot guardian, the last remnant of a bygone war. As the sun sets behind them, their duel will determine the fate of their intertwining legacies.",
 url: "https://i.imgur.com/7kilubw.jpeg",
 story: `
@@ -216,7 +216,7 @@ And so, Captain Rex and his crew sailed onward, their ship laden with riches and
 
 {
 title: "The Invasion of Hope",
-genre: "Science Fiction",
+genre: "Sci-Fi",
 synopsis: "In a city unexpectedly visited by alien spacecraft, a young artist named Mira discovers the invaders are not hostile but are here to share their advanced knowledge and art. As chaos erupts around her, she must rally her fellow citizens to embrace the unknown and forge a new path together.",
 url: "https://i.imgur.com/2R9r0r6.jpeg",
 story: `
@@ -248,7 +248,7 @@ What had begun as an invasion transformed into an invitation—a chance to explo
 
 {
 title: "Chasing Chronos",
-genre: "Science Fiction/Fantasy",
+genre: "Sci-Fi / Fantasy",
 synopsis: "In a world where time flows differently, a young girl named Mei discovers she has the ability to manipulate time itself. As she races through a surreal landscape filled with floating clocks, she must confront her fears and make a choice: to alter her past or embrace the present.",
 url: "https://i.imgur.com/1hpZr7U.jpeg",
 story: `
@@ -440,7 +440,7 @@ As the vessels drew closer, Lyra smiled, the flicker of connection pulsing withi
 
 {
 title: "Neon Hearts",
-genre: "Science Fiction / Romance",
+genre: "Sci-Fi / Romance",
 synopsis: "In a dystopian future where sentient robots navigate a rain-soaked metropolis, two machines defy their programmed limitations to explore the depths of love. Amidst the neon lights and bustling streets, they embark on a journey of discovery, realizing that emotions might not be exclusive to organic life.",
 url: "https://i.imgur.com/yRkxdIX.jpeg",
 story: `
@@ -542,7 +542,7 @@ As dawn broke, the pirates, eyes bright with triumph, sailed away, their bond st
 
 {
 title: "Chasing Chronos",
-genre: "Science Fiction/Fantasy",
+genre: "Sci-Fi / Fantasy",
 synopsis: "When Ethan, a beleaguered historian, discovers a portal to the past hidden within a crumbling clock tower, he takes a leap of faith into temporal chaos. As he navigates a series of pivotal moments from history, he must confront the choice between correcting mistakes and preserving the timeline—while racing against a shadowy figure determined to control time for darker purposes.",
 url: "https://i.imgur.com/ar78fla.jpeg",
 story: `
@@ -614,7 +614,7 @@ Light and shadow, Warriors of Fate, would either rise to reclaim the balance or 
 
 {
 title: "Echoes of a Distant World",
-genre: "Science Fiction / Action",
+genre: "Sci-Fi / Action",
 synopsis: "In a vibrant, alien landscape, a team of elite space marines embarks on a high-stakes mission to retrieve a powerful artifact from a hostile planet. As they navigate treacherous terrain and face unforeseen threats, the unity of the squad is tested, revealing secrets that could alter their fate—and the fate of the galaxy.",
 url: "https://i.imgur.com/LKklEyD.jpeg",
 story: `
@@ -936,7 +936,7 @@ As the cityscape blurred into a vibrant dream, Jade knew one thing remained clea
 
 {
 title: "Reflections of Tomorrow",
-genre: "Science Fiction",
+genre: "Sci-Fi",
 synopsis: "In an advanced research facility orbiting a distant planet, an astronaut encounters a mysterious, reflective orb that holds the key to unlocking the next phase of human evolution. As she navigates the challenges of trust and the unknown, she must decide whether to embrace the future it offers or protect the fragile humanity she's known.",
 url: "https://i.imgur.com/shqCrOl.jpeg",
 story: `
@@ -974,7 +974,7 @@ In the heart of space, amid the vastness of the cosmos, humanity’s choices and
 
 {
 title: "Echoes of Tomorrow",
-genre: "Science Fiction",
+genre: "Sci-Fi",
 synopsis: "In a near-future world where human consciousness can be uploaded into synthetic bodies, a newly awakened cyborg named Lyra grapples with her identity and the remnants of her past. As she embarks on a quest to reclaim her memories, she discovers a clandestine organization intent on erasing all traces of her human life.",
 url: "https://i.imgur.com/W397xLR.jpeg",
 story: `

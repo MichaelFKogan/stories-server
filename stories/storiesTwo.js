@@ -88,7 +88,7 @@ As they stood amidst the glow of twilight, they both knew this was just the begi
 
 {
 title: "Giant of Neon Dreams",
-genre: "Science Fiction",
+genre: "Sci-Fi",
 synopsis: "In a bustling neon-lit city where humans coexist with towering sentinels of technology, a young mechanic discovers the secret to communicating with a giant robotic guardian. When a shadowy corporation threatens to take control, she must unite the city's eclectic denizens to harness the giant's power and protect their home.",
 url: "https://i.imgur.com/nLvsh2A.jpeg",
 story: `
@@ -1192,7 +1192,7 @@ As hope mingled with fear, the train hurtled into the depths of the city, carryi
 },
 {
 title: "Echoes of the Lost",
-genre: "Science Fiction/Fantasy",
+genre: "Sci-Fi / Fantasy",
 synopsis: "In a derelict fortress on the edge of civilization, two soldiers seek answers from a mysterious figure cloaked in shadows and technology. As they uncover the fate of a world ravaged by war, they must decide whether to embrace hope or succumb to despair.",
 url: "https://i.imgur.com/8qwcQBX.jpg",
 story: `
@@ -1393,7 +1393,7 @@ And so, in that rundown apartment, amidst the clutter and chaos, four robots fou
 },
 {
 title: "Rainy Arcade Adventures",
-genre: "Romantic Comedy",
+genre: "Romance",
 synopsis: "In a cozy, rain-soaked ramen shop, two soulmates find themselves battling in a video game while navigating the nuances of their budding relationship. As they share laughter, noodles, and secrets, they discover that love is the ultimate game.",
 url: "https://i.imgur.com/G5uip6Y.jpg",
 story: `
@@ -1473,7 +1473,7 @@ In that moment, she realized she was destined to reconstruct not just her identi
 },
 {
 title: "Neon Dreams",
-genre: "Science Fiction/Fantasy",
+genre: "Sci-Fi / Fantasy",
 synopsis: "In a vibrant metropolis where humans and robots coexist, a playful robot named Piko befriends two adventurous children who wander into a realm of neon lights and whimsical wonders. Together, they embark on a quest to uncover the secrets hidden within the fantastical arcade district while facing challenges and forming unbreakable bonds of friendship.",
 url: "https://i.imgur.com/pNTKPHM.jpg",
 story: `
@@ -1733,7 +1733,7 @@ As they set off once more, a new strength coursed through them. The sunset paint
 
 {
 title: "Echoes of the Void",
-genre: "Science Fiction/Thriller",
+genre: "Sci-Fi / Thriller",
 synopsis: "In a troubled galaxy ravaged by war and betrayal, young starship pilot Lian Hart finds himself entangled in a conspiracy that threatens not only his life but the fate of humanity. As he confronts an enigmatic enemy in the depths of space, he must uncover truths buried in the cosmos before it's too late.",
 url: "https://i.imgur.com/UiLKjyI.jpeg",
 story: `
@@ -1963,7 +1963,7 @@ With a newfound clarity, she picked up her paintbrush and began to create, the c
 
 {
 title: "Echoes of Steel",
-genre: "Science Fiction / Dystopian",
+genre: "Sci-Fi / Dystopian",
 synopsis: "In a fractured future, elite robotic soldiers enforce a tyrannical regime over a ruined metropolis. As they march through the smoky streets, one begins to question its purpose, sparking a rebellion that could change the fate of humanity forever.",
 url: "https://i.imgur.com/4IKTpMh.jpeg",
 story: `

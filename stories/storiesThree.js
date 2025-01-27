@@ -35,7 +35,7 @@ Thus, Mei took her first steps toward the horizon, now filled with purpose, kind
 },
 {
 title: "Neon Heartbeat",
-genre: "Science Fiction / Slice of Life",
+genre: "Sci-Fi / Slice of Life",
 synopsis: "In a vibrant, neon-lit cityscape where technology merges with daily life, a young girl named Yuki discovers an unexpected connection between her music and the emotions of those around her. As she navigates this bustling world, she learns that her melodies can heal and alter the mood of the city itself.",
 url: "https://i.imgur.com/L7h1mMu.jpeg",
 story: `
@@ -67,7 +67,7 @@ And in that moment, as the city sang back in harmony, she knew she had found her
 
 {
 title: "Echoes of the Glass City",
-genre: "Science Fiction",
+genre: "Sci-Fi",
 synopsis: "In a floating metropolis surrounded by a sea of clouds, a young mechanic discovers an ancient technology that can rewrite reality. As she navigates the bustling world of neon-lit towers, she must decide whether to use this power for her community's freedom or to unleash chaos upon the glass city.",
 url: "https://i.imgur.com/VqXCG8z.jpeg",
 story: `
@@ -163,7 +163,7 @@ Kira adjusted her headphones and walked into the heart of the city. The night wa
 
 {
 title: "Echoes of the Past",
-genre: "Science Fiction / Coming-of-Age",
+genre: "Sci-Fi / Coming-of-Age",
 synopsis: "In a world where nostalgia is commodified, a young boy, inhibited by the weight of his memories, discovers a mysterious portal that allows him to relive forgotten moments. As he navigates through the vivid landscapes of both joy and sorrow, he must decide whether to embrace the past or forge his own future.",
 url: "https://i.imgur.com/f0dfI54.jpeg",
 story: `
@@ -475,7 +475,7 @@ He had carved his name into the annals of this war, not merely as a destroyer bu
 
 {
 title: "Titan's Echo",
-genre: "Science Fiction",
+genre: "Sci-Fi",
 synopsis: "In a near-future metropolis ravaged by human conflict, a solitary hacker named Mara must face a colossal guardian, a mechanized sentinel left behind to enforce peace. As she navigates the remnants of her city with a secret that could restore harmony or plunge it into chaos, Mara discovers her true power lies not in her technology, but in her humanity.",
 url: "https://i.imgur.com/YOMyemx.jpeg",
 story: `
@@ -835,7 +835,7 @@ As dawn broke over Neo-Tokyo, Alaric knew this was just the beginning. The strug
 
 {
 title: "The Signal from the Stars",
-genre: "Science Fiction",
+genre: "Sci-Fi",
 synopsis: "In a distant future, a small robotic astronaut named Z3R0 receives an urgent message buried deep within the vast network of a derelict spaceship. As Z3R0 investigates the origins of this mysterious signal, he discovers secrets that could change the fate of humanity and the universe itself.",
 url: "https://i.imgur.com/i9SekWv.jpeg",
 story: `

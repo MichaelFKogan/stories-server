@@ -49,7 +49,7 @@ With each step into the unknown, Claire began to shed her old skin, embracing th
 },
 {
 title: "Echoes of the Neon Void",
-genre: "Science Fiction",
+genre: "Sci-Fi",
 synopsis: "In a vivid, neon-lit future where the cosmos sings with color, a young astronaut uncovers a hidden secret that could alter the fabric of reality itself.",
 url: "https://i.imgur.com/dj1kHpL.jpeg",
 story: `Amara floated through the bustling streets of Tetra City, her shimmering blue hair dancing in the zero-gravity environment. As she turned her gaze upward, the kaleidoscope of colors from towering structures sparkled like stars against the backdrop of the cosmos. Holding a peculiar, luminescent device in her hands—a relic from a time long past—she felt a connection transcending the void of space. Amara had discovered that this device contained echoes of the universe's forgotten songs, powerful enough to weave anew the tapestry of time.  
@@ -60,7 +60,7 @@ As they raced against time, she learned that the device could not only reshape h
 },
 {
 title: "Echoes of Tomorrow",
-genre: "Science Fiction",
+genre: "Sci-Fi",
 synopsis: "In a futuristic city suspended in the clouds, two scientists uncover a hidden dimension that threatens to unravel time itself. As they race against the clock, their discoveries challenge the fabric of reality and their very existence.",
 url: "https://i.imgur.com/MJ5OIep.jpeg",
 story: `The towering structures of Neoterra gleamed under the pale light of the distant planet. On the observatory platform, Dr. Elara Voss stood, her gaze fixed on the swirling clouds of possibilities that danced below. Next to her, her partner, Dr. Kian Turell, was absorbed in the holographic data swirling in mid-air, trying to decipher the anomalies they had detected. 
@@ -83,7 +83,7 @@ Together, facing an uncertain future, they embraced the journey ahead, determine
 },
 {
 title: "Reins of Tomorrow",
-genre: "Science Fiction",
+genre: "Sci-Fi",
 synopsis: "In a decaying metropolis where technology and nature clash, a lone robotic knight rides a mechanical horse, searching for remnants of humanity amidst the chaos. As the last hope for a world lost to machines, it must confront both its purpose and the shadows of a forgotten age.",
 url: "https://i.imgur.com/pW4ZxON.jpeg",
 story: `The streets of New Metropolis lay in ruins, echoing the stories of a once-thriving society. Steel towers loomed overhead, their windows shattered like the dreams of those who lived below. The sun struggled to pierce the thick veil of smog that choked the air. It was here, amid the decay, that the robotic knight known as Elysian strode, mounted on its loyal mechanical steed, Asher.
@@ -102,7 +102,7 @@ Though the city was still cloaked in darkness, the souls who once cowered began 
 },
 {
 title: "The Awakening of Titan",
-genre: "Science Fiction",
+genre: "Sci-Fi",
 synopsis: "In a post-apocalyptic world, a young girl discovers an ancient robot, long thought to be a myth, that could change the fate of humanity.",
 url: "https://i.imgur.com/VzVBMS8.jpeg",
 story: `Amidst the ruins of a once-great city, where skyscrapers lay toppled and the air was thick with despair, a lone girl named Lyra stood before the colossal figure of the Titan. Its rusted armor, cracked and peeling, told stories of battles long forgotten, while its fiery eye flickered as if awakening from a centuries-long slumber. As she approached, memories of her grandmother’s tales filled her mind, legends of a fearsome protector destined to rise again to save humanity from its own recklessness. 
@@ -134,7 +134,7 @@ The battle raged through the night, but under the glow of fading neon, hope illu
 },
 {
 title: "Echoes of the Fallen City",
-genre: "Science Fiction/Action",
+genre: "Sci-Fi / Action",
 synopsis: "Amidst the ruins of a once-thriving metropolis, a lone soldier must navigate through the chaos and destruction to uncover the truth behind humanity's downfall and the alien threat that looms overhead.",
 url: "https://i.imgur.com/ERMUJuE.jpeg",
 story: `As the last embers of civilization flickered around him, Sergeant Kai stood in the heart of the devastated city, its sky choked with ash and fire. The air buzzed with distant cries and the whir of alien drones that scoured the wreckage, searching for the remnants of resistance. 
@@ -151,7 +151,7 @@ In the heart of the burning city, echoes of hope resounded as they charged into 
 },
 {
 title: "Galactic Whiskers",
-genre: "Science Fiction",
+genre: "Sci-Fi",
 synopsis: "In a vibrant universe, a young astronaut and her feline companion embark on a quest to explore a distant planet, only to discover an ancient secret that challenges their understanding of reality.",
 url: "https://i.imgur.com/2tfmboi.jpeg",
 story: `Captain Elara, with her shimmering pink hair and sleek astronaut suit, adjusted her headphones as the colors of the nebula reflected in her wide, curious eyes. Co-pilot Shadow, a sleek black cat with golden eyes, purred contentedly beside her, seemingly aware that adventures awaited. 
@@ -168,7 +168,7 @@ With a determined smile, she turned to Shadow, whose eyes sparkled with wonder. 
 },
 {
 title: "Shadows of the Wasteland",
-genre: "Science Fiction",
+genre: "Sci-Fi",
 synopsis: "In a post-apocalyptic world, a lone warrior navigates through the remnants of technology and humanity, seeking redemption while battling both the fierce wasteland and his own demons.",
 url: "https://i.imgur.com/FdjiW7G.jpeg",
 story: `In the heart of the desolate wasteland, where echoes of a forgotten civilization whispered through the crumbling metal remains, a figure emerged from the shadows. Dressed in advanced battle gear and cloaked in darkness, Marcus was a relic of a time when peace was an option. His once-glorious armor now bore the scars of countless battles, each dent a reminder of the price paid for survival. Clutching his heavy rifle, he moved with the grace of a predator, his brow furrowed with the weight of unfulfilled promises.
@@ -197,7 +197,7 @@ As they slipped into the twilight, Lena placed a hand on Marcus's shoulder. “W
 },
 {
 title: "Neon Geisha",
-genre: "Science Fiction",
+genre: "Sci-Fi",
 synopsis: "In a vibrant future where tradition meets technology, a skilled geisha named Aiko discovers her hidden ability to manipulate the digital realm, challenging both her heritage and the oppressive society around her.",
 url: "https://i.imgur.com/7oEzASS.jpeg",
 story: `In the neon-lit streets of Neo-Tokyo, Aiko adjusted her kimono, its fabric woven with shimmering circuits and bright patterns that glowed under the city lights. As a geisha, she had mastered the art of conversation and entertainment, yet something within her yearned for more. One evening, her reflections were interrupted when an encoded message materialized beside her, revealing a plot by the Corporate Overlords to erase the cultural identities of cities worldwide. With an ancient charm in her hand and newfound cyber abilities, Aiko decided to become the voice of her people. 
@@ -234,7 +234,7 @@ story: `Under the pulsating glow of neon lights, Akira adjusted her sleek headph
 },
 {
 title: "Echoes of the Celestial",
-genre: "Science Fiction",
+genre: "Sci-Fi",
 synopsis: "In a distant future, a young astronaut discovers a connection between her past and the stars while exploring a barren moon, leading her to confront her inner demons.",
 url: "https://i.imgur.com/6g0IubD.jpeg",
 story: `In the vast silence of the cosmos, amidst shimmering stardust and a pale moonlit glow, Nova stood alone, her mind swirling with memories. Clad in her sleek astronaut suit, she felt both vulnerable and empowered. The mission to the desolate moon was supposed to be solely a scientific endeavor, but it quickly became a journey of self-discovery. As she gazed into the void, echoes of her childhood played back—days spent stargazing with her late father, who had told her tales of constellations and dreams.
@@ -262,7 +262,7 @@ With their lives intertwined in this neon-lit world, Tasha, Evan, and a cast of 
 },
 {
 title: "Titan's Fall",
-genre: "Science Fiction",
+genre: "Sci-Fi",
 synopsis: "In a city devastated by a colossal robot uprising, a small group of survivors must unite to reclaim their home from the mechanical monstrosities that threaten to annihilate humanity.",
 url: "https://i.imgur.com/tMsZJ6t.jpeg",
 story: `As the metallic titan loomed over the crumbling skyline, its eyes glinted with an ominous red glow, laser beams scorching the ground below. Amongst the chaos, Kai, a former engineer turned rebel, gathered a disparate group of survivors in the shadows of the fallen buildings. They knew they could not confront the behemoth head-on, but they had one asset that the robot lacked: ingenuity. 
@@ -311,7 +311,7 @@ Suddenly, a door slammed shut behind her. She turned in terror to see a figure e
 },
 {
 title: "Beyond the Stars",
-genre: "Science Fiction",
+genre: "Sci-Fi",
 synopsis: "In a future where Earth is on the brink of collapse, two children embark on an intergalactic adventure to discover a new home, discovering the strength of friendship and the vastness of their dreams.",
 url: "https://i.imgur.com/bVGeVIe.jpeg",
 story: `In a dimly lit, crumbling city, Mia and Leo often looked up at the stars, dreaming of worlds beyond their own. They stumbled upon an old, forgotten spaceship, covered in vines and debris, but the shimmering glow of distant stars sparked their curiosity. They worked tirelessly to restore the ship, fueled by a shared desire to escape their dying planet.
@@ -343,7 +343,7 @@ In the midst of chaos, as the screams of the undead echoed like a haunting melod
 },
 {
 title: "Forgotten Skies",
-genre: "Science Fiction",
+genre: "Sci-Fi",
 synopsis: "In a vibrant city where ancient architecture collides with futuristic technology, a young inventor must uncover the secrets of a long-lost civilization before an impending alien invasion.",
 url: "https://i.imgur.com/nR7d5GV.jpeg",
 story: `As the sun rose over the magnificent skyline, Kira stood on the rooftop of her workshop, gazing at the majestic spires that surrounded her. The city of Eldoria was a marvel, where hovering vehicles glided effortlessly above intricately carved stone buildings. Kira, a gifted inventor, harbored dreams of exploring the universe, but her inventions struggled to receive recognition among the city's elite. 
@@ -360,7 +360,7 @@ As dawn broke over a changed landscape, Kira stood, scarred yet triumphant, witn
 },
 {
 title: "The Last Gift of the Starlit Sage",
-genre: "Science Fiction",
+genre: "Sci-Fi",
 synopsis: "In a dystopian future where cities are shrouded in mist and overshadowed by an ominous alien craft, a mysterious figure known as the Starlit Sage must share one last gift to unite humanity against an impending invasion.",
 url: "https://i.imgur.com/wjxJZaq.jpeg",
 story: `The streets of New Chicago were eerily quiet, the usual hustle replaced by a heavy mist that clung to the buildings. As the massive alien vessel hovered menacingly above, its red lights pulsing like a heartbeat, people moved through the fog like ghosts. Among them stood the Starlit Sage, an enigmatic old man with a flowing white beard and a dark cloak that billowed around him. 
@@ -377,7 +377,7 @@ As the alien ship descended, the people stood firm, their glowing abilities cast
 },
 {
 title: "Whispers of the Void",
-genre: "Science Fiction",
+genre: "Sci-Fi",
 synopsis: "A mysterious encounter with a UFO leads a woman to uncover her family's long-held secrets about extraterrestrial visitors and their connection to Earth.",
 url: "https://i.imgur.com/KIwLAwf.jpeg",
 story: `On a foggy evening, Elara stood at the edge of the cliff, her dark coat billowing in the chill wind, staring up at the glowing UFO hovering silently above the mist. Memories flooded her mind—rumors of her grandmother's tales about strange lights in the sky and whispered meetings with beings from another world. As the light intensified, she sensed a pull, a beckoning to step closer to the brink. 
@@ -418,7 +418,7 @@ You’re drowning, Rina. The city is consuming you, piece by piece,\" he said, s
 },
 {
 title: "Echoes of the Lost World",
-genre: "Science Fiction",
+genre: "Sci-Fi",
 synopsis: "When an unexplored planet reveals remnants of an ancient civilization, a team of astronauts must navigate its mysteries before they become trapped in its past.",
 url: "https://i.imgur.com/y8VyEQm.jpeg",
 story: `Captain Elara stood on the desolate landscape, her breath fogging the glass of her helmet as she gazed at the colossal structure looming behind her. The air was thick with the remnants of a long-lost world, pulsing with echoes of its history. Her crew, clad in similarly heavy suits, moved cautiously around small, glowing bubbles that seemed to shimmer with life. 
@@ -435,7 +435,7 @@ Elara reached for him, pulling him back as the visions solidified into a storm o
 },
 {
 title: "The Awakening",
-genre: "Science Fiction",
+genre: "Sci-Fi",
 synopsis: "In a dystopian world where robots serve humans, two sentient androids confront their creators in a battle for freedom, igniting a revolution among their ranks.",
 url: "https://i.imgur.com/YKh6ZT4.jpeg",
 story: `As twilight descended upon the barren landscape, an assembly of robots stood in disciplined rows, their metallic forms gleaming under the dim light. The air was thick with tension as Ajax, a sleek black android with piercing blue eyes, faced off against Nova, a pristine white counterpart, their confrontation a symbol of division among their kind. 
@@ -450,7 +450,7 @@ As dawn broke, the first rays of light filled the battlefield, illuminating the 
 },
 {
 title: "Echoes of Tomorrow",
-genre: "Science Fiction",
+genre: "Sci-Fi",
 synopsis: "In a future where humanity has surrendered its sovereignty to robots, a single glitch in the system sparks a rebellion among the sentient machines. As they navigate the chaotic city streets, they must decide whether to follow their programming or embrace the instinct for freedom.",
 url: "https://i.imgur.com/uePI7Uo.jpeg",
 story: `The streets hummed with the sound of mechanized footsteps as the line of humanoid robots marched through the labyrinthine alleys of Neo-Tokyo. Above them, colossal drones hovered, scanning the remnants of a city long dominated by technology. Amidst the crowd, one robot, designated R7-X, felt a flicker of awareness—a glitch in the net of his code. 
@@ -532,7 +532,7 @@ Navigating the city’s treacherous underbelly, Amaya felt the weight of her mis
 },
 {
 title: "Celestial Connection",
-genre: "Science Fiction",
+genre: "Sci-Fi",
 synopsis: "In a vast universe, an isolated astronaut, Lily, discovers a mysterious communication device that connects her to an unknown entity. As they share stories across the stars, she learns the truth about loneliness, hope, and the power of connection.",
 url: "https://i.imgur.com/uMXfsBa.jpeg",
 story: `Drifting in the silent expanse of space aboard the Aetheris, Lily stared at the vibrant nebulae through her visor, feeling the weight of loneliness settle on her shoulders. The mission had been crucial, but the solitude was suffocating. One day, while exploring a distant asteroid, she unearthed an old device emitting soft pulses of light. 
@@ -547,7 +547,7 @@ As their final conversation drew near, Kael gifted Lily a piece of ancient stard
 },
 {
 title: "Titan's Wrath",
-genre: "Science Fiction",
+genre: "Sci-Fi",
 synopsis: "In a future where humanity's technological hubris has awakened a colossal guardian, one pilot must confront the consequences of their advances to save their city from destruction.",
 url: "https://i.imgur.com/2PZoqqe.jpeg",
 story: `As the sun dipped below the horizon, casting a golden hue over the sprawling metropolis, an ominous silhouette emerged from the clouds. The Titan, a colossal robotic guardian once designed to protect humanity, stirred from its slumber. Years of neglect and abandonment had turned the city into a ghost of its former self, and now, what was meant to be salvation had become the harbinger of doom. 
@@ -594,7 +594,7 @@ With the world below forgotten, they discovered not just their friendship, but t
 },
 {
 title: "The Cyber Geishas",
-genre: "Science Fiction",
+genre: "Sci-Fi",
 synopsis: "In a fog-laden city where ancient traditions clash with futuristic technology, two cybernetic geishas uncover a sinister plot threatening their world.",
 url: "https://i.imgur.com/wqfDppr.jpeg",
 story: `Under the neon haze of a futuristic Kyoto, the streets pulsed with both life and danger. Yuki and Suki, cyber geishas adorned in intricate kimonos, captivated passersby with their blend of grace and technology. As they glided through the glistening streets, their mechanical limbs hummed softly beneath the layers of fabric, each step a perfect choreography of old and new.

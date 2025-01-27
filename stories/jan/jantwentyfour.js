@@ -235,7 +235,7 @@ In a land where once only echoes of thunder remained, a new legend would unfold,
 
 {
 title: "Harmonics of the Eternal",
-genre: "Science Fiction / Fantasy",
+genre: "Sci-Fi / Fantasy",
 synopsis: "In a realm where technology blends with the arcane, Azura, a radiant guardian, awakens to face a forgotten darkness threatening to engulf her world. As she harnesses the power of the celestial orbs, she must unite fractured tribes and uncover the truth of her own creation before time runs out.",
 url: "https://i.imgur.com/7ehWihU.jpeg",
 story: `
@@ -381,7 +381,7 @@ And in Neo-Tokyo, the dance of fate had only just begun.
 
 {
 title: "Skybound Dreams",
-genre: "Science Fiction",
+genre: "Sci-Fi",
 synopsis: "In a dystopian future where cities float among the clouds, a curious boy discovers a hidden message that leads him on a quest to unlock the mysteries of his airborne home. Alongside a group of unlikely allies, he must confront the oppressive forces aiming to keep their world regulated and stagnant.",
 url: "https://i.imgur.com/LNFlWCX.jpeg",
 story: `
@@ -450,7 +450,7 @@ But she knew very well the battle had just begun. With the city crumbling and a 
 },
 {
 title: "The Last Sentinel",
-genre: "Science Fiction / Dystopian",
+genre: "Sci-Fi / Dystopian",
 synopsis: "In a world where rising seas have swallowed cities and civilization teeters on the brink of collapse, one man stands as the last guardian of humanity's memory amidst an impending tsunami. As the wave looms, he must confront the choices of the past and his role in the future of a drowned world.",
 url: "https://i.imgur.com/6lmvEVf.jpeg",
 story: `
@@ -548,7 +548,7 @@ Ethan watched as the figure dissipated into the morning, realization dawning upo
 
 {
 title: "Mechanized Harmony",
-genre: "Science Fiction/Fantasy",
+genre: "Sci-Fi / Fantasy",
 synopsis: "In a distant future where Earth is a wasteland, a brave panda named Pixel dons a mech suit to explore the remnants of human civilization. As he uncovers the secrets of a forgotten technology, he finds himself in a moral conflict between saving his world and embracing the power that comes with it.",
 url: "https://i.imgur.com/Yrlwm2P.jpeg",
 story: `
