@@ -120,7 +120,7 @@ In Neo-Kyoto, the lines between machine and humanity blurred; together, they ste
 
 {
 title: "Neon Drift",
-genre: "Sci-Fi / Space Opera",
+genre: "Sci-Fi",
 synopsis: "In the neon-drenched expanse of the Andromeda sector, a skilled pilot races against time to retrieve a vital artifact from a derelict space station. As cosmic storms rage and old enemies loom, the line between ally and foe blurs, forcing her to confront both external threats and her own past.",
 url: "https://i.imgur.com/VHJwcw0.jpeg",
 story: `
@@ -1856,7 +1856,7 @@ And so, in the heart of despair, a flicker of hope was born, determined to break
 
 {
 title: "Robot Dreams",
-genre: "Family / Science Fiction",
+genre: "Family / Kids",
 synopsis: "In a near-future workshop, a young boy and his mother nurture a charming little robot designed for companionship. As they delve into the robot's programming, they discover it has the potential to dream, leading to unexpected adventures that bridge their imaginations and fears.",
 url: "https://i.imgur.com/8DQEufG.jpeg",
 story: `

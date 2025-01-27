@@ -122,7 +122,7 @@ With a heart full of uncertainty yet alight with exhilaration, Leo stepped forwa
 
 {
 title: "The Surprise Party",
-genre: "Family/Adventure",
+genre: "Famiily / Kids",
 synopsis: "When young Leo discovers that his family is planning a surprise birthday party for him, he decides to secretly help them out, believing he is the one organizing the event. Little does he know, the outcome may lead to unexpected surprises of its own.",
 url: "https://i.imgur.com/riFIdtF.jpeg",
 story: `
@@ -155,7 +155,7 @@ As the sun set, casting a golden hue over the festivities, Leo beamed. He knew t
 
 {
 title: "Pink Death",
-genre: "Cyberpunk / Dystopia",
+genre: "Cyberpunk / Dystopian",
 synopsis: "In a neon-lit metropolis where armor is both a fashion statement and a necessity for survival, a female enforcer known as 'Pink Death' navigates the treacherous underbelly of her city to uncover the truth behind her brother's disappearance. As she delves deeper, she finds not only the risks of betrayal but also the voice of a long-silenced rebellion.",
 url: "https://i.imgur.com/Isz6RYU.jpeg",
 story: `
@@ -476,7 +476,7 @@ And perhaps, just perhaps, from the wreckage of civilization, a new dawn would a
 
 {
 title: "The Dynamic Duo and the Cat Extraordinaire",
-genre: "Family",
+genre: "Family / Kids",
 synopsis: "When the quirky Brady family, known for their unique superpowers and a passion for impromptu heroics, faces their biggest challenge yet, they enlist the help of their hyper-intelligent cat, Whiskers. Together, they embark on a thrilling adventure filled with laughter, teamwork, and unexpected obstacles.",
 url: "https://i.imgur.com/3L1pkjE.jpeg",
 story: `

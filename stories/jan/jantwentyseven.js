@@ -1008,7 +1008,7 @@ As the dust settled, Anna collapsed beside Echo, panting and bruised but filled 
 
 {
 title: "Whispers of Light",
-genre: "Family / Fantasy",
+genre: "Family / Kids",
 synopsis: "In a cozy room filled with laughter and twinkling lights, a father and his four children discover the magical power of imagination through an enchanting game that brings their dreams to life. As they navigate the boundaries between fantasy and reality, they learn the true meaning of family, wonder, and the strength of their shared bond.",
 url: "https://i.imgur.com/xlyabYE.jpeg",
 story: `
