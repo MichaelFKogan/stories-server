@@ -838,7 +838,7 @@ From that night forward, Akira carried the weight of her transformation. Bound t
 
 {
 title: "Shadows of the Rising Sun",
-genre: "Action-Adventure",
+genre: "Action",
 synopsis: "In a world where ancient traditions clash with modern chaos, three young ninjas must unite against a powerful syndicate threatening their city. As their bond strengthens, they discover that their true strength lies not just in their skills, but in the loyalty and friendship they cultivate along the way.",
 url: "https://i.imgur.com/mzDkLo2.jpg",
 story: `
