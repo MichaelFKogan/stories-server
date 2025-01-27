@@ -1857,7 +1857,7 @@ And so, in the heart of despair, a flicker of hope was born, determined to break
 
 {
 title: "Robot Dreams",
-genre: "Science Fiction / Family",
+genre: "Family / Science Fiction",
 synopsis: "In a near-future workshop, a young boy and his mother nurture a charming little robot designed for companionship. As they delve into the robot's programming, they discover it has the potential to dream, leading to unexpected adventures that bridge their imaginations and fears.",
 url: "https://i.imgur.com/8DQEufG.jpeg",
 story: `
