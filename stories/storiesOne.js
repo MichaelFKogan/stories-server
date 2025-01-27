@@ -975,7 +975,7 @@ Jack stood alone in the downpour, bittersweet memories crashing down like the ra
 },
 {
 title: "The Skyward Elegance",
-genre: "Sci-Fi Fantasy",
+genre: "Sci-Fi / Fantasy",
 synopsis: "In a futuristic metropolis, Isolde, the leader of a rebellious movement, uses her role at an elite ball to ignite a revolution for the oppressed lower class, with the support of allies like Finn. Their powerful message sparks a movement, signaling the beginning of a storm that could reshape their divided world.",
 url: "https://i.imgur.com/LSx2lO0.jpeg",
 story: `
