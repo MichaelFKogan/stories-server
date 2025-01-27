@@ -1789,7 +1789,7 @@ And as the relic surged with energy, Lian knew only one path remained: triumph o
 
 {
 title: "Celestial King",
-genre: "Science Fiction Adventure",
+genre: "Sci-Fi / Adventure",
 synopsis: "In a future where space travel is a symbol of power and wealth, a notorious space pirate known as the Celestial King navigates the universe aboard his lavish ship, adorned with gold and technology. When an ancient artifact comes to light, he must decide whether to pursue ultimate riches or protect a lost civilization from his own greed.",
 url: "https://i.imgur.com/M8YIkpH.jpeg",
 story: `
