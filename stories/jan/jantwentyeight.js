@@ -364,7 +364,7 @@ The euphoria of the masquerade drowned beneath a tide of dread as Clara realized
 
 {
 title: "The Guardian of the Swamp",
-genre: "Sci-Fi / sFantasy",
+genre: "Sci-Fi / Fantasy",
 synopsis: "In a remote swamp where nature and technology collide, a team of scientists discovers a colossal, ancient guardian that has awakened from deep slumber. As they delve into its secrets, they must balance their pursuit of knowledge with the guardian's primal rage.",
 url: "https://i.imgur.com/9BNooWW.jpeg",
 story: `
