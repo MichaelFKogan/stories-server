@@ -1196,7 +1196,7 @@ In that moment, Z3R0 decided it would share these stories, creating its own narr
 
 {
 title: "Enchanted Whispers",
-genre: "Fantasy",
+genre: "Kids / Fantasy",
 synopsis: "In a world where the boundaries between reality and the magical blur, a young boy named Leo discovers a hidden realm within his backyard on his birthday. As whimsical spirit creatures emerge to celebrate with him, he learns the profound connection between joy, imagination, and the magic that lies within.",
 url: "https://i.imgur.com/AhXX78h.jpeg",
 story: `

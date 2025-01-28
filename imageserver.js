@@ -35,12 +35,10 @@ const removeMarkdown = (text) => {
 };
 
 const imageUrls = [
-"https://i.imgur.com/TwV8ukU.jpeg",
-"https://i.imgur.com/OHnVUnc.jpeg",
-"https://i.imgur.com/n3Fvba0.jpeg",
-"https://i.imgur.com/tHKI2Wf.jpeg",
-"https://i.imgur.com/CxVZ8jQ.jpeg",
-"https://i.imgur.com/v8bxRMV.jpeg",
+"",
+"",
+"",
+"",
 ];
 
 const sleep = (ms) => new Promise(resolve => setTimeout(resolve, ms));

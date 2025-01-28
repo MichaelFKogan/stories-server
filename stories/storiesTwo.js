@@ -1000,7 +1000,7 @@ Eli took a deep breath, feeling the warmth of human connection surrounding him, 
 },
 {
 title: "The Ember's Lament",
-genre: "Fantasy",
+genre: "Kids / Fantasy",
 synopsis: "In a lush, magical forest, a tiny elemental named Ember must gather the courage to restore light to her fading realm. Guided by her whispers of the ancients and alongside an unlikely companion, she embarks on a quest that will test her spirit and resilience.",
 url: "https://i.imgur.com/F5YsPk4.jpg",
 story: `

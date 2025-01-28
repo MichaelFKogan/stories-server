@@ -185,11 +185,37 @@ As Alex provided cover fire, Jack neared Dr. Cortes. Just as he managed to cut h
 `,
 },
 {
-title: "",
-genre: "",
-synopsis: "",
-url: "",
+title: "Sketches Of The Heart",
+genre: "Romance",
+synopsis: "In a bustling Parisian café, a reserved novelist and an exuberant street artist form an unlikely connection over a lost sketchbook, discovering love in the blending of their worlds.",
+url: "https://i.imgur.com/oJ1a2vX.png",
 story: `
+The sound of clinking cups and murmured conversations filled the quaint café tucked away on Rue Saint-Honoré. Isabelle, a novelist with a perpetual frown etched on her face, hunched over her laptop in her usual corner, lost in an unyielding battle with her manuscript. Her stories flowed, but the ending she sought evaded her like a mirage.
+
+Enter Leo, a street artist with streaks of paint smudged on his jeans and a grin that could charm a storm into submission. He tumbled into the café in search of his lost sketchbook, frantic and breathless. It was in this moment that their worlds collided—Isabelle glanced up just as the worn, leather-bound book slid across her table.
+
+“Excuse me,” Leo said, slightly winded. “That’s mine.”
+
+She lifted the book and arched an eyebrow. “Yours? Interesting. I was under the impression it had fallen from the sky.”
+
+His laughter filled the café, drawing curious glances. “You’re funny. I like that.”
+
+With a reluctant smile, she handed it back, but not before catching a glimpse of the vibrant sketches inside. Each page was a story, alive with color and emotion. Intrigued, she asked, “You drew these?”
+
+“Guilty,” Leo said, shrugging. “The city’s my muse.”
+
+Over the weeks, their encounters became routine. Leo’s spontaneous sketches of café patrons and Isabelle’s pointed critiques of his art slowly morphed into shared coffees and endless conversations. She found herself weaving his vibrant personality into her novel, and he began sketching her when he thought she wasn’t looking.
+
+One rainy evening, as the Eiffel Tower gleamed in the distance, Leo handed Isabelle a folded sketch. It was a portrait of her, pen in hand, with a radiance she barely recognized in herself.
+
+“This is how I see you,” he said, his voice soft. “Beautiful, fierce, and a little terrifying.”
+
+“I’m not terrifying,” she muttered, cheeks flushing.
+
+“Maybe not. But you are captivating.”
+
+In that moment, the novelist and the artist found their ending—not in the pages of a book or the strokes of a brush, but in the space between them, where words and colors intertwined seamlessly, creating a love story of their own.
+
 
 `
 },
@@ -381,11 +407,35 @@ In the aftermath, as the dust began to settle and silence returned to the Ashen 
 `,
 },
 {
-title: "",
-genre: "",
-synopsis: "",
-url: "",
+title: "Hidden Chords",
+genre: "Romance",
+synopsis: "A reserved music teacher and a mysterious pianist forge a bond over midnight piano duets in an empty concert hall, uncovering shared dreams and a love they never expected.",
+url: "https://i.imgur.com/krtkRpI.png",
 story: `
+The soft glow of moonlight seeped through the high windows of the town’s abandoned concert hall. Claire adjusted her glasses and ran her fingers over the ivory keys of the grand piano, their cool surface a familiar comfort. For years, she had spent her evenings teaching children scales and melodies, her passion for music buried beneath a strict routine.
+
+Tonight, however, was different. As she played the opening notes of Debussy’s "Clair de Lune," a shadow stirred in the back of the hall. Startled, Claire froze, her fingers hovering mid-air.
+
+“Don’t stop,” a deep voice echoed. A man stepped into the dim light, his dark curls unruly and his eyes shimmering with quiet intensity.
+
+“Who are you?” she demanded, her heart pounding.
+
+“Ethan,” he said, lifting his hands in mock surrender. “Just a pianist. I heard the music and couldn’t stay away.”
+
+Claire narrowed her eyes but gestured to the piano bench. “If you’re a pianist, prove it.”
+
+Ethan’s grin widened as he slid onto the bench beside her. He placed his hands on the keys and began to play, his notes weaving effortlessly into her unfinished melody. Their impromptu duet was raw yet harmonious, as though their souls communicated through the music.
+
+Night after night, they met in the empty hall, their shared passion turning into something deeper. Claire learned that Ethan was a composer, once destined for greatness but sidelined by self-doubt. He, in turn, uncovered Claire’s secret aspirations to perform, dreams she had shelved for the stability of teaching.
+
+One evening, as their duet reached its crescendo, Ethan turned to her. “There’s a concert next month at the community center. Perform with me.”
+
+Claire’s breath caught. “I can’t. It’s been years since I played for an audience.”
+
+“You can,” he said softly, taking her hand. “You’re more ready than you think.”
+
+With Ethan’s unwavering encouragement, Claire rediscovered her confidence. Together, they performed under the soft glow of stage lights, their music a testament to the bond they had formed. As the final note lingered in the air, the applause echoed in Claire’s chest, and she realized that, with Ethan by her side, she had found her voice—and her heart’s true harmony.
+
 
 `
 },
