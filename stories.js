@@ -5,6 +5,9 @@ const app = express();
 const port = process.env.PORT || 3000;
 
 // const top = require('./stories/top');
+
+const free = require('./stories/free');
+
 const storiesOne = require('./stories/storiesOne');
 const storiesThree = require('./stories/storiesThree');
 const storiesTwo = require('./stories/storiesTwo');
