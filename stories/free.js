@@ -1,4 +1,5 @@
 const free = [
+  
 {
 title: "Neon Shadows",
 genre: "Free / Cyberpunk / Thriller",
@@ -85,7 +86,10 @@ As she approached the warehouse, a chill crept down her spine. The building loom
 This was the nexus of human ambition and ethical decay, where memories could be rewritten and lives altered forever. She could already hear the laughter of those who would trade their humanity for power.
 
 Taking a deep breath, she emerged from her hiding spot, ready to embrace whatever fate awaited her. Armed with only her wits, a fading photograph, and the whisper of her partner guiding her, Lyra stepped toward the darkness—the rain mingling with her determination. The night had just begun, and she was ready to confront the shadows that threatened to swallow her whole.
-    `
-  }
+`
+},
 
-  module.exports = free;
+];
+
+
+module.exports = storiesOne;
