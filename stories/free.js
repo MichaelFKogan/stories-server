@@ -1,4 +1,4 @@
-const top = [
+const free = [
 {
 title: "Neon Shadows",
 genre: "Free / Cyberpunk / Thriller",

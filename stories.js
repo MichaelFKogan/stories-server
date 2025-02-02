@@ -20,6 +20,9 @@ const jantwentyeight = require('./stories/jan/jantwentyeight');
 
 const stories = [
   // ...top,
+
+  ...free,
+
   ...storiesTwo,
   ...storiesOne,
   ...storiesThree,
