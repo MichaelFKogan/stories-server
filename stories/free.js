@@ -4,7 +4,7 @@ const free = [
 title: "Neon Shadows",
 genre: "Free / Cyberpunk / Thriller",
 synopsis: "In a vibrant, neon-lit metropolis teeming with secrets, a skilled hacker named Kyra uncovers a conspiracy that threatens the balance of power. As she delves deeper into the darker alleyways of her city, she must navigate a web of cybernetic espionage, with her own fate hanging in the balance.",
-url: "https://i.imgur.com/rpGXXvi.jpg",
+url: "https://i.imgur.com/vBlT0pJ.gif",
 story: `
 The neon lights pulsed rhythmically, casting a kaleidoscope of colors across the rain-soaked pavement of Nexus City. Kyra adjusted the collar of her intricate hooded jacket, its fabric shimmering with embedded circuitry. Glancing over her shoulder, she caught a glimpse of shadowy figures slipping through the multihued fog. This was the underbelly of the city—the domain of whispers and hidden truths.
 
