@@ -1,5 +1,5 @@
 const free = [
-  
+
 {
 title: "Neon Shadows",
 genre: "Free / Cyberpunk / Thriller",
@@ -92,4 +92,4 @@ Taking a deep breath, she emerged from her hiding spot, ready to embrace whateve
 ];
 
 
-module.exports = storiesOne;
+module.exports = free;
