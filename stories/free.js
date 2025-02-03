@@ -5,7 +5,8 @@ title: "Neon Shadows",
 genre: "Free / Dystopian",
 synopsis: "In a world ravaged by environmental collapse and authoritarian rule, society is divided between the elites living in fortified cities and the marginalized in the wastelands outside. A group of rebels known as the 'Neon Shadows' rises against the oppressive regime, wielding advanced technology and street-smart tactics. Their quest is to dismantle the corrupt systems that control their lives, but as they delve deeper, they discover a shocking truth about their own origins and the real power behind the elite.",
 url: "https://runway-task-artifacts.s3.amazonaws.com/4e157206-fa9a-4d75-a2a9-7ee4b3f0cbcf.mp4",
-story: `
+story: ``,
+chapterOne: `
 ### Chapter 1 ###
 ### Chapter 1: The Flicker of Revolt
 
@@ -50,7 +51,8 @@ As they loaded what precious supplies they could into their makeshift transport,
 The hovercraft lifted into the air, tires rumbling on the slick surface as they disappeared into the unforgiving night, leaving the chaos behind but carrying the weight of their choices into the unknown.
 
 In the heart of the wasteland, beneath the oppressive grasp of a regime that thrived on fear, a rebellion had ignited—a flicker that, with enough breath and work, could blaze into an inferno. Kira tightened her grip on the controls, determination blooming within as they raced away. It was time to dismantle the darkness, one mission at a time.
-
+`
+chapterTwo: `
 ### Chapter 2 ###
 ### Chapter 2: The Echoes of the Past
 
@@ -102,6 +104,8 @@ But in the face of a darkened future, she grasped onto that memory and squeezed 
 
 As Jaxx returned, signaling the completion of the preparations outside, Kira set her jaw firm. They would take that warehouse, disrupt the regime’s grip, and in doing so, carve out a new history where shadows empowered, instead of enslaved. The fight was just beginning.
 
+`
+chapterThree: `
 ### Chapter 3 ###
 ### Chapter 3: Networks of Rebellion
 
@@ -165,6 +169,8 @@ But amidst the claustrophobic realization of their fractured alliances, one thou
 
 “Stay alert,” Kira said, steeling her resolve. “The stakes have never been higher. We cannot falter now. The Neon Shadows must rise.”
 
+`
+chapterFour: `
 ### Chapter 4 ###
 ### Chapter 4: The Heart of Darkness
 
@@ -224,6 +230,8 @@ Together, they fled the terminal, racing against time and their own burgeoning d
 
 In the haze of retreat, she caught one last glimpse of the terminal, the evidence of their creation on the screen, flickering like a neon shadow against the darkness, haunting yet liberating. As the sirens wailed above, she knew they had entered the heart of darkness—and it was within that very darkness that they would find their true selves.
 
+`
+chapterFive: `
 ### Chapter 5 ###
 ## Chapter 5: Rise of the Neon Shadows
 
