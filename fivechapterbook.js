@@ -12,7 +12,7 @@ const openai = new OpenAI({
 const outputFile = path.join(__dirname, "stories", "new.js");
 
 const imageUrls = [
-    "https://i.imgur.com/3rfQhGP.jpeg",
+    "https://i.imgur.com/JgElnIC.png",
     // Add more image URLs here
 ];
 
@@ -32,7 +32,7 @@ const generateOutline = async (imageUrl) => {
                 content: [
                     {
                         type: "text",
-                        text: `Analyze this image and create a detailed outline for a 5-chapter book. The outline should include:
+                        text: `Analyze this image and create a detailed outline for a 5-chapter book. The genre should be Dystopian. The outline should include:
                         - **Title**
                         - **Genre**
                         - **Synopsis**
