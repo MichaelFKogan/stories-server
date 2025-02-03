@@ -7,8 +7,7 @@ synopsis: "In a world ravaged by environmental collapse and authoritarian rule, 
 url: "https://runway-task-artifacts.s3.amazonaws.com/4e157206-fa9a-4d75-a2a9-7ee4b3f0cbcf.mp4",
 story: ``,
 chapterOne: `
-### Chapter 1 ###
-### Chapter 1: The Flicker of Revolt
+The Flicker of Revolt
 
 Kira crouched behind the jagged remnants of a rusted-out vehicle, the metallic scent of decay mingling with the acrid tang of burnt plastic. A gust of wind scattered remnants of refuse across the cracked pavement, sending what might have once been a colorful flyer dancing into the shadows. The dilapidated buildings loomed like ghostly sentinels above her, their windows dark and hollow, a stark reminder of the lives that had been choked out by the endless march of oppression. Kira’s heart raced—not with fear, but with purpose.
 
@@ -53,8 +52,7 @@ The hovercraft lifted into the air, tires rumbling on the slick surface as they 
 In the heart of the wasteland, beneath the oppressive grasp of a regime that thrived on fear, a rebellion had ignited—a flicker that, with enough breath and work, could blaze into an inferno. Kira tightened her grip on the controls, determination blooming within as they raced away. It was time to dismantle the darkness, one mission at a time.
 `,
 chapterTwo: `
-### Chapter 2 ###
-### Chapter 2: The Echoes of the Past
+The Echoes of the Past
 
 The air was cooler in the depths of their hideout, the heavy smell of rust and oil mingling with a faint sweetness of old wood varnish, the remnants of a time before the wasteland dominated everything outside. Kira sat cross-legged on the cold concrete floor, her face illuminated by the soft glow of an ancient lantern. Its flickering flame cast dancing shadows around the cramped room, shadows that seemed to reflect the various conflicts lodged in her heart.
 
@@ -106,8 +104,7 @@ As Jaxx returned, signaling the completion of the preparations outside, Kira set
 
 `,
 chapterThree: `
-### Chapter 3 ###
-### Chapter 3: Networks of Rebellion
+Networks of Rebellion
 
 The dim glow of the holographic interface lit up the cramped hideaway, casting an eerie blue light over the faces of the Neon Shadows. Maya’s fingers danced over the slick surface of her terminal, her brow furrowed in concentration. The delicate whirr of the tech surrounded them, the faint hum a soothing backdrop to the storm of anxiety brewing in Kira’s chest.
 
@@ -171,8 +168,7 @@ But amidst the claustrophobic realization of their fractured alliances, one thou
 
 `,
 chapterFour: `
-### Chapter 4 ###
-### Chapter 4: The Heart of Darkness
+The Heart of Darkness
 
 The sprawling expanse of the fortified city loomed ahead, its towers piercing the skies, cold and unyielding against the backdrop of a crimson sunset. Kira stood at the edge of the wasteland, her heart pounding in her chest as she surveyed the deceptively serene skyline glimmering with neon lights, a stark contrast to the chaotic life they had just left behind in the decaying outskirts. The city was a monument to a wealthy elite, a cruel epitaph for the world they had known before the regime tightened its grip.
 
@@ -232,8 +228,7 @@ In the haze of retreat, she caught one last glimpse of the terminal, the evidenc
 
 `,
 chapterFive: `
-### Chapter 5 ###
-## Chapter 5: Rise of the Neon Shadows
+Rise of the Neon Shadows
 
 The cold winds of the wasteland howled outside their worn-out hideout, an echo of the storm brewing within Kira’s heart. They had gathered in a dimly lit warehouse, the walls adorned with patches of graffiti proclaiming slogans of freedom and rebellion. Shadows danced sharply against the flickering lights overhead as the Neon Shadows prepared for what felt like the climax of a long, arduous journey. 
 
@@ -274,6 +269,9 @@ And in the stillness before their storm, Kira sensed it: the beginning of their 
 The Neon Shadows would rise.
 `,
 },
+
+
+
 {
 title: "Shadows in the Rain",
 genre: "Free / Cyberpunk / Noir",
