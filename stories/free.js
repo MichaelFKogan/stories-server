@@ -34,35 +34,10 @@ Together, they emerged from the depths of the shadows. Tonight was just the begi
 `
 },
 {
-title: "Popcorn Dreams",
-genre: "Family / Kids",
-synopsis: "In a small, snow-covered town, an endearing elderly couple finds themselves magically transported to their favorite movie world every time they share a bowl of popcorn. As they navigate whimsical adventures, they rediscover their love for each other and the joy of embracing life's cinematic moments.",
-url: "https://i.imgur.com/qMscW16.jpeg",
+title: "Shadows in the Rain",
+genre: "Free / Cyberpunk / Noir",
+url: "https://app.runwayml.com/creation/4bfd65d0-6246-43f4-87e6-754a13b3eee1",
 story: `
-In the serene town of Wintervale, snowflakes danced gracefully from the sky, blanketing the cobblestone streets in a soft white embrace. Among the twinkling lights and holiday cheer, Clara and Albert, a beloved elderly couple, prepared for their beloved weekly ritual. With their favorite red-striped popcorn buckets in hand, they nestled into their cozy living room, the fireplace crackling softly in the background.
-
-As the flickering flames illuminated the room, Clara adjusted her round glasses and smiled warmly at Albert. “Ready for our adventure?” she asked, her eyes shimmering with excitement. Albert chuckled, his white beard bobbing as he reached for the popcorn. “Always, my dear.”
-
-As they took their first handful, the room shimmered. The popcorn seemed to twinkle with a life of its own, and seconds later, the very air around them pulsed with magic. In an instant, they found themselves sitting in a lush green meadow, surrounded by rolling hills and vibrant flowers. Above them, the sky was a brilliant shade of blue, sprinkled with fluffy clouds.
-
-“Is this...?” Clara started, eyes wide with wonder. Albert grinned, “Our favorite movie world! Let’s explore!” 
-
-With each step, they strolled past fantastical creatures and enchanting landscapes. They danced with fairies under a rainbow, shared stories with talking animals, and even outpaced a friendly dragon who breathed out puffs of candy instead of fire. Laughter echoed through their escapades, each moment more delightful than the last.
-
-After what felt like hours of adventure, they returned to their beloved living room, the snow still swirling outside as if time had barely passed. With their fingers dusted in popcorn kernels, they gazed into each other’s eyes, hearts brimming with unspeakable joy.
-
-“Clara,” Albert said softly, “these popcorn dreams remind me that every moment together is a movie worth watching.”
-
-With her cheeks rosy and her heart full, Clara nodded. “Let’s make every week an adventure, Albert. No matter where we go or what we see, as long as we’re together, it will be magical.”
-
-As they snuggled back into their chairs, ready for another bowl of popcorn—and another adventure—the world outside swirled with winter's whimsy. They knew that as long as they had each other and their magical popcorn, life would always be a story worth telling.
-`,
-},
-  {
-    title: "Shadows in the Rain",
-    genre: "Free / Cyberpunk / Noir",
-    url: "https://i.imgur.com/ymYdONy.jpeg",
-    story: `
 In the heart of Neo-Arcadia, where neon lights flickered like dying stars amidst the perpetual rain, a woman named Lyra stood cloaked in darkness. The relentless downpour drummed against her black trench coat, creating a symphony of chaos that mirrored the turmoil within her.
 
 Lyra was a sleuth of the forgotten and the forsaken, navigating a world where shadows whispered secrets and the air buzzed with the hum of artificial life. Tonight, her focus was razor-sharp; in her gloved hands lay a photograph, its edges worn and stained with the fingerprints of desperation. It depicted an old warehouse, crumbling yet hauntingly beautiful, its steel skeleton jutting against the skyline like a fractured dream.
