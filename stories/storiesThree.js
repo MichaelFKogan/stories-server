@@ -449,7 +449,7 @@ From that day on, Kai visited the noodle shop, not just for the magical dumpling
 title: "Echoes of the Titan",
 genre: "Fantasy/Action",
 synopsis: "In a realm torn apart by monstrous titans, a lone warrior stands against despair, armed with ancient steel and indomitable will. As he confronts the behemoth responsible for his village's destruction, he must uncover the truth behind the titans while battling his own demons.",
-url: "https://i.imgur.com/1D38eki.jpeg",
+url: "https://runway-task-artifacts.s3.amazonaws.com/87d17dfe-48ad-427f-97a9-c7dad8363595.mp4",
 story: `
 The air crackled with tension, thick as the smoke that curled up from the dying embers of the village. The sky above was a tumultuous canvas of ash and fire, casting an eerie glow on the landscape. At the heart of this chaos stood Kael, a warrior clad in tattered leather and hardened resolve. His heartbeat synchronized with the pounding of the ground beneath him—a warning that something colossal approached.
 
