@@ -1,7 +1,7 @@
 const free = [
 
 {
-title: "Neon Shadows*",
+title: "Neon Shadows",
 genre: "Free / Dystopian",
 synopsis: "In a world ravaged by environmental collapse and authoritarian rule, society is divided between the elites living in fortified cities and the marginalized in the wastelands outside. A group of rebels known as the 'Neon Shadows' rises against the oppressive regime, wielding advanced technology and street-smart tactics. Their quest is to dismantle the corrupt systems that control their lives, but as they delve deeper, they discover a shocking truth about their own origins and the real power behind the elite.",
 url: "https://runway-task-artifacts.s3.amazonaws.com/4e157206-fa9a-4d75-a2a9-7ee4b3f0cbcf.mp4",
