@@ -36,7 +36,7 @@ Together, they emerged from the depths of the shadows. Tonight was just the begi
 {
 title: "Shadows in the Rain",
 genre: "Free / Cyberpunk / Noir",
-url: "https://dnznrvs05pmza.cloudfront.net/2fe62853-e62b-4a00-86f6-e9931f1d73d9.mp4?_jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJrZXlIYXNoIjoiZWVmN2Y5MTJmMjkxNTg0NCIsImJ1Y2tldCI6InJ1bndheS10YXNrLWFydGlmYWN0cyIsInN0YWdlIjoicHJvZCIsImV4cCI6MTczODcxMzYwMH0.y_EsLb-B0pPgz1DV24veO0Ee8EG2Vi__4UpSdb5Q8-4",
+url: "https://runway-task-artifacts.s3.amazonaws.com/17bf317b-a8a6-4d39-b885-73fa9a78d4b9.mp4",
 story: `
 In the heart of Neo-Arcadia, where neon lights flickered like dying stars amidst the perpetual rain, a woman named Lyra stood cloaked in darkness. The relentless downpour drummed against her black trench coat, creating a symphony of chaos that mirrored the turmoil within her.
 
