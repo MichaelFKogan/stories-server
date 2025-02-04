@@ -322,7 +322,7 @@ As Kai, Mira, and Rin resumed their training, sweat glistening on their brows, t
 And as they practiced their strikes and blocks, honing their skills against each other like blades against a whetstone, an electric tension crackled between them—a harbinger of the storm that lay ahead, whispering of danger, destiny, and the unbreakable bonds forged in the fires of adversity.
 
 `,
-chatperTwo: `
+chapterTwo: `
 Shadows in the Night
 
 The moon hung high over the sprawling neon-lit city, casting a silvery glow on the rooftops that intertwined with the delicate shades of twilight. Kai stood atop a cherry blossom tree, the soft rustle of petals whispering warnings in the night. He peered through the narrow streets below, pulse quickening at the sight of distant figures gathering beneath the flickering glow of streetlights. 
@@ -424,7 +424,7 @@ As they gathered their thoughts and prepared to leave the Hall of Ancestors, the
 With determination burning like a flame in their hearts, Kai, Mira, and Rin stepped back into the city’s vibrant streets, ready to uncover the truths of their heritage and uncover what it truly meant to be shadow warriors.
 
 `,
-chatperFour: `
+chapterFour: `
 Alliances Forged
 
 The neon lights of Shiro City pulsed with an electric energy as the sun dipped below the rooftops, casting long shadows that seemed to beckon and conceal at the same time. Kai, Mira, and Rin stood at the edge of an ancient shrine, the fragrant cherry blossoms around them contrasting with the ominous degree of tension that crackled in the air. Their recent encounter with the Yurei Clan weighed heavily on their shoulders, a constant reminder of their shortcomings and vulnerabilities. 
