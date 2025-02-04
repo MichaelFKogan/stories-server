@@ -296,6 +296,7 @@ storyDetails: `
 ### Setting Details
 The story is set in a sprawling, neon-lit city that mixes traditional Japanese elements with futuristic technology. Rooftops adorned with cherry blossom trees serve as battlegrounds, while ancient shrines stand as reminders of the city’s history. The socio-political landscape is tense, divided among powerful ninja clans, each with their unique abilities and secrets.
 
+
 ### Chapter Breakdown
 #### Chapter 1: The Gathering Storm
 - **Summary**: Kai, Mira, and Rin train at their dojo when they hear of an impending attack from a rival clan. Their mentor urges them to prepare for battle, but doubts linger about their abilities and trust in each other.
