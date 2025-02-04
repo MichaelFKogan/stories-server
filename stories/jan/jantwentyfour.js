@@ -956,7 +956,7 @@ And in that new dawn, hope ignited like a flame in the heart of winter.
 title: "Ember's Resolve",
 genre: "Fantasy/Action",
 synopsis: "In a world ravaged by an ancient fire-wielding sorcerer, a young warrior named Miko must confront her destiny. Armed with the power of her ancestors, she fights through the chaos of a burning village, challenging fate to restore peace and honor.",
-url: "https://runway-task-artifacts.s3.amazonaws.com/76b391f3-a8be-4ca9-bb4e-10b258c1425c.mp4",
+url: "https://i.imgur.com/I6nkgnM.jpeg",
 story: `
 The air crackled with heat as Miko stood amidst the chaos, her vibrant blue hair swirling like wildfire against the backdrop of flames. The village of Emberly had once been a bustling sanctuary, now reduced to a smoldering ruin. Billowing smoke enveloped her, but she saw nothing but the determination shimmering in her emerald eyes.
 
