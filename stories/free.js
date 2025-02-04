@@ -282,16 +282,16 @@ storyDetails: `
 Main Characters
 
 Kai
-   - Description: A determined young warrior with a fierce spirit and sharp instincts. He has short, curly hair and intense red eyes.
-   - Motivation: Driven by the desire to prove himself as a worthy leader and protect his friends.
+   Description: A determined young warrior with a fierce spirit and sharp instincts. He has short, curly hair and intense red eyes.
+   Motivation: Driven by the desire to prove himself as a worthy leader and protect his friends.
 
 Mira
-   - Description: The most skilled of the trio, Mira possesses exceptional agility and combat skills. She has long braided hair and an unwavering gaze.
-   - Motivation: Struggles with the pressure of living up to her clan’s expectations while seeking her own path.
+   Description: The most skilled of the trio, Mira possesses exceptional agility and combat skills. She has long braided hair and an unwavering gaze.
+   Motivation: Struggles with the pressure of living up to her clan’s expectations while seeking her own path.
 
 Rin
-   - Description: The strategist of the group, Rin has a calm demeanor and long hair. His intelligence is matched only by his supportive nature.
-   - Motivation: Desires to uncover the truth about his family's history and forge his identity apart from their legacy.
+   Description: The strategist of the group, Rin has a calm demeanor and long hair. His intelligence is matched only by his supportive nature.
+   Motivation: Desires to uncover the truth about his family's history and forge his identity apart from their legacy.
 
 
 Setting Details
@@ -302,28 +302,28 @@ The story is set in a sprawling, neon-lit city that mixes traditional Japanese e
 Chapter Breakdown
 
 Chapter 1: The Gathering Storm
-Summary: Kai, Mira, and Rin train at their dojo when they hear of an impending attack from a rival clan. Their mentor urges them to prepare for battle, but doubts linger about their abilities and trust in each other.
+Kai, Mira, and Rin train at their dojo when they hear of an impending attack from a rival clan. Their mentor urges them to prepare for battle, but doubts linger about their abilities and trust in each other.
 
 Chapter 2: Shadows in the Night
-Summary: The trio embarks on a mission to gather intelligence on the rival clan. They sneak into enemy territory and witness the dark rituals of their foes. A confrontation leads to a narrow escape but exposes the vulnerability of their alliance.
+The trio embarks on a mission to gather intelligence on the rival clan. They sneak into enemy territory and witness the dark rituals of their foes. A confrontation leads to a narrow escape but exposes the vulnerability of their alliance.
 
 Chapter 3: Unveiling the Past
-Summary: Discovering clues about the artifact—a legendary relic linked to their clans—they delve into the history of their own families. Mira grapples with her clan's secrets, and Rin uncovers hidden truths about his lineage.
+Discovering clues about the artifact—a legendary relic linked to their clans—they delve into the history of their own families. Mira grapples with her clan's secrets, and Rin uncovers hidden truths about his lineage.
 
 Chapter 4: Alliances Forged
-Summary: After suffering a significant defeat, the trio realizes they must form an alliance with a reclusive clan. They venture into the underbelly of the city, where they face tests of loyalty and skill, strengthening their bond.
+After suffering a significant defeat, the trio realizes they must form an alliance with a reclusive clan. They venture into the underbelly of the city, where they face tests of loyalty and skill, strengthening their bond.
 
 Chapter 5: The Final Confrontation
-Summary: Armed with new skills and knowledge, the trio leads a united front against the rival clan. They reclaim the artifact and confront the dark force threatening the peace of their city. Each character faces personal trials, with moments of sacrifice and resolution leading to a triumphant—but bittersweet—victory.
+Armed with new skills and knowledge, the trio leads a united front against the rival clan. They reclaim the artifact and confront the dark force threatening the peace of their city. Each character faces personal trials, with moments of sacrifice and resolution leading to a triumphant—but bittersweet—victory.
 
 
 Key Conflicts & Resolutions
 
-- Internal Conflict: Each character must confront their fears and insecurities about their capabilities and roles within the team. This is resolved as they learn to trust in one another’s strengths.
+Internal Conflict: Each character must confront their fears and insecurities about their capabilities and roles within the team. This is resolved as they learn to trust in one another’s strengths.
 
-- Inter-Clan Rivalry: The power struggle between clans represents a broader societal conflict. This is resolved by the trio's decision to unite factions for a common cause, fostering alliances instead of animosity.
+Inter-Clan Rivalry: The power struggle between clans represents a broader societal conflict. This is resolved by the trio's decision to unite factions for a common cause, fostering alliances instead of animosity.
 
-- Legacy and Identity: The characters struggle between the expectations of their clans and their personal desires. They resolve this by embracing their heritage while carving out their unique identities, ultimately discovering that their true strength lies in their friendship and shared values.
+Legacy and Identity: The characters struggle between the expectations of their clans and their personal desires. They resolve this by embracing their heritage while carving out their unique identities, ultimately discovering that their true strength lies in their friendship and shared values.
 
 `,
 chapterOne: `
