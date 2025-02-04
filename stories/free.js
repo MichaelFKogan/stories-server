@@ -11,7 +11,7 @@ storyDetails: `
 Main Characters
 
 Lena Carter
-Description:** A sharp-witted teenager with a fierce loyalty to her fire faction. She has curly hair and often wears glasses, reflecting her studious nature.
+Description: A sharp-witted teenager with a fierce loyalty to her fire faction. She has curly hair and often wears glasses, reflecting her studious nature.
 Motivation:** Driven by a desire to honor her late father, a hero from her faction, she embarks on a quest to uncover the truth about the artifact.
 
 Kieran Soto
@@ -25,8 +25,10 @@ Motivation: Ms. Harper wishes to restore peace between the factions and guide th
 
 Setting Details
 
-The world is divided into two starkly contrasting realms: 
+The world is divided into two starkly contrasting realms:
+
 The Lands of Ember: A vibrant, fiery landscape filled with volcanoes and bustling cities fueled by fire.
+
 The Glacial Territories: A serene, icy expanse with beautiful snow-covered peaks and glimmering frozen lakes.
 Each faction distrusts the other, with a long history of conflict shaping their interactions.
 
@@ -39,7 +41,7 @@ Summary: Lena uncovers an ancient artifact during a school field trip, igniting 
 Chapter 2: Fateful Alliance
 Summary: Kieran, wanting to secure the artifact before Lena, approaches her with an unexpected proposal for a temporary alliance. Together, they enlist the help of Ms. Harper, who reveals the artifact's true power.
 
-Chapter 3: **A Test of Trust**
+Chapter 3: A Test of Trust
 Summary: As Lena and Kieran grow closer, they face challenges that test their alliance. They experience a series of conflicts: skirmishes with faction members and betrayal by those they thought were allies.
 
 Chapter 4: Depths of Deception
