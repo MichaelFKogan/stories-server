@@ -69,7 +69,7 @@ const generateOutline = async (imageUrl) => {
     // console.log(`Generating outline for image: ${imageUrl}`);
 
     const response = await openai.chat.completions.create({
-        model: "gpt-4o-mini",
+        model: "gpt-4o",
         messages: [
             {
                 role: "user",
@@ -114,7 +114,7 @@ const generateChapter = async (outline, chapterNumber, previousChapterSummaries)
     }
 
     const response = await openai.chat.completions.create({
-        model: "gpt-4o-mini",
+        model: "gpt-4o",
         messages: [
             {
                 role: "user",
@@ -139,7 +139,7 @@ const summarizeChapter = async (chapterText, chapterNumber) => {
     console.log(`Summarizing Chapter ${chapterNumber}...`);
 
     const response = await openai.chat.completions.create({
-        model: "gpt-4o-mini",
+        model: "gpt-4o",
         messages: [
             {
                 role: "user",
