@@ -6,8 +6,8 @@ const port = process.env.PORT || 3000;
 
 // const top = require('./stories/top');
 
-// const free = require('./stories/free');
-const fivechapters = require('./stories/fivechapters');
+const free = require('./stories/free');
+// const fivechapters = require('./stories/fivechapters');
 
 
 const storiesOne = require('./stories/storiesOne');
@@ -23,8 +23,8 @@ const jantwentyeight = require('./stories/jan/jantwentyeight');
 const stories = [
   // ...top,
 
-  // ...free,
-  ...fivechapters,
+  ...free,
+  // ...fivechapters,
 
   ...storiesTwo,
   ...storiesOne,
