@@ -3,7 +3,7 @@ const free = [
 
 {
 title: "Echoes of the Abyss",
-genre: "Horror/Thriller",
+genre: "Horror / Thriller / Free",
 synopsis: "In a small, isolated town haunted by its dark past, a group of friends uncover a hidden truth that ties them to a series of gruesome events. As they delve deeper into a mysterious legend surrounding a long-abandoned house, they must confront not only external horrors but their own fears and secrets. With their lives at stake, they forge unexpected bonds and face the ultimate test of loyalty and courage.",
 url: "https://i.imgur.com/3rfQhGP.jpeg",
 story: ``,
