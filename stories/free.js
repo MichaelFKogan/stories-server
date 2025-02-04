@@ -4,6 +4,7 @@ const free = [
 title: "The Masquerade of Shadows",
 genre: "Fantasy / Thriller / Free",
 synopsis: "In the mystical city of Nocturnia, four unlikely allies must unite to thwart a dark sorceress’s plan to plunge the world into eternal night. As the forces of light and darkness collide, secrets unravel, and alliances are tested.", 
+url: "https://i.imgur.com/UBssNLo.jpeg",
 storyDetails: `
 Main Characters:
 - Elyra: A clever scholar with a knack for deciphering ancient texts, Elyra seeks knowledge and truth. Her motivation is to protect her city's legacy and discover her true origins.
