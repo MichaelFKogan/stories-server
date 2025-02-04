@@ -12,7 +12,7 @@ const openai = new OpenAI({
 const outputFile = path.join(__dirname, "stories", "new.js");
 
 const imageUrls = [
-    "https://i.imgur.com/YOoHfpn.jpeg",
+    "https://i.imgur.com/UBssNLo.jpeg",
     // Add more image URLs here
 ];
 
@@ -36,7 +36,7 @@ const generateBook = async (imageUrl) => {
 
         for (let i = 1; i <= 5; i++) {
             const chapterText = await generateChapter(outline, i, chapterSummaries);
-            finalBook += `\n### Chapter ${i} ###\n${chapterText}\n`;
+            finalBook += `\n${chapterText}\n`;
 
             // Summarize this chapter and store it for continuity
             const summary = await summarizeChapter(chapterText, i);
@@ -76,14 +76,23 @@ const generateOutline = async (imageUrl) => {
                 content: [
                     {
                         type: "text",
-                        text: `Analyze this image and create a detailed outline for a 5-chapter book. The outline should include:
-                        - **Title**
-                        - **Genre**
-                        - **Synopsis**
-                        - **Main characters (with descriptions & motivations)**
-                        - **Setting details**
-                        - **Chapter breakdown** (with a summary of what happens in each chapter)
-                        - **Key conflicts & resolutions**`,
+                        text: `
+                        Analyze this image from Midjourney with the purpose of creating a story, and create a detailed outline for a 5-chapter book. 
+                        The outline should include a title, genre, 1-2 sentance synopsis, and create a short story based around the image.
+                        Take into account the photo's background, the character, the character's activity, and other characters, when putting the story into context.
+                        Write the short story with the following structure. Ensure that each section is clearly labeled:
+
+                        title: "The title of the story.",
+                        genre: "The genre of the story (e.g., Fantasy, Sci-Fi, Horror).",
+                        synopsis: "A brief overview of the story, summarizing the main plot.".
+                        storyDeatils:"
+                            Main Characters: (with descriptions & motivations)
+                            Setting Details:
+
+                            Chapter Breakdown: (with a summary of what happens in each chapter)
+                            Key conflicts & Resolutions:
+                        "
+                        `,
                     },
                     { type: "image_url", image_url: { url: imageUrl } },
                 ],
@@ -105,7 +114,7 @@ const generateOutline = async (imageUrl) => {
  * Generate a full chapter while maintaining continuity.
  */
 const generateChapter = async (outline, chapterNumber, previousChapterSummaries) => {
-    console.log(`Generating Chapter ${chapterNumber}...`);
+    // console.log(`Generating Chapter ${chapterNumber}...`);
 
     let chapterPrompt = `Based on the following book outline, write Chapter ${chapterNumber} of the book:\n\n${outline}`;
 
