@@ -12,7 +12,7 @@ const openai = new OpenAI({
 const outputFile = path.join(__dirname, "stories", "new.js");
 
 const imageUrls = [
-    "https://i.imgur.com/JgElnIC.png",
+    "https://i.imgur.com/mzDkLo2.jpeg",
     // Add more image URLs here
 ];
 
@@ -32,7 +32,7 @@ const generateOutline = async (imageUrl) => {
                 content: [
                     {
                         type: "text",
-                        text: `Analyze this image and create a detailed outline for a 5-chapter book. The genre should be Dystopian. The outline should include:
+                        text: `Analyze this image and create a detailed outline for a 5-chapter book. The outline should include:
                         - **Title**
                         - **Genre**
                         - **Synopsis**
@@ -51,6 +51,11 @@ const generateOutline = async (imageUrl) => {
     console.log("Outline generated successfully!");
     return outline;
 };
+
+
+
+
+
 
 /**
  * Generate a full chapter while maintaining continuity.
@@ -77,6 +82,12 @@ const generateChapter = async (outline, chapterNumber, previousChapterSummaries)
     return response.choices[0].message.content.trim();
 };
 
+
+
+
+
+
+
 /**
  * Summarize a chapter to maintain continuity without exceeding token limits.
  */
@@ -100,11 +111,20 @@ const summarizeChapter = async (chapterText, chapterNumber) => {
     return response.choices[0].message.content.trim();
 };
 
+
+
+
+
+
+
+
 /**
  * Generate a full book (5 chapters) based on an image.
  */
 const generateBook = async (imageUrl) => {
     try {
+
+
         const outline = await generateOutline(imageUrl);
         const chapterSummaries = []; // Store previous chapter summaries
 
@@ -128,6 +148,14 @@ const generateBook = async (imageUrl) => {
         console.error("Error:", error);
     }
 };
+
+
+
+
+
+
+
+
 
 /**
  * Loop through all images and generate books.

@@ -836,41 +836,41 @@ From that night forward, Akira carried the weight of her transformation. Bound t
 `,
 },
 
-{
-title: "Shadows of the Rising Sun",
-genre: "Action",
-synopsis: "In a world where ancient traditions clash with modern chaos, three young ninjas must unite against a powerful syndicate threatening their city. As their bond strengthens, they discover that their true strength lies not just in their skills, but in the loyalty and friendship they cultivate along the way.",
-url: "https://runway-task-artifacts.s3.amazonaws.com/f70c31c6-41dd-4507-a4d1-6b9b16e29239.mp4",
-story: `
-The sun dipped low, casting an eerie crimson glow across the skyline of Kaida City. Our heroes, Kai, Aiko, and Kira, stood poised on a rooftop, the wind whispering through their black fabric outfits. Each bore fierce determination etched into their expressions—today was the day they would reclaim their streets.
+// {
+// title: "Shadows of the Rising Sun",
+// genre: "Action",
+// synopsis: "In a world where ancient traditions clash with modern chaos, three young ninjas must unite against a powerful syndicate threatening their city. As their bond strengthens, they discover that their true strength lies not just in their skills, but in the loyalty and friendship they cultivate along the way.",
+// url: "https://runway-task-artifacts.s3.amazonaws.com/f70c31c6-41dd-4507-a4d1-6b9b16e29239.mp4",
+// story: `
+// The sun dipped low, casting an eerie crimson glow across the skyline of Kaida City. Our heroes, Kai, Aiko, and Kira, stood poised on a rooftop, the wind whispering through their black fabric outfits. Each bore fierce determination etched into their expressions—today was the day they would reclaim their streets.
 
-Kai, the youngest of the trio, flicked his bright red sash. "We have to move quickly. The syndicate's lair is just beyond this district." His eyes glinted with excitement; the thought of facing their enemies made his heart race.
+// Kai, the youngest of the trio, flicked his bright red sash. "We have to move quickly. The syndicate's lair is just beyond this district." His eyes glinted with excitement; the thought of facing their enemies made his heart race.
 
-Aiko, the fierce strategist, nodded. Her braided hair whipped gently in the wind, and her sharp gaze surveyed the horizon. "Remember, we’re not just fighting for ourselves. We’re fighting for our home and everyone who can’t defend themselves." 
+// Aiko, the fierce strategist, nodded. Her braided hair whipped gently in the wind, and her sharp gaze surveyed the horizon. "Remember, we’re not just fighting for ourselves. We’re fighting for our home and everyone who can’t defend themselves." 
 
-Kira, the eldest and most skilled fighter, maintained her stoic demeanor but felt the weight of her companions’ trust on her shoulders. She glanced back at the crimson sky, recalling the tales of their ancestors—the ninjas who once protected their city with honor and valor. "Let’s show them the strength of our unity," she said. Her voice was calm but carried an unmistakable edge.
+// Kira, the eldest and most skilled fighter, maintained her stoic demeanor but felt the weight of her companions’ trust on her shoulders. She glanced back at the crimson sky, recalling the tales of their ancestors—the ninjas who once protected their city with honor and valor. "Let’s show them the strength of our unity," she said. Her voice was calm but carried an unmistakable edge.
 
-As the trio leapt from rooftop to rooftop, the cityscape blurred beneath them—a dizzying mix of shadows and vibrant neon lights. Their mission was simple: infiltrate the syndicate and dismantle its operations from the inside. Each landing was a calculated move, every shadow a potential ally or foe.
+// As the trio leapt from rooftop to rooftop, the cityscape blurred beneath them—a dizzying mix of shadows and vibrant neon lights. Their mission was simple: infiltrate the syndicate and dismantle its operations from the inside. Each landing was a calculated move, every shadow a potential ally or foe.
 
-Upon reaching the hideout, they crouched behind a ledge, listening intently. The room inside was thick with tension, gruff voices plotting their next move. It was time to act.
+// Upon reaching the hideout, they crouched behind a ledge, listening intently. The room inside was thick with tension, gruff voices plotting their next move. It was time to act.
 
-Like whispers of smoke, they slipped inside, moving silently through the dimly lit corridors. Aiko led the way, her heart pounding to the rhythm of her racing thoughts. "We need to find the main control room. That’s where they’re coordinating their operations."
+// Like whispers of smoke, they slipped inside, moving silently through the dimly lit corridors. Aiko led the way, her heart pounding to the rhythm of her racing thoughts. "We need to find the main control room. That’s where they’re coordinating their operations."
 
-Suddenly, Kai spotted figures ahead, armed and dangerous. His instincts kicked in as he brandished his katana, ready to leap into action. “Let me take the lead!” he whispered, adrenaline racing through him.
+// Suddenly, Kai spotted figures ahead, armed and dangerous. His instincts kicked in as he brandished his katana, ready to leap into action. “Let me take the lead!” he whispered, adrenaline racing through him.
 
-“Not yet,” Kira cautioned, her eyes narrowing. “Patience is key.”
+// “Not yet,” Kira cautioned, her eyes narrowing. “Patience is key.”
 
-They moved closer, eavesdropping. The syndicate was planning to flood the streets with chaos—an attack scheduled for the very district they called home. Fear gripped Kai, but Aiko's hand on his shoulder steadied him. “We’re stronger together. We have to disrupt this.”
+// They moved closer, eavesdropping. The syndicate was planning to flood the streets with chaos—an attack scheduled for the very district they called home. Fear gripped Kai, but Aiko's hand on his shoulder steadied him. “We’re stronger together. We have to disrupt this.”
 
-In a split second, the three ninjas burst into action, a whirlwind of swift kicks and slashing blades. Their training kicked in as they worked like a synchronized unit, each move designed to protect one another. They fought not just to defeat their opponents, but to defend their city.
+// In a split second, the three ninjas burst into action, a whirlwind of swift kicks and slashing blades. Their training kicked in as they worked like a synchronized unit, each move designed to protect one another. They fought not just to defeat their opponents, but to defend their city.
 
-As the last enemy fell, silence enveloped the room. Breathing heavily, they exchanged glances of relief, the glow of the setting sun illuminating their faces. Their bond had never felt stronger. 
+// As the last enemy fell, silence enveloped the room. Breathing heavily, they exchanged glances of relief, the glow of the setting sun illuminating their faces. Their bond had never felt stronger. 
 
-With the syndicate's plans thwarted, they emerged into the night, the streets basking in the afterglow of freedom. As they stood on the rooftop once more, viewing their city, the sun dipped below the horizon, leaving behind a promise of a new dawn.
+// With the syndicate's plans thwarted, they emerged into the night, the streets basking in the afterglow of freedom. As they stood on the rooftop once more, viewing their city, the sun dipped below the horizon, leaving behind a promise of a new dawn.
 
-Together, they had faced the shadows and stepped boldly into the light.
-`,
-},
+// Together, they had faced the shadows and stepped boldly into the light.
+// `,
+// },
 
 {
 title: "Neon Dreams",
