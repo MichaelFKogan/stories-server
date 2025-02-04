@@ -278,6 +278,7 @@ genre: "Free / Young Adult",
 synopsis: "In a world where ancient ninja clans vie for power amidst the shadows, three young warriors must confront their destinies as they uncover hidden truths about their heritage. Bound by friendship and rivalries, they navigate the challenges of loyalty, betrayal, and the burden of inherited legacies. Together, they must thwart a malevolent force threatening their city and unravel the enigma of an artifact capable of tipping the balance of power forever.",
 url: "https://runway-task-artifacts.s3.amazonaws.com/f70c31c6-41dd-4507-a4d1-6b9b16e29239.mp4",
 story: ``,
+storyDetails: ``,
 chapterOne: `
 The Gathering Storm
 
