@@ -12,17 +12,61 @@ const openai = new OpenAI({
 const outputFile = path.join(__dirname, "stories", "new.js");
 
 const imageUrls = [
-    "https://i.imgur.com/mzDkLo2.jpeg",
+    "https://i.imgur.com/YOoHfpn.jpeg",
     // Add more image URLs here
 ];
 
 const sleep = (ms) => new Promise(resolve => setTimeout(resolve, ms));
 
+
+
+
+
+/**
+ * Generate a full book (5 chapters) based on an image.
+ */
+const generateBook = async (imageUrl) => {
+    try {
+
+
+        const outline = await generateOutline(imageUrl);
+        const chapterSummaries = []; // Store previous chapter summaries
+
+        let finalBook = `\nImage: ${imageUrl}\n\nOutline:\n${outline}\n\n`;
+
+        for (let i = 1; i <= 5; i++) {
+            const chapterText = await generateChapter(outline, i, chapterSummaries);
+            finalBook += `\n### Chapter ${i} ###\n${chapterText}\n`;
+
+            // Summarize this chapter and store it for continuity
+            const summary = await summarizeChapter(chapterText, i);
+            chapterSummaries.push(`Chapter ${i} Summary: ${summary}`);
+
+            await sleep(2000); // Prevent API rate limiting
+        }
+
+        fs.appendFileSync(outputFile, finalBook + "\n\n", "utf8");
+
+        console.log(`Book for ${imageUrl} saved successfully!`);
+    } catch (error) {
+        console.error("Error:", error);
+    }
+};
+
+
+
+
+
+
+
+
+
+
 /**
  * Generate a detailed book outline from an image.
  */
 const generateOutline = async (imageUrl) => {
-    console.log(`Generating outline for image: ${imageUrl}`);
+    // console.log(`Generating outline for image: ${imageUrl}`);
 
     const response = await openai.chat.completions.create({
         model: "gpt-4o-mini",
@@ -110,48 +154,6 @@ const summarizeChapter = async (chapterText, chapterNumber) => {
 
     return response.choices[0].message.content.trim();
 };
-
-
-
-
-
-
-
-
-/**
- * Generate a full book (5 chapters) based on an image.
- */
-const generateBook = async (imageUrl) => {
-    try {
-
-
-        const outline = await generateOutline(imageUrl);
-        const chapterSummaries = []; // Store previous chapter summaries
-
-        let finalBook = `\nImage: ${imageUrl}\n\nOutline:\n${outline}\n\n`;
-
-        for (let i = 1; i <= 5; i++) {
-            const chapterText = await generateChapter(outline, i, chapterSummaries);
-            finalBook += `\n### Chapter ${i} ###\n${chapterText}\n`;
-
-            // Summarize this chapter and store it for continuity
-            const summary = await summarizeChapter(chapterText, i);
-            chapterSummaries.push(`Chapter ${i} Summary: ${summary}`);
-
-            await sleep(2000); // Prevent API rate limiting
-        }
-
-        fs.appendFileSync(outputFile, finalBook + "\n\n", "utf8");
-
-        console.log(`Book for ${imageUrl} saved successfully!`);
-    } catch (error) {
-        console.error("Error:", error);
-    }
-};
-
-
-
-
 
 
 
