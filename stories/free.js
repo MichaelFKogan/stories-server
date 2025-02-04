@@ -2,7 +2,7 @@ const free = [
 
 {
 title: "Neon Shadows",
-genre: "Free / Dystopian",
+genre: "Dystopian / Free",
 synopsis: "In a world ravaged by environmental collapse and authoritarian rule, society is divided between the elites living in fortified cities and the marginalized in the wastelands outside. A group of rebels known as the 'Neon Shadows' rises against the oppressive regime, wielding advanced technology and street-smart tactics. Their quest is to dismantle the corrupt systems that control their lives, but as they delve deeper, they discover a shocking truth about their own origins and the real power behind the elite.",
 url: "https://i.imgur.com/JgElnIC.png",
 story: ``,
@@ -274,7 +274,7 @@ The Neon Shadows would rise.
 
 {
 title: "Shadow Warriors",
-genre: "Free / Young Adult",
+genre: "Young Adult / Free",
 synopsis: "In a world where ancient ninja clans vie for power amidst the shadows, three young warriors must confront their destinies as they uncover hidden truths about their heritage. Bound by friendship and rivalries, they navigate the challenges of loyalty, betrayal, and the burden of inherited legacies. Together, they must thwart a malevolent force threatening their city and unravel the enigma of an artifact capable of tipping the balance of power forever.",
 url: "https://i.imgur.com/mzDkLo2.jpeg",
 story: ``,
